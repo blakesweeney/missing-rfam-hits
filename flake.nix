@@ -29,23 +29,9 @@
           ];
         };
         python-env = pkgs.poetry2nix.mkPoetryEnv {
-        projectDir = ./.;
-        python = pkgs.python39;
-        /* overrides = with pkgs; [ */
-        /*   poetry2nix.defaultPoetryOverrides */
-        /*      (self: super: { */
-        /*        click-aliases = super.click-aliases.overrideAttrs(old: { */
-        /*          buildInputs = old.buildInputs ++ [ self.setuptools ]; */
-        /*        }); */
-        /*        obonet = super.obonet.overrideAttrs(old: { */
-        /*          buildInputs = old.buildInputs ++ [ self.setuptools ]; */
-        /*        }); */
-        /*        pypika = super.pypika.overrideAttrs(old: { */
-        /*          buildInputs = old.buildInputs ++ [ self.setuptools ]; */
-        /*        }); */
-        /*      }) */
-        /* ]; */
-  };
+          projectDir = ./.;
+          python = pkgs.python39;
+        };
       in
       {
         devShell = pkgs.devshell.mkShell {
@@ -53,12 +39,14 @@
           motd = "";
 
           packages = with pkgs; [
-            infernal
+            jdk11
             easel
+            infernal
             nextflow
             nodePackages.pyright
             poetry
             python-env
+            wget
           ];
         };
       }

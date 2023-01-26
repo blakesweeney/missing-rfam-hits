@@ -1,0 +1,63 @@
+process get_dates {
+  publishDir 'results', mode: 'copy'
+
+  input:
+  path(missing)
+
+  output:
+  path('dates.csv')
+
+  """
+  fetch_dates.py $missing dates.csv
+  """
+}
+
+process lookup_sequences {
+  input:
+  path(missing)
+
+  output:
+  path('sequences.fa')
+
+  """
+  fetch_sequences.py $missing sequences.fa
+  """
+}
+
+process fetch_rfam_cm {
+  output:
+  path('Rfam.cm')
+
+  """
+  wget 'https://ftp.ebi.ac.uk/pub/databases/Rfam/14.9/Rfam.cm.gz'
+  gzip -d Rfam.cm.gz
+  """
+}
+
+process scan_sequences {
+  publishDir 'results', mode: 'copy'
+
+  input:
+  tuple path(sequences), path(rfam)
+
+  output:
+  path('hits.txt')
+
+  """
+  cmpress $rfam
+  cmscan -o output --tblout hits.txt --toponly $rfam $sequences
+  """
+}
+
+workflow {
+  Channel.fromPath('data/missing.txt') | set { missing }
+
+  fetch_rfam_cm | set { cm }
+
+  missing | get_dates
+
+  missing \
+  | lookup_sequences \
+  | combine(cm) \
+  | scan_sequences
+}
