@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
-
 import csv
-import sys
 
 import click
 import requests
@@ -16,14 +14,15 @@ def fetch_sequences(handle):
         response.raise_for_status()
         data = response.json()
         raw_date = data[pdb_id][0]['deposition_date']
-        yield (f"{pdb_id}_{chain_id}", raw_date)
+        yield { 'structure': f"{pdb_id}_{chain_id}", 'date': raw_date }
 
 
 @click.command()
 @click.argument('missing', default='-', type=click.File('r'))
 @click.argument('output', default='-', type=click.File('w'))
 def main(missing, output):
-    writer = csv.writer(output, delimiter=',')
+    writer = csv.DictWriter(output, fieldnames=['structure', 'date'], delimiter=',')
+    writer.writeheader()
     writer.writerows(fetch_sequences(missing))
 
 

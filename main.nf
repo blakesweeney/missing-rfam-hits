@@ -49,12 +49,26 @@ process scan_sequences {
   """
 }
 
+process plot_dates {
+  publishDir 'results', mode: 'copy'
+
+  input:
+  path(dates)
+
+  output:
+  path('publication-dates.png')
+
+  """
+  plotDates.R $dates publication-dates.png
+  """
+}
+
 workflow {
   Channel.fromPath('data/missing.txt') | set { missing }
 
   fetch_rfam_cm | set { cm }
 
-  missing | get_dates
+  missing | get_dates | plot_dates
 
   missing \
   | lookup_sequences \

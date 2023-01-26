@@ -32,6 +32,11 @@
           projectDir = ./.;
           python = pkgs.python39;
         };
+        rEnv = pkgs.rWrapper.override {
+          packages = with pkgs.rPackages; [
+            tidyverse
+          ];
+        };
       in
       {
         devShell = pkgs.devshell.mkShell {
@@ -46,6 +51,7 @@
             nodePackages.pyright
             poetry
             python-env
+            rEnv
             wget
           ];
         };
