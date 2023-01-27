@@ -15,6 +15,7 @@ BIT_SCORE_IDX = 14
 @dataclass
 class Info:
     structure: str
+    chain_organism: str
     chain_title: str
     suggested_name: str
     bit_score: float
@@ -31,6 +32,7 @@ def fetch_info(id: str):
         if chain_id in entity['in_chains']:
             return {
                 'chain_title': ';'.join(entity['molecule_name']),
+                'chain_organism': ';' .join(s['organism_scientific_name'] or '' for s in entity['source']),
             }
     raise ValueError(f"Did not find data for {id}")
 
@@ -52,6 +54,7 @@ def build_sheet(handle) -> ty.Iterator[Info]:
         structure_info = fetch_info(structure)
         yield Info(
             structure=structure,
+            chain_organism=structure_info['chain_organism'],
             chain_title=structure_info['chain_title'],
             suggested_name=best_hit[0],
             bit_score=float(best_hit[BIT_SCORE_IDX]),
