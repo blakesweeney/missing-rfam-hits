@@ -15,6 +15,7 @@ BIT_SCORE_IDX = 14
 @dataclass
 class Info:
     structure: str
+    structure_title: str
     chain_organism: str
     chain_title: str
     suggested_name: str
@@ -23,14 +24,24 @@ class Info:
     suggested_accession: str
 
 
+def get_summary(pdb_id: str):
+    response = requests.get(f"https://www.ebi.ac.uk/pdbe/api/pdb/entry/summary/{pdb_id}")
+    response.raise_for_status()
+    data = response.json()
+    return data[pdb_id][0]
+
+
+
 def fetch_info(id: str):
     pdb_id, chain_id = id.split('_')
     response = requests.get(f"https://www.ebi.ac.uk/pdbe/api/pdb/entry/molecules/{pdb_id}")
     response.raise_for_status()
     data = response.json()
+    summary = get_summary(pdb_id)
     for entity in data[pdb_id]:
         if chain_id in entity['in_chains']:
             return {
+                'structure_title': summary['title'],
                 'chain_title': ';'.join(entity['molecule_name']),
                 'chain_organism': ';' .join(s['organism_scientific_name'] or '' for s in entity['source']),
             }
@@ -54,6 +65,7 @@ def build_sheet(handle) -> ty.Iterator[Info]:
         structure_info = fetch_info(structure)
         yield Info(
             structure=structure,
+            structure_title=structure_info['structure_title'],
             chain_organism=structure_info['chain_organism'],
             chain_title=structure_info['chain_title'],
             suggested_name=best_hit[0],
