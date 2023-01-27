@@ -5,8 +5,6 @@ import csv
 import click
 import requests
 
-from Bio import SeqIO
-
 
 def fetch_sequences(handle):
     for (pdb_id, chain_id) in csv.reader(handle, delimiter='\t'):
@@ -14,7 +12,10 @@ def fetch_sequences(handle):
         response.raise_for_status()
         data = response.json()
         raw_date = data[pdb_id][0]['deposition_date']
-        yield { 'structure': f"{pdb_id}_{chain_id}", 'date': raw_date }
+        yield {
+            'structure': f"{pdb_id}_{chain_id}", 
+            'date': raw_date,
+        }
 
 
 @click.command()

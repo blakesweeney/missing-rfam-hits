@@ -12,12 +12,7 @@ from Bio import SeqIO
 
 
 def fetch_sequences(handle):
-    # pdb_ids = []
-    # requested = coll.defaultdict(list)
     for (pdb_id, chain_id) in csv.reader(handle, delimiter='\t'):
-        # pdb_ids.append(pdb_id)
-        # requested[pdb_id].append(chain_id)
-
         response = requests.get(f"https://www.ebi.ac.uk/pdbe/entry/pdb/{pdb_id}/fasta")
         response.raise_for_status()
         handle = StringIO(response.text)
