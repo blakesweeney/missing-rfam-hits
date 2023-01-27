@@ -63,6 +63,20 @@ process plot_dates {
   """
 }
 
+process build_spreadsheet {
+  publishDir 'results', mode: 'copy'
+
+  input:
+  path(hits)
+
+  output:
+  path('sheet.csv')
+
+  """
+  build_spreadsheet.py $hits sheet.csv
+  """
+}
+
 workflow {
   Channel.fromPath('data/missing.txt') | set { missing }
 
@@ -73,5 +87,6 @@ workflow {
   missing \
   | lookup_sequences \
   | combine(cm) \
-  | scan_sequences
+  | scan_sequences \
+  | build_spreadsheet
 }
