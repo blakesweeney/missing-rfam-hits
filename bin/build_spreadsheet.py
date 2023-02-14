@@ -2,6 +2,7 @@
 
 import csv
 from dataclasses import dataclass, asdict, fields
+import json
 import itertools as it
 import operator as op
 import re
@@ -16,10 +17,13 @@ BIT_SCORE_IDX = 14
 class Info:
     structure: str
     structure_title: str
+    chain_length: int
     chain_organism: str
     chain_title: str
     suggested_name: str
+    model_length: int
     bit_score: float
+    cutoff_score: float
     e_value: float
     suggested_accession: str
 
@@ -44,6 +48,7 @@ def fetch_info(id: str):
                 'structure_title': summary['title'],
                 'chain_title': ';'.join(entity['molecule_name']),
                 'chain_organism': ';' .join(s['organism_scientific_name'] or '' for s in entity['source']),
+                'chain_length': len(entity['sequence']),
             }
     raise ValueError(f"Did not find data for {id}")
 
@@ -58,7 +63,7 @@ def parse_hits(handle):
         yield parts
 
 
-def build_sheet(handle) -> ty.Iterator[Info]:
+def build_sheet(models, handle) -> ty.Iterator[Info]:
     grouped = it.groupby(parse_hits(handle), op.itemgetter(2))
     for (structure, hits) in grouped:
         best_hit = max(hits, key=op.itemgetter(BIT_SCORE_IDX))
@@ -68,8 +73,11 @@ def build_sheet(handle) -> ty.Iterator[Info]:
             structure_title=structure_info['structure_title'],
             chain_organism=structure_info['chain_organism'],
             chain_title=structure_info['chain_title'],
+            chain_length=structure_info['chain_length'],
             suggested_name=best_hit[0],
+            model_length=models[best_hit[1]]['clen'],
             bit_score=float(best_hit[BIT_SCORE_IDX]),
+            cutoff_score=models[best_hit[1]]['bit-score'],
             e_value=float(best_hit[BIT_SCORE_IDX + 1]),
             suggested_accession=best_hit[1],
         )
@@ -77,12 +85,15 @@ def build_sheet(handle) -> ty.Iterator[Info]:
 
 @click.command()
 @click.argument('hits', default='-', type=click.File('r'))
+@click.argument('model-info', type=click.File('r'))
 @click.argument('output', default='-', type=click.File('w'))
-def main(hits, output):
+def main(hits, model_info, output):
+    models = json.load(model_info)
+    sheet = build_sheet(models, hits)
     fieldnames = [field.name for field in fields(Info)]
     writer = csv.DictWriter(output, fieldnames=fieldnames, delimiter=',')
     writer.writeheader()
-    writer.writerows(asdict(d) for d in build_sheet(hits))
+    writer.writerows(asdict(d) for d in sheet)
 
 
 if __name__ == '__main__':

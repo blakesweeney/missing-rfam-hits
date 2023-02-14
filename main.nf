@@ -34,6 +34,30 @@ process fetch_rfam_cm {
   """
 }
 
+process get_model_info {
+  input:
+  path(rfam)
+
+  output:
+  path('model-info.json')
+
+  """
+  cmstat $rfam \
+  | sed 's/^# idx/idx/' \
+  | grep -v '^#' \
+  | perl -pne 's/^\\s+//g' \
+  | tr -s ' ' ',' > models.txt
+
+  cmstat --cut_ga Rfam.cm \
+  | sed 's/^# idx/idx/' \
+  | grep -v '^#' \
+  | perl -pne 's/^\\s+//g' \
+  | tr -s ' ' ',' > cut-ga.txt
+
+  model_info.py models.txt cut-ga.txt model-info.json
+  """
+}
+
 process scan_sequences {
   publishDir 'results', mode: 'copy'
 
@@ -67,13 +91,13 @@ process build_spreadsheet {
   publishDir 'results', mode: 'copy'
 
   input:
-  path(hits)
+  tuple path(hits), path(models)
 
   output:
   path('sheet.csv')
 
   """
-  build_spreadsheet.py $hits sheet.csv
+  build_spreadsheet.py $hits $models sheet.csv
   """
 }
 
@@ -84,9 +108,12 @@ workflow {
 
   missing | get_dates | plot_dates
 
+  cm | get_model_info | set { models }
+
   missing \
   | lookup_sequences \
   | combine(cm) \
   | scan_sequences \
+  | combine(models) \
   | build_spreadsheet
 }

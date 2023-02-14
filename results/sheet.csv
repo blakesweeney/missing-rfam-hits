@@ -1,536 +1,536 @@
-structure,structure_title,chain_organism,chain_title,suggested_name,bit_score,e_value,suggested_accession
-4o26_E,Crystal structure of the TRBD domain of TERT and the CR4/5 of TR,Oryzias latipes,Telomerase TR,Telomerase-vert,25.0,1.4e-05,RF00024
-6s8b_V,"Cryo-EM structure of the Type III-B Cmr-beta bound to cognate target RNA and AMPPnP, state 1",,crRNA,CRISPR-DR4,11.0,3.4,RF01317
-4zc7_A,Paromomycin bound to a leishmanial ribosomal A-site,synthetic construct,RNA duplex,naRNA4,25.1,0.0019,RF02564
-2agn_C,Fitting of hepatitis C virus internal ribosome entry site domains into the 15 A Cryo-EM map of a HCV IRES-80S ribosome (H. sapiens) complex,synthetic construct,HCV IRES DOMAIN II,IRES_HCV,32.3,3.8e-08,RF00061
-5b2p_B,Crystal structure of Francisella novicida Cas9 in complex with sgRNA and target DNA (TGA PAM),synthetic construct,Guide RNA,FtrA,44.1,2.9e-06,RF02747
-2noq_B,Structure of ribosome-bound cricket paralysis virus IRES RNA,,18S Ribosomal RNA,SSU_rRNA_bacteria,42.1,3.1e-12,RF00177
-6zj3_LD,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,,LSU rRNA chain 3,mir-1276,11.1,8.0,RF03453
-2m57_A,NMR solution structure of domain 5 from Azotobacter vinelandii Intron 5 at pH 7.8,Azotobacter vinelandii,RNA_(35-MER),Intron_gpII,16.6,0.029,RF00029
-4lck_F,Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA,Oceanobacillus iheyensis,T-BOX RIBOSWITCH STEM I,T-box,30.5,4.1e-06,RF00230
-1zc5_A,Structure of the RNA signal essential for translational frameshifting in HIV-1,,HIV-1 frameshift RNA signal,HIV_FE,40.8,9.1e-06,RF00480
-7cxm_J,Architecture of a SARS-CoV-2 mini replication and transcription complex,,RNA (26-MER),L25-Gammaproteobacteria,17.8,0.026,RF03131
-7kub_A,Au1 Domain of VEGF Readthrough Element,Bos taurus,RNA (60-MER),L31-Firmicutes,17.2,0.048,RF03156
-6z9t_R,Transcription termination intermediate complex 5,,rut RNA,algC,10.4,7.4,RF02929
-2jyf_A,Tetraloop-receptor RNA complex,,RNA (43-MER),ncr1015,16.3,0.66,RF02449
-6c63_A,Crystal Structure of the Mango-II Fluorescent Aptamer Bound to TO1-Biotin,synthetic construct,RNA (36-MER),cow-rumen-4,9.8,6.7,RF02948
-2vpl_B,The structure of the complex between the first domain of L1 protein from Thermus thermophilus and mRNA from Methanococcus jannaschii,Methanocaldococcus jannaschii,FRAGMENT OF MRNA FOR L1-OPERON CONTAINING REGULATOR L1-BINDING SITE,drz-agam-1,8.8,5.5,RF01787
-5b2t_A,Crystal structure of the Streptococcus pyogenes Cas9 VRER variant in complex with sgRNA and target DNA (TGCG PAM),Streptococcus pyogenes,Guide RNA,tracrRNA,45.6,2.5e-07,RF02348
-7qqx_A,SpCas9 bound to FANCF off-target5 DNA substrate,synthetic construct,FANCF sgRNA,tracrRNA,45.5,2.7e-07,RF02348
-4qjh_F,Crystal Structure of the Twister Ribozyme with the Nucleotide 5'- to the Cleavage Site Ordered at 4.1 A Resolution,,Twister Ribozyme,twister-P3,27.9,6.6e-05,RF03154
-8b6z_B,CryoEM Structure of Extended eEF1A bound to the Ribosome in the Classical Pre State,Homo sapiens,28S ribosomal RNA,LSU_rRNA_eukarya,2379.3,0.0,RF02543
-7rex_A,PreQ1-1 (type-1) riboswitch in complex with tandem stacked metabolites,Carnobacterium antarcticum,RNA (34-MER),PreQ1,36.4,1.1e-07,RF00522
-7bhp_B,Cryo-EM structure of the human Ebp1 - 80S ribosome,,Poly GC double helix strand modeled for ES27L density next to EBP1 density,TCV_Pr,13.1,0.52,RF00502
-6zqa_D2,"Cryo-EM structure of the 90S pre-ribosome from Saccharomyces cerevisiae, state A (Poly-Ala)",,5ETS RNA,mir-627,20.2,0.062,RF03831
-1ymo_A,Solution structure of the P2b-P3 pseudoknot from human telomerase RNA,Homo sapiens,Telomerase RNA P2b-P3 pseudoknot,Telomerase-vert,24.4,1.9e-05,RF00024
-1am0_A,"AMP RNA APTAMER COMPLEX, NMR, 8 STRUCTURES",,RNA APTAMER,mir-8286,10.3,2.9,RF03570
-3id5_H,"Crystal structure of Sulfolobus solfataricus C/D RNP assembled with Nop5, fibrillarin, L7Ae and a split half C/D RNA",,half C/D RNA,SNORD61,12.8,2.3,RF00270
-6d12_C,Crystal structure of C-terminal xRRM domain of human Larp7 bound to 7SK stem-loop 4 RNA,Homo sapiens,human 7SK RNA stem-loop 4,mir-1226,9.2,7.6,RF00945
-7uo7_T,"SARS-CoV-2 replication-transcription complex bound to ATP, in a pre-catalytic state",,Template RNA (55-MER),Sarbecovirus-3UTR,21.0,3.8e-05,RF03125
-1i6u_C,RNA-PROTEIN INTERACTIONS: THE CRYSTAL STRUCTURE OF RIBOSOMAL PROTEIN S8/RRNA COMPLEX FROM METHANOCOCCUS JANNASCHII,Methanocaldococcus jannaschii,16S RRNA FRAGMENT,snoR9,13.0,0.054,RF00065
-2bh2_D,Crystal Structure of E. coli 5-methyluridine methyltransferase RumA in complex with ribosomal RNA substrate and S-adenosylhomocysteine.,Escherichia coli,23S RIBOSOMAL RNA 1932-1968,LSU_rRNA_bacteria,31.0,2.6e-09,RF02541
-3hhn_E,"Crystal structure of class I ligase ribozyme self-ligation product, in complex with U1A RBD",Homo sapiens,"Class I ligase ribozyme, self-ligation product",U1,9.9,0.62,RF00003
-1rmn_A,A THREE-DIMENSIONAL MODEL FOR THE HAMMERHEAD RIBOZYME BASED ON FLUORESCENCE MEASUREMENTS,,RNA (49-MER),Hammerhead_3,27.1,5.6e-05,RF00008
-3ktw_C,Crystal structure of the SRP19/S-domain SRP RNA complex of Sulfolobus solfataricus,Saccharolobus solfataricus,SRP RNA,Archaea_SRP,75.5,3.8e-18,RF01857
-2ozb_C,Structure of a human Prp31-15.5K-U4 snRNA complex,,RNA comprising the 5' Stem-Loop RNA of  U4snRNA,U4,24.5,4.6e-05,RF00015
-1e8o_E,Core of the Alu domain of the mammalian SRP,,7SL RNA,Metazoa_SRP,38.1,2.3e-09,RF00017
-7rwr_A,An RNA aptamer that decreases flavin redox potential,synthetic construct,RNA (38-MER),CRISPR-DR9,10.1,2.5,RF01322
-3hax_E,Crystal structure of a substrate-bound Gar1-minus H/ACA RNP from Pyrococcus furiosus,,H/ACA RNA,HgcE,15.4,0.052,RF00060
-6xjq_A,Crystal structure of a self-alkylating ribozyme - alkylated form with biotinylated epoxide substrate,,Self-alkylating ribozyme (58-MER),DUF3800-IX,9.1,7.4,RF02968
-1s03_B,The Structure of a Ribosomal Protein S8/spc Operon mRNA Complex,Escherichia coli,47-MER,queA,8.8,3.3,RF03093
-5ztm_C,Crystal structure of MLE dsRBDs in complex with roX2 (R2H1),Drosophila melanogaster,non-coding mRNA sequence roX2,mir-3047,17.1,0.085,RF03339
-1b36_A,"SOLUTION STRUCTURE OF THE HAIRPIN RIBOZYME LOOP B DOMAIN RNA, NMR, 10 STRUCTURES",synthetic construct,RNA (RNA LOOP B),rsmX,7.0,5.2,RF02144
-1a60_A,"NMR STRUCTURE OF A CLASSICAL PSEUDOKNOT: INTERPLAY OF SINGLE-AND DOUBLE-STRANDED RNA, 24 STRUCTURES",Turnip yellow mosaic virus,TYMV PSEUDOKNOT,Tymo_tRNA-like,33.4,1.5e-06,RF00233
-7a5p_Y,Human C Complex Spliceosome - Medium-resolution PERIPHERY,,pre-mRNA,fstAT,19.7,0.19,RF01797
-7ctt_T,Cryo-EM structure of Favipiravir bound to replicating polymerase complex of SARS-CoV-2 in the pre-catalytic state.,,Template-RNA (5'-R(P*AP*CP*UP*AP*GP*CP*UP*UP*CP*UP*UP*AP*GP*GP*AP*GP*AP*A)-3'),Sarbecovirus-3UTR,31.4,1.6e-08,RF03125
-7tj2_G,SARS-CoV-2 endoribonuclease Nsp15 bound to dsRNA,synthetic construct,RNA (31-MER),let-7,12.5,1.0,RF00027
-4pjo_1,Minimal U1 snRNP,,U1 RNA variant (48-MER) with 4-helix junction replaced by kissing loop (HIV-1 (Mal) DIS) and shorter stem-loop 4.,U1,24.0,2.4e-05,RF00003
-2mqt_A,Solution NMR structure of the U5-primer binding site (U5-PBS) domain of murine leukemia virus RNA genome,Murine leukemia virus,RNA (68-MER),mir-3204,14.4,0.52,RF03568
-2mqv_B,Solution NMR structure of the U5-primer binding site (U5-PBS) domain of murine leukemia virus RNA genome bound to the retroviral nucleocapsid protein,Murine leukemia virus,RNA (68-MER),mir-3204,14.4,0.52,RF03568
-6lnb_M,CryoEM structure of Cascade-TniQ-dsDNA complex,,CRISPR RNA (60-MER),weev_FSE,13.6,2.6,RF01836
-2kzl_A,Specifier domain and GA motif region of B. subtilis tyrS T box leader RNA,Bacillus subtilis subsp. subtilis str. 168,RNA (55-MER),T-box,13.2,0.066,RF00230
-3nkb_B,A 1.9A crystal structure of the HDV ribozyme precleavage suggests both Lewis acid and general acid mechanisms contribute to phosphodiester cleavage,Homo sapiens,The hepatitis delta virus ribozyme,HDV-F-prausnitzii,22.3,0.0039,RF02682
-1u63_D,THE STRUCTURE OF A RIBOSOMAL PROTEIN L1-mRNA COMPLEX,Methanocaldococcus jannaschii,49 NT FRAGMENT OF MRNA FOR L1,drz-agam-1,8.8,5.6,RF01787
-3izd_A,Model of the large subunit RNA expansion segment ES27L-out based on a 6.1 A cryo-EM map of Saccharomyces cerevisiae translating 80S ribosome. 3IZD is a small part (an expansion segment) which is in an alternative conformation to what is in already 3IZF.,Saccharomyces cerevisiae,"rRNA expansion segment ES27L in an ""out"" conformation",CRISPR-DR34,12.8,4.4,RF01344
-1mvr_A,"Decoding Center & Peptidyl transferase center from the X-ray structure of the Thermus thermophilus 70S ribosome, aligned to the low resolution Cryo-EM map of E.coli 70S Ribosome",,Helix 34 of 16S rRNA,SSU_rRNA_bacteria,23.3,3.1e-06,RF00177
-4v5z_BF,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES7 part III,MIR918,57.2,2.9e-10,RF04104
-8a22_B4,Structure of the mitochondrial ribosome from Polytomella magna,,mtSSU-4,SSU_rRNA_bacteria,77.5,1e-22,RF00177
-7c7l_C,Cryo-EM structure of the Cas12f1-sgRNA-target DNA complex,uncultured archaeon,sgRNA,CRISPR-DR58,15.0,1.0,RF01371
-3am1_B,Crystal structure of O-Phosphoseryl-tRNA kinase complexed with anticodon-stem/loop truncated tRNA(Sec),Methanocaldococcus jannaschii,ASL-truncated tRNA,tRNA-Sec,46.5,2.1e-09,RF01852
-1qzc_A,"Coordinates of S12, SH44, LH69 and SRL separately fitted into the cryo-EM map of EF-Tu ternary complex (GDP.Kirromycin) bound 70S ribosome",Escherichia coli,16S ribosomal RNA,SSU_rRNA_bacteria,21.1,1.6e-05,RF00177
-7pwg_4,Cryo-EM structure of large subunit of Giardia lamblia ribosome at 2.7 A resolution,,5.8S ribosomal RNA,5_8S_rRNA,22.0,0.00016,RF00002
-6x5m_r,"Crystal structure of a stabilized PAN ENE bimolecular triplex with a GC-clamped polyA tail, in complex with Fab-BL-3,6.",,ggPAN RNA (39-MER),CRISPR-DR60,19.5,0.056,RF01373
-5xwy_B,Electron cryo-microscopy structure of LbuCas13a-crRNA binary complex,synthetic construct,RNA (59-MER),CRISPR-DR32,13.3,2.0,RF01342
-7szu_R,Crystal structure of Pepper RNA aptamer in complex with HBC ligand and Fab BL3-6,,RNA aptamer,mir-2217,12.9,0.91,RF03369
-6vu1_A,Cap3G-TAR-F1 is an RNA hairpin. The 1H-1H NOESY data was collected at 308 K in 10 mM KH2PO4 pH 7.4.,Human immunodeficiency virus 1,RNA (34-MER),mir-TAR,22.3,0.0012,RF00250
-7pkt_1,Large subunit of the Chlamydomonas reinhardtii mitoribosome,,L1 rRNA,CRISPR-DR39,15.8,3.7,RF01358
-7eu0_O,The cryo-EM structure of A. thaliana Pol IV-RDR2 backtracked complex,,RNA (39-MER),mir-7398,9.8,4.4,RF03378
-3j0l_1,Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 9.8A cryo-EM map: classic PRE state 1,,60S ribosomal RNA fragment,LSU_rRNA_eukarya,35.5,3.1e-08,RF02543
-5tzs_2,Architecture of the yeast small subunit processome,,U3 snoRNA,Fungi_U3,57.3,4.2e-14,RF01846
-6u8d_A,Crystal structure of hepatitis C virus IRES junction IIIabc in complex with Fab HCV2,,JIIIabc RNA (68-MER),IRES_HCV,47.8,7.5e-13,RF00061
-3izz_A,Models for ribosome components that are nearest neighbors to the bovine mitochondrial initiation factor2 bound to the E. Coli ribosome,,"Helix 5, 14, 15 (Small Subunit)",SSU_rRNA_bacteria,19.9,5.1e-05,RF00177
-2l2k_A,Solution NMR structure of the R/G STEM LOOP RNA-ADAR2 DSRBM2 Complex,Homo sapiens,RNA (42-MER),mir-2985-2,27.8,6.8e-05,RF02095
-6xmf_C,Cryo-EM structure of Cas12g binary complex,Lachnospiraceae bacterium ND2006,RNA (116-MER),mir-5615,13.0,2.1,RF03973
-6aay_B,the Cas13b binary complex,Bergeyella zoohelcum,RNA (52-MER),DUF2815,11.8,2.6,RF03084
-6zj3_LL,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,,LSU rRNA chain 11,PyrR207,13.5,1.1,RF02805
-1m5l_A,Structure of wild-type and mutant internal loops from the SL-1 domain of the HIV-1 packaging signal,,modified HIV-1 packaging signal stem-loop 1 RNA,HIV-1_DIS,21.7,0.0064,RF00175
-7qgh_x,Structure of the E. coli disome - collided 70S ribosome,,Messenger RNA,DUF2815,20.0,0.24,RF03084
-5dea_C,"Crystal structure of the complex between human FMRP RGG motif and G-quadruplex RNA, cesium bound form.",synthetic construct,sc1,GlsR17_miR2,12.3,0.54,RF02339
-3nvk_K,Structural basis for substrate placement by an archaeal box C/D ribonucleoprotein particle,,RNA (5'-R(*GP*CP*CP*GP*UP*UP*GP*AP*AP*GP*CP*UP*CP*UP*GP*AP*CP*CP*GP*AP*AP*AP*GP*GP*CP*GP*UP*GP*AP*UP*GP*AP*GP*C)-3'),sR40,7.7,3.3,RF01297
-3aoi_Q,RNA polymerase-Gfh1 complex (Crystal type 2),,RNA (5'-R(*CP*CP*CP*GP*GP*AP*AP*GP*AP*UP*CP*AP*UP*CP*UP*UP*CP*CP*GP*GP*GP*GP*GP*AP*U*GP*CP*GP*GP*CP*GP*G)-3'),His_leader,19.2,0.023,RF00514
-7w0e_C,dmDicer2-LoqsPD-dsRNA Active-dicing status,,dsRNA,mir-3165,29.7,0.00013,RF04105
-5c45_Y,Selective Small Molecule Inhibition of the FMN Riboswitch,Fusobacterium nucleatum,FMN Riboswitch,FMN,46.5,8.9e-11,RF00050
-4prf_B,A Second Look at the HDV Ribozyme Structure and Dynamics.,Homo sapiens,Hepatitis Delta virus ribozyme,HDV_ribozyme,36.6,0.00021,RF00094
-7ptk_B,Young conformer of a 6-helix bundle of RNA with clasp,synthetic construct,RNA,asX6,21.9,0.12,RF02239
-7pkt_0,Large subunit of the Chlamydomonas reinhardtii mitoribosome,,L3a rRNA (5S),mir-7371,12.7,3.4,RF03731
-2n6s_A,Structure of CssA4 (bottom stem) of CssA thermometer,Neisseria meningitidis,RNA (36-MER),mir-361,11.2,1.9,RF00744
-6bu9_C,Drosophila Dicer-2 bound to blunt dsRNA,unidentified,RNA (5'-R(*AP*CP*UP*AP*CP*UP*AP*UP*AP*CP*AP*AP*CP*CP*UP*AP*C)-3'),let-7,10.0,4.9,RF00027
-3r9x_C,"Crystal structure of Era in complex with MgGDPNP, nucleotides 1506-1542 of 16S ribosomal RNA, and KsgA",,RNA301,SSU_rRNA_archaea,32.5,1.4e-08,RF01959
-5wlh_B,Crystal structure of LbaCas13a H328A (C2c2) bound to pre-crRNA (24-nt spacer),Lachnospiraceae bacterium NK4A179,pre-crRNA,Tombus_3_III,6.9,9.9,RF00215
-3e5c_A,Crystal Structure of the SMK box (SAM-III) Riboswitch with SAM,,SMK box (SAM-III) Riboswitch,SMK_box_riboswitch,41.5,5.5e-10,RF01767
-5bjo_E,"Crystal structure of the Corn RNA aptamer in complex with DFHO, site-specific 5-iodo-U",synthetic construct,RNA (36-MER),SNORA47,6.5,5.8,RF01234
-6n2v_A,Manganese riboswitch from Xanthmonas oryzae bound to Mn(II),Xanthomonas oryzae,X. oryzae Mn riboswitch optimized construct,yybP-ykoY,35.7,7.5e-09,RF00080
-6i7o_l,The structure of a di-ribosome (disome) as a unit for RQC and NGD quality control pathways recognition.,,Messenger RNA,rimP,9.8,7.3,RF01770
-7dmq_B,Cryo-EM structure of LshCas13a-crRNA-anti-tag RNA complex,Leptotrichia shahii,CRISPR RNA,CRISPR-DR10,9.7,4.3,RF01323
-7mky_A,SARS-CoV-2 frameshifting pseudoknot RNA,Severe acute respiratory syndrome coronavirus 2,RNA (66-MER),Corona_FSE,44.4,6.3e-10,RF00507
-8a22_B1,Structure of the mitochondrial ribosome from Polytomella magna,,mtSSU-1,CRISPR-DR22,11.8,1.4,RF01335
-6b44_M,Cryo-EM structure of Type I-F CRISPR crRNA-guided Csy surveillance complex with bound target dsDNA,,Pseudomonas aeruginosa strain SMC4485 CRISPR repeat sequence,CRISPR-DR4,26.9,5e-05,RF01317
-8e6z_7,"Escherichia coli Rho-dependent transcription pre-termination complex containing 18 nt long RNA spacer, dC75 rut mimic RNA, Mg-ADP-BeF3, and NusG; TEC part",,RNA with 18 nt long spacer,ceN106,7.9,9.3,RF01526
-6ne0_M,Structure of double-stranded target DNA engaged Csy complex from Pseudomonas aeruginosa (PA-14),,CRISPR RNA (60-MER),CRISPR-DR4,26.9,5e-05,RF01317
-2lhp_A,High resolution NMR solution structure of helix H1 of the chimpanzee HAR1 RNA,Pan troglodytes,RNA (37-MER),SNORD123,10.8,3.1,RF01156
-7qdu_Q,Twist-corrected RNA origami 5-helix Tile A,synthetic construct,Chains: Q,snoZ168,17.7,0.34,RF00159
-4jf2_A,Structure of a class II preQ1 riboswitch reveals ligand recognition by a new fold,Lacticaseibacillus rhamnosus,PreQ1-II Riboswitch,preQ1-II,35.7,1.2e-05,RF01054
-6vqv_L,Type I-F CRISPR-Csy complex with its inhibitor AcrF9,,CrRNA (60-MER),CRISPR-DR4,30.1,5.2e-06,RF01317
-6zj3_LK,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,,LSU rRNA chain 10,mir-611,8.5,9.5,RF01022
-6wpi_B,Crystal structure of Nop9 in complex with ITS1 RNA,,RNA (47-MER),PYLIS_5,9.3,8.0,RF02512
-6tw1_V,Bat Influenza A polymerase termination complex with pyrophosphate using 44-mer vRNA template with mutated oligo(U) sequence,,vRNA,mir-1914,10.5,6.1,RF03502
-2n4l_A,Solution Structure of the HIV-1 Intron Splicing Silencer and its Interactions with the UP1 Domain of hnRNP A1,,RNA (53-MER),STnc410,8.8,1.6,RF02060
-2ku0_A,Inhibitor Induced Structural Change in the HCV IRES Domain IIa RNA,Hepacivirus C,HCV IRES Domain IIa RNA,chrB-b,13.2,0.16,RF03086
-7xt4_r,Structure of Craspase-NTR,,RNA (34-MER),mir-7578,15.1,0.17,RF03775
-4v84_AV,Crystal structure of a complex containing domain 3 of CrPV IGR IRES RNA bound to the 70S ribosome.,,RNA (34-MER),IRES_Cripavirus,18.6,0.015,RF00458
-3r4f_A,Prohead RNA,,pRNA,Phage_pRNA,34.1,1.6e-08,RF00044
-2lwk_A,Solution structure of small molecule-influenza RNA complex,,RNA (32-MER),ctRNA_p42d,9.6,3.8,RF00489
-2ihx_B,Solution Structure of the Rous Sarcoma Virus Nucleocapsid Protein:uPsi RNA Packaging Signal Complex,Rous sarcoma virus,uPsi RNA,mir-3622,11.0,6.0,RF03703
-4v5z_AE,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES6 part II,mir-Ro6-3,18.9,0.075,RF03819
-4kr6_D,Crystal structure of a 4-thiouridine synthetase - RNA complex,Thermotoga maritima MSB8,RNA (39-MER),HgcG,4.1,4.3,RF00064
-2jea_C,Structure of a 9-subunit archaeal exosome bound to RNA,,RNA,Pab91,16.2,0.1,RF02795
-7qh7_B,Cryo-EM structure of the human mtLSU assembly intermediate upon MRM2 depletion - class 4,,mitochondrial tRNAVal,tRNA,15.5,0.14,RF00005
-4v5z_BS,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES39 part II,mir-4672,21.9,0.0032,RF03293
-4c7o_E,The structural basis of FtsY recruitment and GTPase activation by SRP RNA,,SRP RNA,mir-1003,9.0,8.3,RF03830
-1njp_5,The crystal structure of the 50S Large ribosomal subunit from Deinococcus radiodurans complexed with a tRNA acceptor stem mimic (ASM),,tRNA acceptor stem mimic,cyano_tmRNA,16.8,0.00054,RF01851
-2hgh_B,Transcription Factor IIIA zinc fingers 4-6 bound to 5S rRNA 55mer (NMR structure),Xenopus laevis,55-MER,5S_rRNA,15.5,0.12,RF00001
-7pmm_D,DEAD-box helicase DbpA in the active conformation bound to a ss/dsRNA junction and ADP/BeF3,synthetic construct,RNA (45mer) containing HP92 of the 23S rRNA,SmY,9.4,1.1,RF01844
-7b3d_T,Structure of elongating SARS-CoV-2 RNA-dependent RNA polymerase with AMP at position -4 (structure 3),,RNA (5'-R(P*UP*GP*CP*AP*CP*UP*GP*CP*GP*UP*AP*G)-3'),mir-4081,14.7,0.61,RF03867
-3dkn_F,Sec61 in the Canine ribosome-channel complex from the endoplasmic reticulum,,RNA (32-MER),LSU_rRNA_archaea,13.7,0.0022,RF02540
-7tj2_H,SARS-CoV-2 endoribonuclease Nsp15 bound to dsRNA,synthetic construct,RNA (31-MER),let-7,10.0,4.9,RF00027
-4wzj_XXX,Spliceosomal U4 snRNP core domain,,"U4 small nuclear RNA variant: Native sequence 85-145, of which nucleotides 97-104 are replaced with GAAA tetraloop and nucleotides 134-137 are replaced with GAAA tetraloop receptor.",U4,20.5,0.0011,RF00015
-1t28_A,High resolution structure of a picornaviral internal cis-acting replication element,,34-MER,Rhino_CRE,33.9,1.8e-06,RF00220
-6p5i_1,Structure of a mammalian 80S ribosome in complex with the Israeli Acute Paralysis Virus IRES (Class 1),,IAPV-IRES,IMES-4,15.9,1.4,RF02037
-1d6k_B,NMR SOLUTION STRUCTURE OF THE 5S RRNA E-LOOP/L25 COMPLEX,Escherichia coli,5S RRNA E-LOOP (5SE),HIV-1_SL4,8.7,5.7,RF01382
-2l3c_B,Solution structure of ADAR2 dsRBM1 bound to LSL RNA,Rattus norvegicus,RNA (34-MER),mir-2985-2,27.4,7e-05,RF02095
-6az3_3,Cryo-EM structure of of the large subunit of Leishmania ribosome bound to paromomycin,,rRNA gamma,mir-128,14.8,0.25,RF00649
-6o1o_M,Cryo-EM structure of the T. thermophilus Csm complex bound to target ssRNA,,RNA (36-MER),CRISPR-DR36,7.0,6.9,RF01346
-5xtm_B,Crystal structure of PhoRpp38 bound to a K-turn in P12.2 helix,Pyrococcus horikoshii OT3,RNA (47-MER),Ms_IGR-2,8.9,2.0,RF02467
-6w3m_A,Solution NMR Structure of 5'UTR Stem Loop B in DENV4 Flavivirus.,Dengue virus 4 Philippines/H241/1956,RNA (41-MER),U6atac,5.2,4.6,RF00619
-6vpc_A,Structure of the SpCas9 DNA adenine base editor - ABE8e,,Cas9 (SpCas9) single-guide RNA (sgRNA),tracrRNA,45.6,2.5e-07,RF02348
-7uzx_L,Staphylococcus epidermidis RP62a CRISPR effector subcomplex with non-self target RNA bound,,CRISPR non-self RNA target,tmRNA,2.2,8.2,RF00023
-1zc8_H,"Coordinates of tmRNA, SmpB, EF-Tu and h44 fitted into Cryo-EM map of the 70S ribosome and tmRNA complex",,protein kinase 2 mRNA,MIR815,10.1,7.6,RF00884
-7uga_A,Solution structure of NPSL2,Homo sapiens,NPSL2 RNA (43-MER),MIR5516,12.5,0.89,RF03183
-3ovb_C,How the CCA-adding Enzyme Selects Adenine over Cytosine in Position 76 of tRNA,Archaeoglobus fulgidus,RNA (35-MER),tRNA,16.3,0.046,RF00005
-1kaj_A,"CONFORMATION OF AN RNA PSEUDOKNOT FROM MOUSE MAMMARY TUMOR VIRUS, NMR, 1 STRUCTURE",,RNA PSEUDOKNOT APK,RF_site9,17.6,0.05,RF01098
-6joo_B,Crystal structure of Corynebacterium diphtheriae Cas9 in complex with sgRNA and target DNA,,Guide RNA,ctRNA_pGA1,12.6,1.0,RF00236
-8d28_B,Crystal structure of theophylline aptamer in complex with theophylline,synthetic construct,RNA (33-MER),PyrR205,8.3,2.8,RF02803
-5d5l_A,PreQ1-II riboswitch with an engineered G-U wobble pair bound to Cs+,Lacticaseibacillus rhamnosus LOCK908,PreQ1-II riboswitch,preQ1-II,35.4,1.4e-05,RF01054
-6ww6_D,Crystal structure of EutV bound to RNA,Enterococcus faecalis,eutP P2,SAM-SAH,9.4,1.3,RF01727
-8d9k_C,CryoEM structure of human METTL1-WDR4 in complex with Lys-tRNA,,RNA (65-MER),tRNA,66.6,8.1e-16,RF00005
-3k1v_A,Cocrystal structure of a mutant class-I preQ1 riboswitch,,PreQ1 riboswitch,PreQ1,39.3,1.8e-08,RF00522
-3id5_D,"Crystal structure of Sulfolobus solfataricus C/D RNP assembled with Nop5, fibrillarin, L7Ae and a split half C/D RNA",,half C/D RNA,SNORD61,12.8,2.3,RF00270
-6xn3_T,Structure of the Lactococcus lactis Csm CTR_4:3 CRISPR-Cas Complex,,target RNA,CRISPR-DR24,7.9,7.0,RF01337
-2hua_A,Solution Structure of CSFV IRES Domain IIa,,CSFV IRES Domain IIa,htlv_FSE,11.8,1.3,RF01790
-8a22_A3,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-3,LSU_rRNA_bacteria,83.1,5.1e-26,RF02541
-2jyh_B,Rigid-body refinement of the tetraloop-receptor RNA complex,,RNA (43-MER),ncr1015,16.3,0.66,RF02449
-7jrt_A,Crystal structures of artificially designed homomeric RNA nanoarchitectures,synthetic construct,RNA nano bracelet,SCARNA17,10.0,8.8,RF00492
-8dvu_B,Cryo-EM structure of RIG-I bound to the internal sites of OHSLR30 (+ATP),Homo sapiens,OHSLR30,mir-Ro6-3,35.8,2.1e-05,RF03819
-7d8o_B,Crystal structure of E. coli ToxIN type III toxin-antitoxin complex,Escherichia coli,Antitoxin RNA,fiv_FSE,8.1,2.2,RF01834
-3hay_E,Crystal structure of a substrate-bound full H/ACA RNP from Pyrococcus furiosus,,H/ACA RNA,HgcE,17.5,0.017,RF00060
-5x2g_B,Crystal structure of Campylobacter jejuni Cas9 in complex with sgRNA and target DNA (AGAAACC PAM),,sgRNA,CRISPR-DR46,16.3,1.0,RF01359
-6xyw_3,Structure of the plant mitochondrial ribosome,,RNA (118-MER),5S_rRNA,28.7,0.0001,RF00001
-8dc2_B,Cryo-EM structure of CasLambda (Cas12l) bound to crRNA and DNA,uncultured virus,RNA (51-MER),STnc410,6.4,6.7,RF02060
-2wwb_E,CRYO-EM STRUCTURE OF THE MAMMALIAN SEC61 COMPLEX BOUND TO THE ACTIVELY TRANSLATING WHEAT GERM 80S RIBOSOME,,25S ribosomal RNA,LSU_rRNA_eukarya,21.2,0.00019,RF02543
-7jrs_B,Crystal structures of artificially designed homomeric RNA nanoarchitectures,synthetic construct,RNA 3D nanocage,Actinomyces-1,14.2,1.8,RF02928
-7qgr_x,Structure of the SmrB-bound E. coli disome - collided 70S ribosome,,Messenger RNA,DUF2815,20.0,0.24,RF03084
-5vw1_C,Crystal structure of SpyCas9-sgRNA-AcrIIA4 ternary complex,,sgRNA,tracrRNA,44.4,4.7e-07,RF02348
-7kha_J,Cryo-EM Structure of the Desulfovibrio vulgaris Type I-C Apo Cascade,,RNA (45-MER),CRISPR-DR9,11.9,0.87,RF01322
-8euy_6,Ytm1 associated nascent 60S ribosome (-fkbp39) State 1A,,RNA (93-MER),mir-3910,20.6,0.052,RF03578
-7enr_B,Crystal structure of cas and anti-cas protein complex,,sgRNA (98-MER),ppoRNA,10.9,9.5,RF02554
-7dd4_A,Solution structure of an RNA derived from the joint region of the TAR and PolyA stems of HIV-1 genomic RNA,Human immunodeficiency virus 1,RNA (36-MER),mir-TAR,14.6,0.18,RF00250
-3ski_A,Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'-deoxyguanosine,Mesoplasma florum,RNA (68-MER),MFR,81.2,1.4e-18,RF01510
-6lt7_C,Crystal structure of human RPP20-RPP25 proteins in complex with the P3 domain of lncRNA RMRP,,50-mer RNA,RNaseP_nuc,10.9,0.018,RF00009
-1mj1_Q,FITTING THE TERNARY COMPLEX OF EF-Tu/tRNA/GTP AND RIBOSOMAL PROTEINS INTO A 13 A CRYO-EM MAP OF THE COLI 70S RIBOSOME,,sarcin-ricin loop of 23SrRNA,LSU_rRNA_bacteria,23.2,1.2e-06,RF02541
-4ifd_R,Crystal structure of an 11-subunit eukaryotic exosome complex bound to RNA,,RNA (45-MER),STnc370,21.8,0.093,RF02064
-486d_F,X-RAY CRYSTAL STRUCTURES OF 70S RIBOSOME FUNCTIONAL COMPLEXES,Thermus thermophilus,PENULTIMATE STEM OF 16S RRNA IN THE 70S RIBOSOME,SSU_rRNA_bacteria,32.0,9.9e-09,RF00177
-4kr6_C,Crystal structure of a 4-thiouridine synthetase - RNA complex,Thermotoga maritima MSB8,RNA (39-MER),HgcG,4.1,4.3,RF00064
-7s7b_D,Human Nuclear exosome targeting (NEXT) complex homodimer bound to RNA (substrate 1),,RNA (46-MER),MS2,25.9,2.1e-05,RF02359
-1kpd_A,"A MUTANT RNA PSEUDOKNOT THAT PROMOTES RIBOSOMAL FRAMESHIFTING IN MOUSE MAMMARY TUMOR VIRUS, NMR, MINIMIZED AVERAGE STRUCTURE",,RNA PSEUDOKNOT APKA27G,RF_site9,14.2,0.32,RF01098
-6wlj_A,"ATP-TTR-3 with AMP models, 9.6 Angstrom resolution",synthetic construct,RNA (130-MER),mir-708,14.9,1.2,RF00917
-486d_G,X-RAY CRYSTAL STRUCTURES OF 70S RIBOSOME FUNCTIONAL COMPLEXES,Thermus thermophilus,900 STEM-LOOP OF 16S RRNA IN THE 70S RIBOSOME,SSU_rRNA_bacteria,24.5,9.5e-07,RF00177
-2ww9_E,Cryo-EM structure of the active yeast Ssh1 complex bound to the yeast 80S ribosome,,25S ribosomal RNA,LSU_rRNA_eukarya,21.2,0.00019,RF02543
-7pkt_6,Large subunit of the Chlamydomonas reinhardtii mitoribosome,,L6 rRNA,LSU_rRNA_bacteria,12.5,0.015,RF02541
-2zy6_A,"Crystal structure of a truncated tRNA, TPHE39A",,phenylalanyl transfer RNA,HgcG,3.3,7.6,RF00064
-3cul_C,Aminoacyl-tRNA synthetase ribozyme,Homo sapiens,RNA (92-MER),mascRNA-menRNA,16.1,0.15,RF01684
-1mji_D,DETAILED ANALYSIS OF RNA-PROTEIN INTERACTIONS WITHIN THE BACTERIAL RIBOSOMAL PROTEIN L5/5S RRNA COMPLEX,Escherichia coli,5S rRNA fragment,5S_rRNA,15.6,0.071,RF00001
-8esq_6,Ytm1 associated nascent 60S ribosome State 2,,RNA (81-MER),mir-567,21.8,0.055,RF01036
-5xtm_D,Crystal structure of PhoRpp38 bound to a K-turn in P12.2 helix,Pyrococcus horikoshii OT3,RNA (47-MER),Ms_IGR-2,8.9,2.0,RF02467
-5aox_C,Human Alu RNA retrotransposition complex in the ribosome-stalling conformation,,ALU JO CONSENSUS RNA,Metazoa_SRP,44.9,4.8e-11,RF00017
-4p95_A,Speciation of a group I intron into a lariat capping ribozyme (Circularly permutated ribozyme),Didymium iridis,RNA (192-MER),GIR1,88.3,1e-19,RF01807
-7kkv_B,"Crystal structure of Bacillus halodurans OapB in complex with its OLE RNA target (native, crystal form I)",Alkalihalobacillus halodurans C-125,OLE* RNA,OLE,26.9,8.3e-07,RF01071
-7a01_E1,The Halastavi arva virus intergenic region IRES promotes translation by the simplest possible initiation mechanism,,INTERNAL RIBOSOME ENTRY SITE,IRES_Cripavirus,19.0,0.042,RF00458
-7n0b_T,Cryo-EM structure of SARS-CoV-2 nsp10-nsp14 (WT)-RNA complex,,RNA (5'-R(*AP*UP*GP*UP*GP*AP*UP*UP*UP*UP*AP*AP*UP*AP*GP*CP*UP*UP*CP*U)-3'),Sarbecovirus-3UTR,20.1,4.8e-05,RF03125
-4kr9_X,Crystal structure of a 4-thiouridine synthetase - RNA complex at 3.5 Angstrom resolution,Thermotoga maritima MSB8,RNA (39-MER),HgcG,4.1,4.3,RF00064
-1e8s_C,Alu domain of the mammalian SRP (potential Alu retroposition intermediate),,"7SL RNA, 88-MER",Metazoa_SRP,44.1,8.3e-11,RF00017
-6szu_V,Bat Influenza A polymerase pre-termination complex with pyrophosphate using 44-mer vRNA template with mutated oligo(U) sequence,,vRNA,mir-1914,10.5,6.1,RF03502
-6lax_A,the mutant SAM-VI riboswitch (U6C) bound to SAM,Bifidobacterium angulatum,RNA (55-MER),SAM_VI,41.9,3e-08,RF02885
-3nmu_E,Crystal Structure of substrate-bound halfmer box C/D RNP,,RNA (34-MER),sR40,7.7,3.3,RF01297
-1a9l_A,"SOLUTION STRUCTURE OF A SUBSTRATE FOR THE ARCHAEAL PRE-TRNA SPLICING ENDONUCLEASES: THE BULGE-HELIX-BULGE MOTIF, NMR, 12 STRUCTURES",Haloferax volcanii,PRE-TRNA BULGE-HELIX-BULGE MOTIF,DUF3800-XI,8.3,1.7,RF02975
-8a22_A6,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-6,SAM-II_long_loops,12.2,2.9,RF01726
-7d8c_B,Crystal structure of the Cas12i1-crRNA binary complex,Lachnospiraceae bacterium ND2006,RNA (38-MER),rspL,10.1,9.7,RF01823
-1hmh_A,THREE-DIMENSIONAL STRUCTURE OF A HAMMERHEAD RIBOZYME,,HAMMERHEAD RIBOZYME-RNA STRAND,Hammerhead_3,19.2,0.0069,RF00008
-5wtk_B,Crystal structure of RNP complex,Leptotrichia shahii,RNA (58-MER),CRISPR-DR10,9.7,4.3,RF01323
-3aoi_S,RNA polymerase-Gfh1 complex (Crystal type 2),,RNA (5'-R(*CP*CP*CP*GP*GP*AP*AP*GP*AP*UP*CP*AP*UP*CP*UP*UP*CP*CP*GP*GP*GP*GP*GP*AP*U*GP*CP*GP*GP*CP*GP*G)-3'),His_leader,19.2,0.023,RF00514
-6ww6_E,Crystal structure of EutV bound to RNA,Enterococcus faecalis,eutP P2,SAM-SAH,9.4,1.3,RF01727
-7l49_E,Cryo-EM structure of CRISPR-Cas12f Ternary Complex,unidentified,sgRNA,CRISPR-DR58,15.0,1.3,RF01371
-7tr6_R,Cascade complex from type I-A CRISPR-Cas system,,crRNA (45-MER),CRISPR-DR6,10.2,3.9,RF01319
-4kr9_M,Crystal structure of a 4-thiouridine synthetase - RNA complex at 3.5 Angstrom resolution,Thermotoga maritima MSB8,RNA (39-MER),HgcG,4.1,4.3,RF00064
-4v83_CV,Crystal structure of a complex containing domain 3 from the PSIV IGR IRES RNA bound to the 70S ribosome.,,domain 3 of PSIC IGR IRES RNA,IRES_Cripavirus,11.0,0.74,RF00458
-4qyz_L,"Crystal structure of a CRISPR RNA-guided surveillance complex, Cascade, bound to a ssDNA target",,RNA (55-MER),GlsR20,11.8,0.77,RF02483
-7mlx_R,SARS-CoV-2 programmed -1 frameshifting element three stem H-type pseudoknot,,RNA (65-MER),Corona_FSE,40.4,8.6e-09,RF00507
-7zo1_A,SpCas9 bound to CD34 off-target9 DNA substrate,synthetic construct,CD34 sgRNA,tracrRNA,45.5,2.7e-07,RF02348
-7cyq_J,Cryo-EM structure of an extended SARS-CoV-2 replication and transcription complex reveals an intermediate state in cap synthesis,,Template,SprX,7.8,3.5,RF02672
-4v5z_BE,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES7 part II,mir-610,41.3,3.7e-09,RF03852
-8eg0_C,CryoEM structure of human METTL1-WDR4 in complex with Lys-tRNA and SAH,,RNA (65-MER),tRNA,66.6,8.1e-16,RF00005
-2dra_B,Complex structure of CCA-adding enzyme with tRNAminiDCC and ATP,Archaeoglobus fulgidus,tRNA (34-MER),mascRNA-menRNA,21.1,0.0027,RF01684
-5dh6_A,Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-G12A mutant in Mg2+,synthetic construct,hammerhead ribozyme,Hammerhead_3,34.8,3.8e-07,RF00008
-8a22_B3,Structure of the mitochondrial ribosome from Polytomella magna,,mtSSU-3,SSU_rRNA_bacteria,126.4,2.1e-38,RF00177
-3t4b_A,Crystal Structure of the HCV IRES pseudoknot domain,synthetic construct,HCV IRES pseudoknot domain plus crystallization module,IRES_HCV,42.0,5.1e-11,RF00061
-8d29_F,Crystal structure of theophylline aptamer - apo form,,RNA (34-MER),Hairpin,8.4,4.0,RF00173
-5lzd_x,Structure of SelB-Sec-tRNASec bound to the 70S ribosome in the GTPase activated state (GA),,SECIS mRNA,SECIS_2,36.0,5.7e-07,RF01988
-7r6q_6,State E2 nucleolar 60S ribosome biogenesis intermediate - Foot region model,,ITS-2,rpsL_pseudo,9.6,2.3,RF01773
-5ddo_A,Structural and Dynamic Basis for Low Affinity-High Selectivity Binding of L-glutamine by the Gln-riboswitch,Synechococcus elongatus,L-glutamine riboswitch (58-MER),glnA,30.2,7.6e-06,RF01739
-1mzp_B,Structure of the L1 protuberance in the ribosome,Sulfolobus acidocaldarius,fragment of 23S rRNA,LSU_rRNA_eukarya,32.8,1.9e-07,RF02543
-7nad_2,State E2 nucleolar 60S ribosomal biogenesis intermediate - Spb4 local refinement model,,5.8S ribosomal RNA,5_8S_rRNA,35.5,1.1e-08,RF00002
-3j45_1,Structure of a non-translocating SecY protein channel with the 70S ribosome,,23S ribosomal RNA,LSU_rRNA_bacteria,28.8,2.4e-08,RF02541
-6c27_A,SAM-III riboswitch ON-state,Enterococcus faecalis,SAM-III riboswitch,SMK_box_riboswitch,22.2,0.00054,RF01767
-3siv_C,"Structure of a hPrp31-15.5K-U4atac 5' stem loop complex, dimeric form",,U4atac snRNA,U4atac,24.7,0.0011,RF00618
-5y85_D,Structure-based Insights into Self-Cleavage by a Four-way Junctional Twister-Sister Ribozyme,metagenome,DNA/RNA (50-MER),Twister-sister,29.3,2e-05,RF02681
-6zqd_D2,"Cryo-EM structure of the 90S pre-ribosome from Saccharomyces cerevisiae, state Post-A1",,5ETS RNA,mir-BHRF1-3,10.1,9.2,RF00367
-7xjg_H,Cryo-EM structure of E.coli retron-Ec86 in complex with its effector at 2.5 angstrom,,RNA (81-MER),L19-Flavobacteria,19.6,0.026,RF03130
-7pts_A,RNA origami 5-helix tile,synthetic construct,5HT-B,b55,14.4,5.3,RF01783
-7elh_O,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,,RNA (60-MER),mir-297,11.6,4.4,RF04217
-7slp_R,Cryo-EM structure of 7SK core RNP with linear RNA,,Linear 7SK RNA,7SK,34.5,1.2e-08,RF00100
-6z1p_Ba,Structure of the mitochondrial ribosome from Tetrahymena thermophila,,SSU rRNA_1,SSU_rRNA_bacteria,35.7,1.4e-09,RF00177
-6nu2_B,Structural insights into unique features of the human mitochondrial ribosome recycling,,mt-tRNAVal,tRNA,13.0,0.61,RF00005
-8ane_R,Structure of the type I-G CRISPR effector,synthetic construct,RNA (66-MER),rli61,9.8,6.0,RF01485
-5oik_P,Structure of an RNA polymerase II-DSIF transcription elongation complex,,RNA (5'-R(P*UP*AP*UP*AP*UP*AP*CP*AP*UP*AP*AP*AP*GP*AP*CP*CP*AP*GP*GP*C)-3'),psRNA6,8.6,0.26,RF02350
-6c66_J,"CRISPR RNA-guided surveillance complex, pre-nicking",,crRNA,Chlorobi-1,11.7,0.21,RF01696
-6nd4_0,Conformational switches control early maturation of the eukaryotic small ribosomal subunit,,5'ETS rRNA,mir-627,20.2,0.062,RF03831
-7zpj_B,"Mammalian Dicer in the ""pre-dicing state"" with pre-miR-15a substrate and TARBP2 subunit",,59-nt precursor of miR-15a,mir-15,50.7,9.9e-11,RF00455
-8eug_1,Ytm1 associated nascent 60S ribosome State 3,,RNA (2863-MER),LSU_rRNA_eukarya,3338.0,0.0,RF02543
-7ohq_6,Nog1-TAP associated immature ribosomal particle population C from S. cerevisiae,,ITS2,ceN109,19.0,0.026,RF01613
-7s36_R,"Cas9:sgRNA:DNA (S. pyogenes) with 0 RNA:DNA base pairs, closed-protein/bent-DNA conformation",Streptococcus pyogenes,Single-guide RNA,tracrRNA,63.0,6.6e-11,RF02348
-8h2h_A,Cryo-EM structure of a Group II Intron Complexed with its Reverse Transcriptase,Lactococcus lactis,LtrB,Intron_gpII,51.1,2.5e-09,RF00029
-7tra_R,Cascade complex from type I-A CRISPR-Cas system,,crRNA (44-MER),CRISPR-DR6,10.2,3.8,RF01319
-7xsp_A,Structure of gRAMP-target RNA,Candidatus Scalindua brodae,RNA (5'-R(P*GP*GP*GP*GP*CP*AP*GP*AP*AP*AP*AP*UP*UP*GP*G)-3'),ToxI,8.1,7.6,RF02519
-6gzk_A,Solution NMR structure of the tetramethylrhodamine (TMR) aptamer 3 in complex with 5-TAMRA,synthetic construct,TMR3 (48-MER),eL15-Euryarchaeota,9.0,7.9,RF03144
-7pmq_F,DEAD-box helicase DbpA in the active conformation bound to a hairpin loop RNA and ADP/BeF3,synthetic construct,RNA (42-MER),PhotoRC-I,7.7,2.0,RF01716
-2p89_A,Solution structure of the 3' pseudouridyation pocket of U65 snoRNA with bound substrate,Homo sapiens,U65 H/ACA snoRNA,SNORA65,16.0,0.081,RF00302
-7qr0_A,SpCas9 bound to TRAC off-target1 DNA substrate,synthetic construct,TRAC sgRNA,tracrRNA,45.5,2.7e-07,RF02348
-7sba_Z,Structure of type I-D Cascade bound to a dsDNA target,,crRNA,CRISPR-DR25,12.7,1.1,RF01338
-1u6b_B,CRYSTAL STRUCTURE OF A SELF-SPLICING GROUP I INTRON WITH BOTH EXONS,Homo sapiens,197-MER,Intron_gpI,31.6,9.8e-07,RF00028
-7shx_A,"A functional SNP regulates E-cadherin expression by dynamically remodeling the 3D structure of a promoter-associated non-coding RNA transcript, NMR, minimized average structure",Homo sapiens,RNA (94-MER),MIR2109,10.3,9.0,RF03572
-6dcc_B,Structure of methylphosphate capping enzyme methyltransferase domain in complex with 5' end of 7SK RNA,Homo sapiens,human 7SK RNA stem-loop 1 proximal methylated,7SK,15.6,0.002,RF00100
-7xsp_D,Structure of gRAMP-target RNA,Candidatus Scalindua brodae,RNA (35-MER),mir-7578,15.6,0.16,RF03775
-6ufh_A,Co-crystal structure of M. tuberculosis ileS T-box in complex with tRNA-3'-2'3'cyclic phosphate,Mycobacterium tuberculosis,RNA (167-MER),T-box,20.7,0.0022,RF00230
-8a22_A7,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-7,LSU_rRNA_bacteria,226.6,1.2e-73,RF02541
-4y1m_B,An Escherichia coli yybP-ykoY Mn riboswitch in the Mn2+-free state,Escherichia coli,E. coli yybP-ykoY riboswitch,yybP-ykoY,40.3,3.7e-10,RF00080
-6dtd_C,High-resolution crystal structure of Cas13b from Prevotella buccae,Prevotella buccae,RNA (37-MER),snoU83,9.4,9.9,RF01179
-5y6z_B,Crystal structure of the coxsackievirus A16 polymerase elongation complex,synthetic construct,Template RNA (33-MER),RNase_MRP,4.1,2.6,RF00030
-4x4v_B,Crystal structure of the A.fulgidus CCA-adding enzyme in complex with a human MenBeta minihelix ending in CCACC and AMPcPP,Homo sapiens,Human MenBeta minihelix ending in CCACC,mascRNA-menRNA,23.6,0.00063,RF01684
-4c4w_H,"Structure of a rare, non-standard sequence k-turn bound by L7Ae protein",,TSKT-23,sR40,7.2,4.6,RF01297
-2n6t_A,NMR Assignment and NMR Structure of CssA3 (top stem) of CssA thermometer,Neisseria meningitidis,RNA (42-MER),SBWMV1_UPD-PKe,10.1,4.4,RF01081
-4rmo_B,Crystal Structure of the CptIN Type III Toxin-Antitoxin System from Eubacterium rectale,synthetic construct,RNA (45-MER),SBRMV1_UPD-PKf,11.1,2.8,RF01107
-3pla_H,Crystal structure of a catalytically active substrate-bound box C/D RNP from Sulfolobus solfataricus,,C/D guide RNA,SNORD90,13.7,1.6,RF00579
-1p5p_A,Solution Structure of HCV IRES Domain II (minimized average structure),,77-MER,IRES_HCV,32.3,3.8e-08,RF00061
-6zqc_D2,"Cryo-EM structure of the 90S pre-ribosome from Saccharomyces cerevisiae, state Pre-A1",,5ETS RNA,mir-627,20.2,0.062,RF03831
-6xn3_R,Structure of the Lactococcus lactis Csm CTR_4:3 CRISPR-Cas Complex,,Crispr RNA,freshwater-1,7.2,10.0,RF02979
-6zvk_E1,The Halastavi arva virus (HalV) intergenic region IRES promotes translation by the simplest possible initiation mechanism,,INTERNAL RIBOSOME ENTRY SITE,IRES_Cripavirus,19.0,0.042,RF00458
-5tpy_A,Crystal structure of an exonuclease resistant RNA from Zika virus,Zika virus,RNA (71-MER),Flavivirus_SLIV,17.7,0.18,RF01415
-7uin_B,CryoEM Structure of an Group II Intron Retroelement,[Eubacterium] rectale,E.r IIC Intron,group-II-D1D4-3,129.1,7.4e-29,RF02001
-3iab_R,"Crystal structure of RNase P /RNase MRP proteins Pop6, Pop7 in a complex with the P3 domain of RNase MRP RNA",,P3 domain of the RNA component of RNase MRP,glmS,11.2,0.14,RF00234
-8eug_9,Ytm1 associated nascent 60S ribosome State 3,,RNA (118-MER),5S_rRNA,109.5,2.7e-25,RF00001
-4r4v_A,Crystal structure of the VS ribozyme - G638A mutant,Neurospora,VS ribozyme RNA,Actino-ugpB,11.3,7.0,RF02927
-7w0c_D,Dicer2-Loqs-PD-dsRNA complex at early-translocation state,,RNA (35-MER),mir-3165,29.7,0.00013,RF04105
-4jrc_B,Distal Stem I region from G. kaustophilus glyQS T box RNA,,Distal Stem I region of the glyQS T box leader RNA,SpR19_sRNA,9.9,4.3,RF02447
-6bu9_B,Drosophila Dicer-2 bound to blunt dsRNA,unidentified,RNA (5'-R(*GP*GP*AP*GP*GP*UP*AP*GP*UP*AP*GP*GP*UP*UP*GP*UP*AP*UP*AP*GP*UP*AP*GP*U)-3'),let-7,12.5,1.0,RF00027
-4zt0_D,Crystal structure of catalytically-active Streptococcus pyogenes Cas9 in complex with single-guide RNA at 2.9 Angstrom resolution,Streptococcus pyogenes,single-guide RNA,tracrRNA,45.6,2.7e-07,RF02348
-8a22_A8,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-8,LSU_rRNA_bacteria,167.5,4.4e-54,RF02541
-8dfv_E,Structural Basis of MicroRNA Biogenesis by Dicer-1 and Its Partner Protein Loqs-PB - complex IIa,,RNA (60-MER),let-7,45.3,1.9e-09,RF00027
-1hmh_E,THREE-DIMENSIONAL STRUCTURE OF A HAMMERHEAD RIBOZYME,,HAMMERHEAD RIBOZYME-RNA STRAND,Hammerhead_3,19.2,0.0069,RF00008
-6r47_A,The structure of pistol ribozyme bound to magnesium,Alistipes putredinis,RNA (50-MER),Pistol,28.7,4.8e-05,RF02679
-2mtk_A,NMR structure of the III-IV-V three-way junction from the VS ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement,Neurospora crassa,RNA (47-MER),TB11Cs4H3,9.8,4.2,RF01541
-2zni_C,Crystal structure of Pyrrolysyl-tRNA synthetase-tRNA(Pyl) complex from Desulfitobacterium hafniense,Desulfitobacterium hafniense,bacterial tRNA,tRNA,24.0,0.00066,RF00005
-3egz_B,Crystal structure of an in vitro evolved tetracycline aptamer and artificial riboswitch,Homo sapiens,Tetracycline aptamer and artificial riboswitch,Rhino_CRE,9.4,9.7,RF00220
-4v8m_BE,High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome,Trypanosoma brucei,SHORT RRNA-I OF THE LARGE RIBOSOMAL SUBUNIT,SNORD42,14.8,4.4,RF00150
-4v8t_1,Cryo-EM Structure of the 60S Ribosomal Subunit in Complex with Arx1 and Rei1,,ES27 OF THE 25S RRNA,MIR535,15.8,0.13,RF00714
-8d29_J,Crystal structure of theophylline aptamer - apo form,,RNA (34-MER),Hairpin,8.4,4.0,RF00173
-4pkd_V,U1-70k in complex with U1 snRNA stem-loops 1 and U1-A RRM in complex with stem-loop 2,,U1 snRNA stem-loops 1 and 2 (55-MER),U1,21.7,0.0001,RF00003
-1rnk_A,THE STRUCTURE OF AN RNA PSEUDOKNOT THAT CAUSES EFFICIENT FRAMESHIFTING IN MOUSE MAMMARY TUMOR VIRUS,,RNA PSEUDOKNOT,RF_site9,19.8,0.015,RF01098
-5c45_X,Selective Small Molecule Inhibition of the FMN Riboswitch,Fusobacterium nucleatum,FMN Riboswitch,FMN,41.3,2.2e-09,RF00050
-7kjv_D,Structure of HIV-1 reverse transcriptase initiation complex core,,tRNA lysine 3 fragment with GNRA tetraloop,mascRNA-menRNA,22.2,0.0015,RF01684
-6rja_D,Cryo-EM structure of St1Cas9-sgRNA-tDNA20-AcrIIA6 dimeric assembly.,,RNA (78-MER),PyrG_leader,15.6,2.9,RF02371
-2euy_A,Solution structure of the internal loop of human U65 H/ACA snoRNA 3' hairpin,Homo sapiens,U65 box H/ACA snoRNA,SNORA65,16.0,0.081,RF00302
-6wbr_B,Crystal structure of AceCas9 bound with guide RNA and DNA with 5'-NNNCC-3' PAM,,RNA (94-MER),DUF3800-V,12.7,3.5,RF02964
-7xue_R,Cryo-EM structure of HK022 putRNA-associated E.coli RNA polymerase elongation complex,,RNA (nun gene and immunity region),Ms_AS-1,10.1,2.7,RF02463
-3skl_B,"Crystal structure of the 2'- deoxyguanosine riboswitch bound to 2'-deoxyguanosine, iridium hexammine soak",Mesoplasma florum,RNA (66-MER),MFR,80.1,2.6e-18,RF01510
-5t5h_H,Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit,,srRNA4,mir-8834,11.6,6.1,RF03874
-4adx_8,The Cryo-EM Structure of the Archaeal 50S Ribosomal Subunit in Complex with Initiation Factor 6,,23S Ribosomal RNA EXPANSION SEGMENTS,ryfA,13.0,0.072,RF00126
-6ufm_B,Cocrystal Structure of the Nocardia farcinica ileS T-box riboswitch in complex with its cognate tRNA,Nocardia farcinica,RNA (98-MER),Pab160,15.0,1.2,RF02796
-5t5h_G,Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit,,srRNA2,LSU_rRNA_eukarya,30.9,1.4e-06,RF02543
-2mtj_A,NMR structure of the III-IV-V three-way junction from the VS ribozyme,Neurospora crassa,RNA (47-MER),TB11Cs4H3,9.8,4.2,RF01541
-6kl9_G,Structure of LbCas12a-crRNA complex bound to AcrVA4 (form A complex),,RNA (42-MER),Corona_pk3,8.1,4.9,RF00165
-3npq_A,Structure of the S-adenosylhomocysteine riboswitch at 2.18 A,Ralstonia solanacearum,S-ADENOSYLHOMOCYSTEINE RIBOSWITCH,SAH_riboswitch,35.5,4.8e-06,RF01057
-2hw8_B,Structure of ribosomal protein L1-mRNA complex at 2.1 resolution.,Thermus thermophilus,36-MER,leuA-Halobacteria,5.7,9.0,RF03001
-5xh7_B,Crystal structure of the Acidaminococcus sp. BV3L6 Cpf1 RR variant in complex with crRNA and target DNA (TCCA PAM),Acidaminococcus sp. BV3L6,crRNA,sno_ncR4,10.6,2.5,RF02717
-7w0d_D,Dicer2-LoqsPD-dsRNA complex at mid-translocation state,,dsRNA,mir-3165,29.7,0.00013,RF04105
-7k4l_A,DENV1 SLA bottom stem RNA (DenvBS),Escherichia phage T7,DenvSLA RNA,DENV_SLA,27.3,0.00022,RF02340
-6cb3_B,Crystal structure of the L.Lactis YkoY riboswitch bound to cadmium,Lactococcus lactis,RNA (99-MER),yybP-ykoY,39.0,8.7e-10,RF00080
-6xn4_R,Structure of the Lactococcus lactis Csm CTR_3:2 CRISPR-Cas Complex,,Crispr RNA,freshwater-1,7.2,9.4,RF02979
-5xlo_K,Anti-CRISPR proteins AcrF1/2 bound to Csy surveillance complex with a 32nt spacer crRNA backbone region,,crRNA with 32nt spacer sequence,CRISPR-DR4,26.9,5e-05,RF01317
-7eu9_B,Crystal structure of the selenomethionine(SeMet)-derived Cas12i1 R-loop complex before target DNA cleavage,Lachnospiraceae bacterium ND2006,RNA (43-MER),rspL,10.3,8.6,RF01823
-2hvy_E,Crystal structure of an H/ACA box RNP from Pyrococcus furiosus,,H/ACA RNA,HgcE,17.6,0.014,RF00060
-8d29_C,Crystal structure of theophylline aptamer - apo form,,RNA (34-MER),Hairpin,8.4,4.0,RF00173
-2quw_B,Hammerhead Ribozyme G12A mutant after cleavage,Tobacco ringspot virus satellite RNA,"Hammerhead ribozyme, cleaved fragment",Hammerhead_3,20.3,0.0057,RF00008
-6iv9_B,the Cas13d binary complex,uncultured Ruminococcus sp.,crRNA (50-MER),UPD-PK2,12.0,1.9,RF01083
-1nbk_A,The structure of RNA aptamer for HIV Tat complexed with two argininamide molecules,,RNA aptamer,Tombus_3_IV,8.4,1.9,RF00176
-6m0x_B,Crystal structure of Streptococcus thermophilus Cas9 in complex with AGGA PAM,Streptococcus thermophilus,RNA (71-MER),MIR828,10.2,8.7,RF01026
-2xdb_G,A processed non-coding RNA regulates a bacterial antiviral system,Pectobacterium atrosepticum,TOXI,snopsi28S-3327,8.5,5.0,RF00544
-7elh_U,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,,RNA (60-MER),mir-297,11.6,4.4,RF04217
-1un6_F,THE CRYSTAL STRUCTURE OF A ZINC FINGER - RNA COMPLEX REVEALS TWO MODES OF MOLECULAR RECOGNITION,Xenopus laevis,5S ribosomal RNA,5S_rRNA,22.9,0.0017,RF00001
-6noa_A,Solution Structure of the RNA element that recruits eIF3 to the 5'-UTR of c-Jun and regulates specialized translation initiation (apical loop),Homo sapiens,C-JUN SL1,snoZ30,11.5,2.1,RF00288
-5ns3_C,Crystal structures of Cy5 cyanine fluorophores stacked onto the end of double-stranded RNA,Thermus thermophilus,double-stranded RNA,5S_rRNA,15.6,0.071,RF00001
-1e95_A,"Solution structure of the pseudoknot of SRV-1 RNA, involved in ribosomal frameshifting",Simian retrovirus 1,RNA (5'-(*GP*CP*GP*GP*CP*CP*AP*GP*CP*UP*CP* CP*AP*GP*GP*CP*CP*GP*CP*CP*AP*AP*AP*CP* AP*AP*UP*AP*UP*GP*GP*AP*GP*CP*AP*C)-3'),RF_site8,29.2,0.00012,RF01097
-1p5m_A,Solution Structure of HCV IRES Domain IIa,,55-MER,mir-879,10.4,4.8,RF00931
-8eug_2,Ytm1 associated nascent 60S ribosome State 3,,RNA (152-MER),5_8S_rRNA,174.3,3.3e-48,RF00002
-5mga_B,Structure of the Cpf1 endonuclease R-loop complex after DNA cleavage,Francisella tularensis subsp. novicida U112,RNA (40-MER),malK-II,10.6,3.3,RF03008
-6gov_R,Structure of THE RNA POLYMERASE LAMBDA-BASED ANTITERMINATION COMPLEX,,RNA (TRANSCRIPTION BUBBLE),algC,16.0,0.12,RF02929
-2li4_A,Solution structure of a shortened antiterminator hairpin from a Mg2+ riboswitch,Yersinia enterocolitica,RNA (32-MER),folP,10.5,1.2,RF02978
-3izz_B,Models for ribosome components that are nearest neighbors to the bovine mitochondrial initiation factor2 bound to the E. Coli ribosome,,"Helix 69, 71, 89, 92, 95 (Large Subunit)",LSU_rRNA_bacteria,29.5,2.5e-08,RF02541
-5ddo_B,Structural and Dynamic Basis for Low Affinity-High Selectivity Binding of L-glutamine by the Gln-riboswitch,Synechococcus elongatus,L-glutamine riboswitch (58-MER),glnA,30.2,7.6e-06,RF01739
-6uvn_M,CryoEM structure of VcCascasde-TniQ complex,,crRNA,CRISPR-DR4,28.7,1.5e-05,RF01317
-5jup_EC,"Saccharomyces cerevisiae 80S ribosome bound with elongation factor eEF2-GDP-sordarin and Taura Syndrome Virus IRES, Structure II (mid-rotated 40S subunit)",,IRES,Cyano-1,17.4,0.36,RF01701
-1s03_A,The Structure of a Ribosomal Protein S8/spc Operon mRNA Complex,Escherichia coli,47-MER,queA,8.8,3.3,RF03093
-6xn5_R,Structure of the Lactococcus lactis Csm Apo- CRISPR-Cas Complex,,Crispr RNA,freshwater-1,7.2,8.6,RF02979
-1cql_A,NMR STRUCTURE OF SRP RNA DOMAIN IV,Escherichia coli,SRP DOMAIN IV RNA,Bacteria_small_SRP,34.2,3.9e-07,RF00169
-2om7_G,Structural Basis for Interaction of the Ribosome with the Switch Regions of GTP-bound Elongation Factors,,Fragment of23S rRNA (H68),LSU_rRNA_bacteria,36.2,6.6e-11,RF02541
-5eeu_W,RADIATION DAMAGE TO THE TRAP-RNA COMPLEX: DOSE (DWD) 1.31 MGy,synthetic construct,(GAGUU)10GAG 53-NUCLEOTIDE RNA,mir-1017,9.2,7.2,RF02517
-2om7_H,Structural Basis for Interaction of the Ribosome with the Switch Regions of GTP-bound Elongation Factors,,Fragment of23S rRNA (H89),LSU_rRNA_bacteria,27.7,3.7e-08,RF02541
-7n0c_T,Cryo-EM structure of the monomeric form of SARS-CoV-2 nsp10-nsp14 (E191A)-RNA complex,,RNA (25-MER),Sarbecovirus-3UTR,21.1,2.3e-05,RF03125
-6bhj_E,Structure of HIV-1 Reverse Transcriptase Bound to a 38-mer Hairpin Template-Primer RNA-DNA Aptamer,,38-MER RNA-DNA Aptamer,mir-3130,19.4,0.016,RF03736
-2n3q_A,NMR structure of the II-III-VI three-way junction from the VS ribozyme,synthetic construct,RNA (62-MER),HDV-F-prausnitzii,9.3,4.0,RF02682
-6pij_1,"Target DNA-bound V. cholerae TniQ-Cascade complex, closed conformation",,guide RNA,CRISPR-DR4,10.3,6.5,RF01317
-8a22_A9,Structure of the mitochondrial ribosome from Polytomella magna,,mt-5S,MIR9666,9.6,9.7,RF03465
-4v5z_AH,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA helix,RsmY,8.7,0.53,RF00195
-1r7z_A,"NMR STRUCTURE OF THE R(GGAGGACAUUCCUCACGGGUGACCGUGGUCCUCC), DOMAIN IV STEM-LOOP B OF ENTEROVIRAL IRES WITH AUUCCU BULGE",,34-MER,RAGATH-31,11.5,1.9,RF03101
-3vjr_B,Crystal structure of Peptidyl-tRNA hydrolase from Escherichia coli in complex with the CCA-acceptor-T[PSI]C domain of tRNA,Escherichia coli K-12,tRNA CCA-acceptor,cyano_tmRNA,16.8,0.00055,RF01851
-1mnx_A,The Solution Structure of the Loop E Region of the 5S rRNA from Spinach Chloroplasts.,Spinacia oleracea,Loop E from 5S rRNA,SBWMV2_UPD-PKb,8.9,6.2,RF01104
-8a22_A1,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-1,RAGATH-17,13.6,8.9,RF03095
-7k16_P,Tamana Bat Virus xrRNA1,Tamana bat virus,RNA (51-MER),Flavi_ISFV_repeat_Ra_Rb,18.7,0.054,RF03542
-6zj3_LN,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,,LSU rRNA chain 13,mir-939,12.6,3.6,RF00981
-7ljy_B,Cryo-EM structure of the B dENE construct complexed with a 28-mer poly(A),Oryza sativa,B dENE construct,mir-3130,13.4,1.2,RF03736
-2mxl_A,Structural features of a 3' splice site in influenza A: 39-nt hairpin,synthetic construct,RNA (39-MER),skipping-rope,8.3,6.4,RF02924
-8gs2_R,Structure of the Cas7-11-Csx29-guide RNA-target RNA (non-matching PFS) complex,,crRNA,bantam,14.3,1.1,RF00727
-7q4k_D2,Erythromycin-stalled Escherichia coli 70S ribosome with streptococcal MsrDL nascent chain,,Met-tRNA (P site),tRNA,69.6,1.3e-16,RF00005
-3j45_4,Structure of a non-translocating SecY protein channel with the 70S ribosome,,23S ribosomal RNA,LSU_rRNA_bacteria,35.5,1.3e-10,RF02541
-2i7z_B,GAAA tetraloop receptor complex with associated manganese ions.,,43-MER,ncr1015,16.3,0.66,RF02449
-1u3k_A,The solution structure of a substrate of archaeal pre-tRNA splicing endonucleases,,ABISS7,DUF3800-XI,8.3,1.7,RF02975
-3jcs_3,2.8 Angstrom cryo-EM structure of the large ribosomal subunit from the eukaryotic parasite Leishmania,,26S gamma ribosomal RNA,SNORD42,14.8,4.5,RF00150
-7cyq_I,Cryo-EM structure of an extended SARS-CoV-2 replication and transcription complex reveals an intermediate state in cap synthesis,,Primer,MIR528,11.5,0.85,RF04083
-3lqx_B,SRP ribonucleoprotein core complexed with cobalt hexammine,Escherichia coli,SRP RNA,Bacteria_small_SRP,33.7,6.1e-07,RF00169
-6pmo_A,Co-crystal structure of the Geobacillus kaustophilus glyQ T-box riboswitch discriminator domain in complex with tRNA-Gly,Geobacillus kaustophilus,T-box riboswitch discriminator,T-box,34.8,2e-07,RF00230
-6ltu_B,Crystal structure of Cas12i2 ternary complex with double Mg2+ bound in catalytic pocket,synthetic construct,RNA (56-mer),mir-1912,11.6,1.8,RF02017
-8ea4_7,"V-K CAST Transpososome from Scytonema hofmanni, minor configuration",,sg_RNA,sroH,8.5,3.6,RF00372
-7krp_T,Structure of SARS-CoV-2 backtracked complex complex bound to nsp13 helicase - BTC (local refinement),,RNA (36-MER),Sarbecovirus-3UTR,32.9,7.5e-09,RF03125
-1duh_A,CRYSTAL STRUCTURE OF THE CONSERVED DOMAIN IV OF E. COLI 4.5S RNA,,4.5S RNA DOMAIN IV,Bacteria_small_SRP,36.4,9.6e-08,RF00169
-7elh_T,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,,RNA (60-MER),mir-297,11.6,4.4,RF04217
-1pn7_C,"Coordinates of S12, L11 proteins and P-tRNA, from the 70S X-ray structure aligned to the 70S Cryo-EM map of E.coli ribosome",,P-tRNA,TB6Cs1H3,13.1,0.74,RF01547
-2n6x_A,NMR Assignment and structure of CssA5 (middle region) of CssA thermometer from Neisseria meningitidis,Neisseria meningitidis,RNA (43-MER),HIV-1_SD,10.2,5.1,RF01380
-1g1x_E,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",,16S ribosomal RNA,weev_FSE,12.4,3.6,RF01836
-4pr6_B,A Second Look at the HDV Ribozyme Structure and Dynamics.,Homo sapiens,HDV RIBOZYME SELF-CLEAVED,HDV_ribozyme,38.9,0.00015,RF00094
-6e9e_B,EsCas13d-crRNA binary complex,bacterium,crRNA (52-MER),SNORD56,12.9,0.81,RF00275
-6sdy_B,Solution structure of Staufen1 dsRBD4 - hARF1 SBS dsRNA complex.,Homo sapiens,hARF1 SBS dsRNA,PhotoRC-I,16.1,0.0062,RF01716
-7pkt_4,Large subunit of the Chlamydomonas reinhardtii mitoribosome,,L4 rRNA,LSU_rRNA_bacteria,30.9,8.7e-09,RF02541
-6e9f_B,EsCas13d-crRNA-target RNA ternary complex,bacterium,crRNA (52-MER),SNORD56,10.9,2.9,RF00275
-4oog_D,Crystal structure of yeast RNase III (Rnt1p) complexed with the product of dsRNA processing,,34-mer RNA,MIR4387,11.2,1.5,RF04151
-2pcw_A,Solution Structure of an rRNA Substrate Bound to the Pseudouridylation Pocket of a Box H/ACA snoRNA,Homo sapiens,U65 box H/ACA snoRNA,SNORA65,7.1,9.0,RF00302
-6yl5_I,Crystal structure of the SAM-SAH riboswitch with SAH,Roseobacter sp.,"Chains: A,B,C,D,E,F,G,H,I,J,K,L",SAM-SAH,37.9,2.7e-08,RF01727
-4qjd_D,Crystal Structure of Twister with the Nucleotide 5'- to the Cleavage Site Disordered at 3.1 A Resolution,,Twister RNA sequence,twister-P1,37.2,4.3e-08,RF03160
-5nfv_B,Crystal structure of catalytically inactive FnCas12 mutant bound to an R-loop structure containing a pre-crRNA mimic and full-length DNA target,synthetic construct,pre-crRNA,malK-II,10.2,4.6,RF03008
-7ptl_B,Mature conformer of a 6-helix bundle of RNA with clasp,synthetic construct,Chains: B,asX6,21.9,0.12,RF02239
-7qqp_A,SpCas9 bound to AAVS1 off-target3 DNA substrate,synthetic construct,AAVS1 sgRNA,tracrRNA,45.5,2.7e-07,RF02348
-4v8m_BH,High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome,Trypanosoma brucei,SHORT RRNA-IV OF THE LARGE RIBOSOMAL SUBUNIT,astro_FSE,7.9,5.2,RF01833
-1g1x_J,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",,16S ribosomal RNA,weev_FSE,12.4,3.6,RF01836
-7dmq_C,Cryo-EM structure of LshCas13a-crRNA-anti-tag RNA complex,Escherichia coli,Anti-tag target RNA,5_8S_rRNA,3.4,9.4,RF00002
-2ktz_A,Inhibitor Induced Structural Change in the HCV IRES Domain IIa RNA,Hepacivirus C,HCV IRES Domain IIa RNA,chrB-b,13.2,0.16,RF03086
-6w5c_B,Cryo-EM structure of Cas12i(E894A)-crRNA-dsDNA complex,Escherichia coli,crRNA,Ysr201,10.6,4.6,RF02853
-5h9f_L,Crystal structure of E. coli Cascade bound to a PAM-containing dsDNA target at 2.45 angstrom resolution.,,crRNA (61-MER),Chlorobi-1,15.7,0.01,RF01696
-7elh_N,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,,RNA (60-MER),mir-297,11.6,4.4,RF04217
-3siv_F,"Structure of a hPrp31-15.5K-U4atac 5' stem loop complex, dimeric form",,U4atac snRNA,U4atac,24.7,0.0011,RF00618
-2fey_A,The structure of stem loop IV of Tetrahymena telomerase RNA,,stem-loop IV of Tetrahymena telomerase RNA,5_8S_rRNA,9.6,0.19,RF00002
-4v5z_BI,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES15 part I,mir-Ro6-3,38.4,5.7e-06,RF03819
-8dk7_C,Crystal structure of theophylline aptamer soaked with TAL2,,RNA (34-MER),Hairpin,8.4,4.0,RF00173
-8e6w_8,"Escherichia coli Rho-dependent transcription pre-termination complex containing 18 nt long RNA spacer, lambda-tR1 rut RNA, Mg-ADP-BeF3, and NusG; Rho part",synthetic construct,lambda-tR1 rut RNA,algC,10.4,4.5,RF02929
-6az4_A,RNA hairpin complex with guanosine dinucleotide ligand G(5')ppp(5')G,synthetic construct,RNA (32-MER),SNORD105,8.5,7.7,RF00584
-6lqs_5A,Cryo-EM structure of 90S small subunit preribosomes in transition states (State D),,5' ETS,mir-627,20.2,0.062,RF03831
-4v5z_AD,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES6 part I,astro_FSE,8.3,1.2,RF01833
-6s8b_U,"Cryo-EM structure of the Type III-B Cmr-beta bound to cognate target RNA and AMPPnP, state 1",,Cognate target RNA (46-mer),CRISPR-DR12,9.3,7.4,RF01325
-2l2j_A,Solution NMR structure of the lower part of the R/G stem loop RNA,Homo sapiens,RNA (42-MER),mir-2985-2,27.8,6.8e-05,RF02095
-2fdt_A,Solution structure of a conserved RNA hairpin of eel LINE UnaL2,,36-mer,UnaL2,40.2,8.1e-08,RF00436
-8cti_C,Cryo-EM structure of human METTL1-WDR4-tRNA(Val) complex,,tRNA-Val-TAC-2-1,tRNA,65.5,1.7e-15,RF00005
-4uyk_R,Crystal structure of a Signal Recognition Particle Alu domain in the elongation arrest conformation,,SRP RNA,Archaea_SRP,77.3,1.8e-18,RF01857
-6pom_A,Cryo-EM structure of the full-length Bacillus subtilis glyQS T-box riboswitch in complex with tRNA-Gly,Bacillus subtilis,T-box GlyQS leader (155-MER),T-box,76.5,8.8e-18,RF00230
-7elh_R,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,,RNA (60-MER),mir-297,11.6,4.4,RF04217
-4u7u_L,Crystal structure of RNA-guided immune Cascade complex from E.coli,,crRNA,Chlorobi-1,15.4,0.013,RF01696
-2lu0_A,NMR solution structure of the kappa-zeta region of S.cerevisiae group II intron ai5(gamma),Saccharomyces cerevisiae,RNA (49-MER),ceN108,12.8,0.63,RF01611
-5fq5_A,Crystal structure of Cas9-sgRNA-DNA complex solved by native SAD phasing,synthetic construct,SGRNA,tracrRNA,45.5,2.7e-07,RF02348
-4x4u_G,Crystal structure of the A.fulgidus CCA-adding enzyme in complex with a human MenBeta minihelix ending in CCACC,Homo sapiens,human MenBeta minihelix,mascRNA-menRNA,23.6,0.00063,RF01684
-7v9e_A,Crystal structure of a methyl transferase ribozyme,Homo sapiens,RNA (68-MER),mir-584,9.8,7.9,RF01016
-5t5h_E,Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit,,srRNA1,SNORD42,13.3,6.9,RF00150
-1yls_B,Crystal structure of selenium-modified Diels-Alder ribozyme complexed with the product of the reaction between N-pentylmaleimide and covalently attached 9-hydroxymethylanthracene,,RNA Diels-Alder ribozyme,ASdes,11.6,0.6,RF01781
-7qi4_B,Human mitochondrial ribosome at 2.2 A resolution,,mitochondrial tRNAVal,tRNA,28.1,4.9e-05,RF00005
-2n3r_A,NMR structure of the II-III-VI three-way junction from the VS ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement,Neurospora crassa,RNA (62-MER),HDV-F-prausnitzii,9.3,4.0,RF02682
-4v5z_BN,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES27,Yfr1,8.4,7.3,RF01116
-3pla_G,Crystal structure of a catalytically active substrate-bound box C/D RNP from Sulfolobus solfataricus,,C/D guide RNA,SNORD90,13.7,1.6,RF00579
-6d3p_A,Crystal structure of an exoribonuclease-resistant RNA from Sweet clover necrotic mosaic virus (SCNMV),Sweet clover necrotic mosaic virus,RNA (45-MER),PLRV_xrRNA,10.3,2.9,RF04222
-5ml7_B,CRYSTAL STRUCTURE OF L1-STALK FRAGMENT OF 23S rRNA FROM HALOARCULA MARISMORTUI,Haloarcula marismortui,23S ribosomal RNA,LSU_rRNA_archaea,44.4,1.1e-12,RF02540
-7re1_T,SARS-CoV-2 replication-transcription complex bound to nsp13 helicase - nsp13(2)-RTC (composite),,Template RNA,Sarbecovirus-3UTR,32.9,7.5e-09,RF03125
-8a22_A5,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-5,LSU_rRNA_bacteria,41.3,3.5e-12,RF02541
-7d3j_B,Crystal structure of the Cas12i1 R-loop complex after target DNA cleavage,Lachnospiraceae bacterium ND2006,RNA (43-MER),rspL,10.3,8.6,RF01823
-4pcj_A,Modifications to toxic CUG RNAs induce structural stability and rescue mis-splicing in Myotonic Dystrophy,synthetic construct,trCUG-3('5),c-di-GMP-I,10.6,1.0,RF01051
-3r9w_B,Crystal structure of Era in complex with MgGDPNP and nucleotides 1506-1542 of 16S ribosomal RNA,Aquifex aeolicus,RNA301,SSU_rRNA_eukarya,25.2,1.8e-06,RF01960
-3j45_2,Structure of a non-translocating SecY protein channel with the 70S ribosome,,23S ribosomal RNA,LSU_rRNA_bacteria,14.5,0.00083,RF02541
-1kh6_A,Crystal Structure of an RNA Tertiary Domain Essential to HCV IRES-mediated Translation Initiation.,,JIIIabc,IRES_HCV,39.4,1.9e-10,RF00061
-5ydt_SA,"Remodeled Utp30 in 90S pre-ribosome (Mtr4-depleted, Enp1-TAP)",,"Saccharomyces cerevisiae strain ALI 308 18S ribosomal RNA gene, partial sequence",SSU_rRNA_eukarya,27.5,6.6e-07,RF01960
-8dg7_F,Structural Basis of MicroRNA Biogenesis by Dicer-1 and Its Partner Protein Loqs-PB - complex III,,RNA (38-MER),let-7,10.1,3.3,RF00027
-5une_A,Dimerized Structure Gives Further Insight Into the Function of the Novel RNA Gene: HAR1,Homo sapiens,RNA (47-MER),HAR1A,26.1,8.7e-07,RF00635
-1r7w_A,"NMR STRUCTURE OF THE R(GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC), DOMAIN IV STEM-LOOP B OF ENTEROVIRAL IRES WITH AUCCCU BULGE",,34-MER,SBWMV2_UPD-PKk,9.3,3.7,RF01111
-7lys_B,Cryo-EM structure of CasPhi-2 (Cas12j) bound to crRNA and DNA,Phage #D,crRNA,Antizyme_FSE,11.6,1.2,RF00381
-6svs_A,Crystal Structure of U:A-U-rich RNA triple helix with 11 consecutive base triples,Homo sapiens,RNA (79-mer),Ref84,18.6,0.66,RF02846
-6u79_A,Solution NMR structure of 5' UTR stem loop B from West Nile Virus,West Nile virus,5' UTR region stem loop,Flavivirus-5UTR,15.2,0.054,RF03546
-5y36_B,Cryo-EM structure of SpCas9-sgRNA-DNA ternary complex,Mus musculus,single-guide RNA,tracrRNA,62.6,8.1e-11,RF02348
-2n8v_X,"An NMR/SAXS structure of the PKI domain of the honeybee dicistrovirus, Israeli acute paralysis virus (IAPV) IRES",Apis mellifera,RNA (70-MER),mir-1537,11.8,2.9,RF03638
-7jl3_X,Cryo-EM structure of RIG-I:dsRNA filament in complex with RIPLET PrySpry domain (trimer),,dsRNA strand1,snoZ17,9.4,7.1,RF00266
-6sdw_B,Solution structure of Staufen1 dsRBD3+4 - hARF1 SBS dsRNA complex.,Homo sapiens,hARF1 SBS dsRNA,PhotoRC-I,16.1,0.0062,RF01716
-7w0e_D,dmDicer2-LoqsPD-dsRNA Active-dicing status,,dsRNA,mir-3165,29.7,0.00013,RF04105
-1xhp_A,Solution Structure of the Extended U6 ISL as Observed in the U2/U6 complex from Saccharomyces cerevisiae,,U6 snRNA,U6,18.1,0.0029,RF00026
-1raw_A,"ATP BINDING RNA APTAMER IN COMPLEX WITH AMP, NMR, 10 STRUCTURES",,RNA APTAMER,serC,6.0,7.7,RF00517
-2kx8_A,NMR structure of stem-loop 4 from the human 7SK snRNA in complex with arginine,Homo sapiens,7SK,7SK,34.5,6.5e-09,RF00100
-7ele_G,Cryo-EM structure of Arabidopsis DCL1 in complex with pre-miRNA 166f,Arabidopsis thaliana,pre-miRNA 166f,mir-166,56.7,3.1e-14,RF00075
-7pkt_2,Large subunit of the Chlamydomonas reinhardtii mitoribosome,,L2a rRNA,6A,15.4,0.43,RF02925
-7pd3_B,Structure of the human mitoribosomal large subunit in complex with NSUN4.MTERF4.GTPBP7 and MALSU1.L0R8F8.mt-ACP,,mt-tRNAVal,tRNA,28.1,4.7e-05,RF00005
-4m4o_B,Crystal structure of the aptamer minE-lysozyme complex,Gallus gallus,RNA (59-MER),L31-Firmicutes,7.9,7.4,RF03156
-7w0c_C,Dicer2-Loqs-PD-dsRNA complex at early-translocation state,,RNA (35-MER),mir-3165,29.7,0.00013,RF04105
-4kzd_R,Crystal structure of an RNA aptamer in complex with fluorophore and Fab,,RNA (84-MER),mir-3145,15.0,0.56,RF03498
-2oeu_A,Full-length hammerhead ribozyme with Mn(II) bound,,Hammerhead Ribozyme,Hammerhead_1,27.6,1e-05,RF00163
-3rw6_H,Structure of nuclear RNA export factor TAP bound to CTE RNA,Homo sapiens,constitutive transport element(CTE)of Mason-Pfizer monkey virus RNA,Cobalamin,9.5,0.36,RF00174
-6ufg_A,Co-crystal structure of M. tuberculosis ileS T-box in complex with tRNA-3'-OH,Mycobacterium tuberculosis,RNA (166-MER),T-box,23.2,0.00049,RF00230
-7w0d_C,Dicer2-LoqsPD-dsRNA complex at mid-translocation state,,dsRNA,mir-3165,29.7,0.00013,RF04105
-8aw3_1,Cryo-EM structure of the TbADAT2/3 deaminase in complex with tRNA,,RNA (75-MER),tRNA,64.2,4e-15,RF00005
-2nue_C,Crystal structure of RNase III from Aquifex aeolicus complexed with ds-RNA at 2.9-Angstrom Resolution,Aquifex aeolicus,46-MER,mir-3122,22.3,0.006,RF03366
-2lpt_A,Molecular dynamics re-refinement of domain 5 of the Pylaiella littoralis group II intron,,RNA_(34-MER),Intron_gpII,39.9,5.5e-08,RF00029
-7dlz_X,Crystal Structure of Methyltransferase Ribozyme,synthetic construct,RNA (45-MER),mir-B8,10.5,9.2,RF03890
-7oax_A,Crystal structure of the Chili RNA aptamer in complex with DMHBO+,synthetic construct,Chili RNA Aptamer,KDPG-aldolase,8.8,5.6,RF03115
-5xlp_K,Anti-CRISPR proteins AcrF1/2 bound to Csy surveillance complex with a 20nt spacer crRNA backbone region,,crRNA with 20nt spacer sequence,CRISPR-DR4,26.9,4e-05,RF01317
-4rbq_A,32 base pair oligo(U) RNA,synthetic construct,U-Helix RNA from Trypanosome editing,mir-1252,11.8,2.7,RF03623
-5de8_A,"Crystal structure of the complex between human FMRP RGG motif and G-quadruplex RNA, iridium hexammine bound form.",synthetic construct,sc1,GlsR17_miR2,12.3,0.54,RF02339
-2pcv_A,Solution Structure of an rRNA Substrate Bound to the Pseudouridylation Pocket of a Box H/ACA snoRNA,Homo sapiens,U65 Box H/ACA snoRNA,SNORA65,7.1,9.0,RF00302
-5xwp_C,Crystal structure of LbuCas13a-crRNA-target RNA ternary complex,synthetic construct,RNA (59-MER),CRISPR-DR32,13.3,2.0,RF01342
-2oiu_P,L1 Ribozyme Ligase circular adduct,,L1 Ribozyme RNA Ligase,Transposase-2,8.4,5.4,RF03015
-4v5z_BG,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,,RNA Expansion segment ES9,mir-574,28.5,0.0009,RF00929
-1i9f_A,STRUCTURAL CHARACTERIZATION OF THE COMPLEX OF THE REV RESPONSE ELEMENT RNA WITH A SELECTED PEPTIDE,,REV RESPONSE ELEMENT RNA,RRE,8.1,0.16,RF00036
-5f9r_A,Crystal structure of catalytically-active Streptococcus pyogenes CRISPR-Cas9 in complex with single-guided RNA and double-stranded DNA primed for target DNA cleavage,Streptococcus pyogenes MGAS8232,RNA (116-MER),tracrRNA,73.4,4.9e-13,RF02348
-1p5n_A,Solution Structure of HCV IRES Domain IIb,,34-MER,IRES_HCV,15.2,0.0024,RF00061
-7qca_S60,Spraguea lophii ribosome,,RNA SSU,SSU_rRNA_microsporidia,1179.1,0.0,RF02542
-8ac0_R,"RNA polymerase at U-rich pause bound to regulatory RNA putL - active, closed clamp state",,putL RNA,Ms_AS-1,9.4,3.9,RF02463
-7qca_L70,Spraguea lophii ribosome,,RNA 5S,5S_rRNA,93.6,1.8e-21,RF00001
-7xui_R,Cryo-EM structure of sigma70 bound HK022 putRNA-associated E.coli RNA polymerase elongation complex,,RNA (122-mer),rsmX,24.8,0.0016,RF02144
-6eri_AB,Structure of the chloroplast ribosome with chl-RRF and hibernation-promoting factor,,4.5S ribosomal RNA,LSU_rRNA_bacteria,33.8,8.2e-10,RF02541
-7qca_L50,Spraguea lophii ribosome,,RNA 23S,LSU_rRNA_eukarya,1664.0,0.0,RF02543
-6ydw_AY,55S mammalian mitochondrial ribosome with mtEFG1 and two tRNAMet (TI-POST),,tRNAMet,tRNA,25.9,0.0002,RF00005
-7qr8_A,SpCas9 bound to PTPRC off-target1 DNA substrate,synthetic construct,PTPRC sgRNA,tracrRNA,45.5,2.7e-07,RF02348
-2nc1_A,Solution structure of the delta-J-delta-K domain of EMCV IRES,synthetic construct,IRES RNA (67-MER),IRES_Picorna_2,23.7,2.3e-06,RF00210
-5t16_H,Crystal structure of yeast RNase III (Rnt1p) complexed with a non-hydrolyzable RNA substrate analog,,RNA substrate analog,mir-3130,13.3,0.57,RF03736
-6p5n_1,Structure of a mammalian 80S ribosome in complex with a single translocated Israeli Acute Paralysis Virus IRES and eRF1,,IAPV-IRES,IMES-4,15.9,1.4,RF02037
-4plx_A,Crystal structure of the triple-helical stability element at the 3' end of MALAT1,Homo sapiens,Core ENE hairpin and A-rich tract from MALAT1,mir-737,17.3,0.48,RF03956
-5y7m_D,Crystal structure of PhoRpp38 bound to a K-turn in P12.1 helix,Pyrococcus horikoshii OT3,RNA (52-MER),sR60,10.9,0.78,RF01309
-7eqg_M,Structure of Csy-AcrIF5,,RNA (60-MER),CRISPR-DR4,26.9,5e-05,RF01317
-8a22_A4,Structure of the mitochondrial ribosome from Polytomella magna,,mtLSU-4,LSU_rRNA_bacteria,20.4,1.8e-05,RF02541
-6w2t_A,Structure of the Cricket Paralysis Virus 5-UTR IRES (CrPV 5-UTR-IRES) bound to the small ribosomal subunit in the closed state (Class 2),,CrPV 5'-UTR IRES,KRAS_3UTR,21.8,1.7,RF02584
-2jtp_A,Solution Structure of the Frameshift-Inducing RNA Stem-Loop in SIV,,SIV17-50 RNA (34-MER),HIV_FS2,40.1,7.4e-09,RF01835
-2r8s_R,High resolution structure of a specific synthetic FAB bound to P4-P6 RNA ribozyme domain,,P4-P6 RNA RIBOZYME DOMAIN,Intron_gpI,39.2,5.1e-09,RF00028
-6dme_A,"ppGpp Riboswitch bound to ppGpp, thallium acetate structure",Sulfobacillus acidophilus DSM 10332,ppGpp Riboswitch,ykkC-yxkD,32.0,5.1e-05,RF00442
-7eni_B,Crystal structure of cas and anti-cas protein complex,,sgRNA (74-MER),IRES_Kv1_4,6.0,6.3,RF00447
-4oji_A,Crystal Structure of Twister Ribozyme,,RNA (52-MER),twister-P1,58.3,3.1e-14,RF03160
-6dn2_Y,CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1354 SPLIT RNA,Fusobacterium nucleatum,RNA (56-MER),FMN,46.5,8.9e-11,RF00050
-7b3c_T,Structure of elongating SARS-CoV-2 RNA-dependent RNA polymerase with Remdesivir at position -4 (structure 2),,RNA (5'-R(P*UP*CP*AP*CP*UP*UP*GP*CP*GP*UP*AP*G)-3'),mir-4081,14.7,0.61,RF03867
-3aoi_U,RNA polymerase-Gfh1 complex (Crystal type 2),,RNA (5'-R(*CP*CP*CP*GP*GP*AP*AP*GP*AP*UP*CP*AP*UP*CP*UP*UP*CP*CP*GP*GP*GP*GP*GP*AP*U*GP*CP*GP*GP*CP*GP*G)-3'),His_leader,19.2,0.023,RF00514
-5btm_A,Crystal structure of AUUCU repeating RNA that causes spinocerebellar ataxia type 10 (SCA10),Homo sapiens,RNA (55-mer),SNORD93,11.2,3.9,RF00606
-8d8l_a,Yeast mitochondrial small subunit assembly intermediate (State 3),,15S ribosomal RNA,SSU_rRNA_bacteria,260.2,1.1e-80,RF00177
-1txs_A,STEM-LOOP D OF THE CLOVERLEAF DOMAIN OF ENTEROVIRAL 5'UTR RNA,,Enteroviral 5'-UTR,Entero_5_CRE,34.3,1.4e-07,RF00386
-7m5o_B,Cryo-EM structure of CasPhi-2 (Cas12j) bound to crRNA,Phage #D,crRNA,Antizyme_FSE,11.6,1.2,RF00381
-5lzc_x,Structure of SelB-Sec-tRNASec bound to the 70S ribosome in the codon reading state (CR),,SECIS mRNA,SECIS_2,36.0,5.7e-07,RF01988
-6gaz_AV,Unique features of mammalian mitochondrial translation initiation revealed by cryo-EM. This file contains the 28S ribosomal subunit.,,"P-site fMet-tRNAMet, mitochondrial",tRNA,25.9,0.0002,RF00005
-2qwy_C,SAM-II riboswitch bound to S-adenosylmethionine,,SAM-II riboswitch,SAM_alpha,27.7,1.5e-05,RF00521
-4rge_C,Crystal structure of the in-line aligned env22 twister ribozyme,synthetic construct,env22 twister ribozyme,twister-P1,45.7,1.5e-10,RF03160
-3gs5_C,An all-RNA hairpin ribozyme A38N1dA variant with a product mimic substrate strand,,RNA (36-MER),Hairpin,33.2,4.8e-06,RF00173
-6dn2_X,CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1354 SPLIT RNA,Fusobacterium nucleatum,RNA RIBOSWITCH,FMN,41.3,2.2e-09,RF00050
-3j0o_a,Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 9A cryo-EM map: classic PRE state 2,,40S ribosomal RNA fragment,SSU_rRNA_eukarya,47.6,3.7e-13,RF01960
-5une_B,Dimerized Structure Gives Further Insight Into the Function of the Novel RNA Gene: HAR1,Homo sapiens,RNA (47-MER),HAR1A,26.1,8.7e-07,RF00635
-8asw_X,Cryo-EM structure of yeast Elp123 in complex with alanine tRNA,,Alanine tRNA,tRNA,62.9,9.4e-15,RF00005
-1t1m_B,Binding position of ribosome recycling factor (RRF) on the E. coli 70S ribosome,Escherichia coli,42-mer fragment of double helix from 16S rRNA,SSU_rRNA_bacteria,17.8,0.00018,RF00177
-5w1h_B,Crystal structure of LbaCas13a (C2c2) bound to mature crRNA (24-nt spacer),Lachnospiraceae bacterium,mature crRNA,CRISPR-DR32,10.3,10.0,RF01342
-5fj4_H,Structure of the standard kink turn HmKt-7 as stem loop bound with U1A and L7Ae proteins,,HMKT-7,U1,5.8,2.4,RF00003
-5o7h_A,Structure of the Cascade-I-Fv complex from Shewanella putrefaciens,,crRNA,CRISPR-DR4,30.2,3.5e-06,RF01317
-1c9s_W,CRYSTAL STRUCTURE OF A COMPLEX OF TRP RNA-BINDING ATTENUATION PROTEIN WITH A 53-BASE SINGLE STRANDED RNA CONTAINING ELEVEN GAG TRIPLETS SEPARATED BY AU DINUCLEOTIDES,Geobacillus stearothermophilus,SINGLE STRANDED RNA (55-MER),MIR1886,10.9,3.1,RF03803
-8gs2_D,Structure of the Cas7-11-Csx29-guide RNA-target RNA (non-matching PFS) complex,,target RNA with non-matching PFS,MS2,18.8,0.0015,RF02359
-7jnh_B,Crystal structure of a double-ENE RNA stability element in complex with a 28-mer poly(A) RNA,Oryza sativa,"Core double ENE RNA (Xtal construct) from Oryza sativa transposon,Core double ENE RNA (Xtal construct) from Oryza sativa transposon",MIR821,8.0,4.0,RF00885
-3bo0_G,Ribosome-SecY complex,,23S ribosomal RNA,sR5,8.1,1.2,RF01304
-4by9_A,The structure of the Box CD enzyme reveals regulation of rRNA methylation,,SSR26,snoPyro_CD,23.3,0.00092,RF00095
-1g1x_D,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",,16S ribosomal RNA,Sarbecovirus-5UTR,3.4,8.3,RF03120
-3ep2_B,Model of Phe-tRNA(Phe) in the ribosomal pre-accommodated state revealed by cryo-EM,,Fragment H43-44 of the 23S rRNA,LSU_rRNA_bacteria,46.0,3.2e-14,RF02541
-7y81_B,CryoEM structure of type III-E CRISPR Craspase gRAMP-crRNA complex bound to non-self RNA target,Candidatus Scalindua brodae,crRNA,mir-7578,15.6,0.24,RF03775
-2mhi_A,Solution structure of the CR4/5 domain of medaka telomerase RNA,,Medaka telomerase RNA,Telomerase-vert,25.0,1.5e-05,RF00024
-5k7d_A,"The structure of native pistol ribozyme, bound to Iridium",synthetic construct,RNA 47-MER,Pistol,33.8,2.6e-06,RF02679
-4cxg_a,Regulation of the mammalian elongation cycle by 40S subunit rolling: a eukaryotic-specific ribosome rearrangement,,18S RRNA - H5-H14,SSU_rRNA_eukarya,41.2,3.3e-11,RF01960
-7lhd_A,The complete model of phage Qbeta virion,,Genomic RNA,mir-2076,21.7,0.28,RF04036
-2oiu_Q,L1 Ribozyme Ligase circular adduct,,L1 Ribozyme RNA Ligase,Transposase-2,8.4,5.4,RF03015
-3x1l_I,Crystal Structure of the CRISPR-Cas RNA Silencing Cmr Complex Bound to a Target Analog,,RNA (32-MER),CRISPR-DR6,10.2,3.4,RF01319
-5u30_B,Crystal structure of AacC2c1-sgRNA-extended target DNA ternary complex,Alicyclobacillus acidoterrestris,sgRNA,mir-4880,14.7,0.61,RF04008
-7jrr_A,Crystal structures of artificially designed homomeric RNA nanoarchitectures,synthetic construct,RNA (50-MER),psaA,5.9,5.3,RF01752
-6vrb_B,Cryo-EM structure of AcrVIA1-Cas13(crRNA) complex,,RNA (52-MER),CRISPR-DR10,8.5,8.9,RF01323
-4mgn_A,Co-crystal structure of the G. kaustophilus glyQS T box riboswitch Stem I in complex with tRNA,Geobacillus kaustophilus,glyQS T box riboswitch,SpR19_sRNA,11.2,3.3,RF02447
-8a22_B2,Structure of the mitochondrial ribosome from Polytomella magna,,mtSSU-2,SSU_rRNA_bacteria,28.3,3.8e-07,RF00177
-3j46_3,Structure of the SecY protein translocation channel in action,,23S ribosomal RNA,CRISPR-DR10,10.6,1.8,RF01323
-6iv6_G,Cryo-EM structure of AcrVA5-acetylated MbCas12a in complex with crRNA,synthetic construct,RNA (59-MER),mir-223,9.8,1.5,RF00664
-6vyt_7,"Escherichia coli transcription-translation complex A2 (TTC-A2) containing a 15 nt long mRNA spacer, NusG, and fMet-tRNAs at P-site and E-site",,mRNA with a 15 nt long spacer,ceN106,7.9,8.5,RF01526
-1qzw_F,Crystal structure of the complete core of archaeal SRP and implications for inter-domain communication,Saccharolobus solfataricus,7S RNA,Archaea_SRP,33.8,1.5e-07,RF01857
-8btz_A,Single-stranded Paranemic Crossover RNA Triangle (PXT),synthetic construct,RNA Paranemic croosover triangle (PXT),mtPerm-5S,31.4,0.00033,RF02547
-7elh_S,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,,RNA (60-MER),mir-297,11.6,4.4,RF04217
-6z1p_Aa,Structure of the mitochondrial ribosome from Tetrahymena thermophila,,LSU rRNA_1,LSU_rRNA_bacteria,33.7,2.4e-09,RF02541
-7jrs_A,Crystal structures of artificially designed homomeric RNA nanoarchitectures,synthetic construct,RNA 3D nanocage,Actinomyces-1,14.2,1.8,RF02928
-4x4n_D,Crystal structure of the A.fulgidus CCA-adding enzyme in complex with a G70A arginyl-tRNA minihelix,Homo sapiens,G70A tRNA minihelix,tRNA,14.1,0.17,RF00005
-8apn_C1,Structure of the mitochondrial ribosome from Polytomella magna with tRNA bound to the P site,,P-site tRNA,tRNA,64.6,3e-15,RF00005
-1g1x_I,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",,16S ribosomal RNA,Sarbecovirus-5UTR,3.4,8.3,RF03120
-4ts2_Y,"Crystal structure of the Spinach RNA aptamer in complex with DFHBI, magnesium ions",synthetic construct,"Spinach aptamer RNA, bimolecular construct",mir-2766,14.0,0.25,RF03970
-7s7b_H,Human Nuclear exosome targeting (NEXT) complex homodimer bound to RNA (substrate 1),,RNA (46-MER),MS2,25.9,2.1e-05,RF02359
-4zc7_B,Paromomycin bound to a leishmanial ribosomal A-site,synthetic construct,RNA duplex,naRNA4,25.1,0.0019,RF02564
-6ydp_AV,55S mammalian mitochondrial ribosome with mtEFG1 and P site fMet-tRNAMet (POST),,fMet-tRNAMet (P site),tRNA,25.9,0.0002,RF00005
-6tqn_R,rrn anti-termination complex without S4,,rrnGnut,Ysr197,25.7,1.9e-05,RF02849
+structure,structure_title,chain_length,chain_organism,chain_title,suggested_name,model_length,bit_score,cutoff_score,e_value,suggested_accession
+4o26_E,Crystal structure of the TRBD domain of TERT and the CR4/5 of TR,51,Oryzias latipes,Telomerase TR,Telomerase-vert,436,25.0,70.00,1.4e-05,RF00024
+6s8b_V,"Cryo-EM structure of the Type III-B Cmr-beta bound to cognate target RNA and AMPPnP, state 1",51,,crRNA,CRISPR-DR4,28,11.0,35.00,3.4,RF01317
+4zc7_A,Paromomycin bound to a leishmanial ribosomal A-site,92,synthetic construct,RNA duplex,naRNA4,77,25.1,59.50,0.0019,RF02564
+2agn_C,Fitting of hepatitis C virus internal ribosome entry site domains into the 15 A Cryo-EM map of a HCV IRES-80S ribosome (H. sapiens) complex,77,synthetic construct,HCV IRES DOMAIN II,IRES_HCV,252,32.3,100.00,3.8e-08,RF00061
+5b2p_B,Crystal structure of Francisella novicida Cas9 in complex with sgRNA and target DNA (TGA PAM),94,synthetic construct,Guide RNA,FtrA,111,44.1,134.00,2.9e-06,RF02747
+2noq_B,Structure of ribosome-bound cricket paralysis virus IRES RNA,46,,18S Ribosomal RNA,SSU_rRNA_bacteria,1533,42.1,50.00,3.1e-12,RF00177
+6zj3_LD,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,116,,LSU rRNA chain 3,mir-1276,82,11.1,100.00,8.0,RF03453
+2m57_A,NMR solution structure of domain 5 from Azotobacter vinelandii Intron 5 at pH 7.8,35,Azotobacter vinelandii,RNA_(35-MER),Intron_gpII,93,16.6,40.00,0.029,RF00029
+4lck_F,Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA,102,Oceanobacillus iheyensis,T-BOX RIBOSWITCH STEM I,T-box,224,30.5,93.00,4.1e-06,RF00230
+1zc5_A,Structure of the RNA signal essential for translational frameshifting in HIV-1,41,,HIV-1 frameshift RNA signal,HIV_FE,52,40.8,42.00,9.1e-06,RF00480
+7cxm_J,Architecture of a SARS-CoV-2 mini replication and transcription complex,58,,RNA (26-MER),L25-Gammaproteobacteria,26,17.8,34.10,0.026,RF03131
+7kub_A,Au1 Domain of VEGF Readthrough Element,60,Bos taurus,RNA (60-MER),L31-Firmicutes,30,17.2,33.30,0.048,RF03156
+6z9t_R,Transcription termination intermediate complex 5,99,,rut RNA,algC,52,10.4,33.80,7.4,RF02929
+2jyf_A,Tetraloop-receptor RNA complex,43,,RNA (43-MER),ncr1015,121,16.3,60.00,0.66,RF02449
+6c63_A,Crystal Structure of the Mango-II Fluorescent Aptamer Bound to TO1-Biotin,36,synthetic construct,RNA (36-MER),cow-rumen-4,64,9.8,48.50,6.7,RF02948
+2vpl_B,The structure of the complex between the first domain of L1 protein from Thermus thermophilus and mRNA from Methanococcus jannaschii,48,Methanocaldococcus jannaschii,FRAGMENT OF MRNA FOR L1-OPERON CONTAINING REGULATOR L1-BINDING SITE,drz-agam-1,82,8.8,37.00,5.5,RF01787
+5b2t_A,Crystal structure of the Streptococcus pyogenes Cas9 VRER variant in complex with sgRNA and target DNA (TGCG PAM),81,Streptococcus pyogenes,Guide RNA,tracrRNA,91,45.6,74.00,2.5e-07,RF02348
+7qqx_A,SpCas9 bound to FANCF off-target5 DNA substrate,84,synthetic construct,FANCF sgRNA,tracrRNA,91,45.5,74.00,2.7e-07,RF02348
+4qjh_F,Crystal Structure of the Twister Ribozyme with the Nucleotide 5'- to the Cleavage Site Ordered at 4.1 A Resolution,48,,Twister Ribozyme,twister-P3,73,27.9,39.90,6.6e-05,RF03154
+8b6z_B,CryoEM Structure of Extended eEF1A bound to the Ribosome in the Classical Pre State,5070,Homo sapiens,28S ribosomal RNA,LSU_rRNA_eukarya,3401,2379.3,50.00,0.0,RF02543
+7rex_A,PreQ1-1 (type-1) riboswitch in complex with tandem stacked metabolites,34,Carnobacterium antarcticum,RNA (34-MER),PreQ1,45,36.4,45.50,1.1e-07,RF00522
+7bhp_B,Cryo-EM structure of the human Ebp1 - 80S ribosome,36,,Poly GC double helix strand modeled for ES27L density next to EBP1 density,TCV_Pr,34,13.1,40.00,0.52,RF00502
+6zqa_D2,"Cryo-EM structure of the 90S pre-ribosome from Saccharomyces cerevisiae, state A (Poly-Ala)",700,,5ETS RNA,mir-627,87,20.2,86.00,0.062,RF03831
+1ymo_A,Solution structure of the P2b-P3 pseudoknot from human telomerase RNA,47,Homo sapiens,Telomerase RNA P2b-P3 pseudoknot,Telomerase-vert,436,24.4,70.00,1.9e-05,RF00024
+1am0_A,"AMP RNA APTAMER COMPLEX, NMR, 8 STRUCTURES",40,,RNA APTAMER,mir-8286,56,10.3,70.00,2.9,RF03570
+3id5_H,"Crystal structure of Sulfolobus solfataricus C/D RNP assembled with Nop5, fibrillarin, L7Ae and a split half C/D RNA",35,,half C/D RNA,SNORD61,72,12.8,43.00,2.3,RF00270
+6d12_C,Crystal structure of C-terminal xRRM domain of human Larp7 bound to 7SK stem-loop 4 RNA,38,Homo sapiens,human 7SK RNA stem-loop 4,mir-1226,76,9.2,70.00,7.6,RF00945
+7uo7_T,"SARS-CoV-2 replication-transcription complex bound to ATP, in a pre-catalytic state",55,,Template RNA (55-MER),Sarbecovirus-3UTR,335,21.0,179.70,3.8e-05,RF03125
+1i6u_C,RNA-PROTEIN INTERACTIONS: THE CRYSTAL STRUCTURE OF RIBOSOMAL PROTEIN S8/RRNA COMPLEX FROM METHANOCOCCUS JANNASCHII,37,Methanocaldococcus jannaschii,16S RRNA FRAGMENT,snoR9,128,13.0,90.00,0.054,RF00065
+2bh2_D,Crystal Structure of E. coli 5-methyluridine methyltransferase RumA in complex with ribosomal RNA substrate and S-adenosylhomocysteine.,37,Escherichia coli,23S RIBOSOMAL RNA 1932-1968,LSU_rRNA_bacteria,2925,31.0,50.00,2.6e-09,RF02541
+3hhn_E,"Crystal structure of class I ligase ribozyme self-ligation product, in complex with U1A RBD",137,Homo sapiens,"Class I ligase ribozyme, self-ligation product",U1,166,9.9,66.00,0.62,RF00003
+1rmn_A,A THREE-DIMENSIONAL MODEL FOR THE HAMMERHEAD RIBOZYME BASED ON FLUORESCENCE MEASUREMENTS,49,,RNA (49-MER),Hammerhead_3,54,27.1,41.80,5.6e-05,RF00008
+3ktw_C,Crystal structure of the SRP19/S-domain SRP RNA complex of Sulfolobus solfataricus,96,Saccharolobus solfataricus,SRP RNA,Archaea_SRP,318,75.5,89.00,3.8e-18,RF01857
+2ozb_C,Structure of a human Prp31-15.5K-U4 snRNA complex,33,,RNA comprising the 5' Stem-Loop RNA of  U4snRNA,U4,138,24.5,46.00,4.6e-05,RF00015
+1e8o_E,Core of the Alu domain of the mammalian SRP,50,,7SL RNA,Metazoa_SRP,301,38.1,70.00,2.3e-09,RF00017
+7rwr_A,An RNA aptamer that decreases flavin redox potential,38,synthetic construct,RNA (38-MER),CRISPR-DR9,37,10.1,45.00,2.5,RF01322
+3hax_E,Crystal structure of a substrate-bound Gar1-minus H/ACA RNP from Pyrococcus furiosus,63,,H/ACA RNA,HgcE,130,15.4,50.00,0.052,RF00060
+6xjq_A,Crystal structure of a self-alkylating ribozyme - alkylated form with biotinylated epoxide substrate,58,,Self-alkylating ribozyme (58-MER),DUF3800-IX,67,9.1,36.80,7.4,RF02968
+1s03_B,The Structure of a Ribosomal Protein S8/spc Operon mRNA Complex,47,Escherichia coli,47-MER,queA,59,8.8,52.60,3.3,RF03093
+5ztm_C,Crystal structure of MLE dsRBDs in complex with roX2 (R2H1),55,Drosophila melanogaster,non-coding mRNA sequence roX2,mir-3047,61,17.1,53.00,0.085,RF03339
+1b36_A,"SOLUTION STRUCTURE OF THE HAIRPIN RIBOZYME LOOP B DOMAIN RNA, NMR, 10 STRUCTURES",38,synthetic construct,RNA (RNA LOOP B),rsmX,114,7.0,56.00,5.2,RF02144
+1a60_A,"NMR STRUCTURE OF A CLASSICAL PSEUDOKNOT: INTERPLAY OF SINGLE-AND DOUBLE-STRANDED RNA, 24 STRUCTURES",44,Turnip yellow mosaic virus,TYMV PSEUDOKNOT,Tymo_tRNA-like,84,33.4,40.00,1.5e-06,RF00233
+7a5p_Y,Human C Complex Spliceosome - Medium-resolution PERIPHERY,324,,pre-mRNA,fstAT,94,19.7,72.00,0.19,RF01797
+7ctt_T,Cryo-EM structure of Favipiravir bound to replicating polymerase complex of SARS-CoV-2 in the pre-catalytic state.,40,,Template-RNA (5'-R(P*AP*CP*UP*AP*GP*CP*UP*UP*CP*UP*UP*AP*GP*GP*AP*GP*AP*A)-3'),Sarbecovirus-3UTR,335,31.4,179.70,1.6e-08,RF03125
+7tj2_G,SARS-CoV-2 endoribonuclease Nsp15 bound to dsRNA,52,synthetic construct,RNA (31-MER),let-7,84,12.5,50.00,1.0,RF00027
+4pjo_1,Minimal U1 snRNP,60,,U1 RNA variant (48-MER) with 4-helix junction replaced by kissing loop (HIV-1 (Mal) DIS) and shorter stem-loop 4.,U1,166,24.0,66.00,2.4e-05,RF00003
+2mqt_A,Solution NMR structure of the U5-primer binding site (U5-PBS) domain of murine leukemia virus RNA genome,68,Murine leukemia virus,RNA (68-MER),mir-3204,75,14.4,90.00,0.52,RF03568
+2mqv_B,Solution NMR structure of the U5-primer binding site (U5-PBS) domain of murine leukemia virus RNA genome bound to the retroviral nucleocapsid protein,68,Murine leukemia virus,RNA (68-MER),mir-3204,75,14.4,90.00,0.52,RF03568
+6lnb_M,CryoEM structure of Cascade-TniQ-dsDNA complex,60,,CRISPR RNA (60-MER),weev_FSE,27,13.6,40.00,2.6,RF01836
+2kzl_A,Specifier domain and GA motif region of B. subtilis tyrS T box leader RNA,55,Bacillus subtilis subsp. subtilis str. 168,RNA (55-MER),T-box,224,13.2,93.00,0.066,RF00230
+3nkb_B,A 1.9A crystal structure of the HDV ribozyme precleavage suggests both Lewis acid and general acid mechanisms contribute to phosphodiester cleavage,64,Homo sapiens,The hepatitis delta virus ribozyme,HDV-F-prausnitzii,74,22.3,44.00,0.0039,RF02682
+1u63_D,THE STRUCTURE OF A RIBOSOMAL PROTEIN L1-mRNA COMPLEX,49,Methanocaldococcus jannaschii,49 NT FRAGMENT OF MRNA FOR L1,drz-agam-1,82,8.8,37.00,5.6,RF01787
+3izd_A,Model of the large subunit RNA expansion segment ES27L-out based on a 6.1 A cryo-EM map of Saccharomyces cerevisiae translating 80S ribosome. 3IZD is a small part (an expansion segment) which is in an alternative conformation to what is in already 3IZF.,151,Saccharomyces cerevisiae,"rRNA expansion segment ES27L in an ""out"" conformation",CRISPR-DR34,36,12.8,35.00,4.4,RF01344
+1mvr_A,"Decoding Center & Peptidyl transferase center from the X-ray structure of the Thermus thermophilus 70S ribosome, aligned to the low resolution Cryo-EM map of E.coli 70S Ribosome",45,,Helix 34 of 16S rRNA,SSU_rRNA_bacteria,1533,23.3,50.00,3.1e-06,RF00177
+4v5z_BF,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,120,,RNA Expansion segment ES7 part III,MIR918,265,57.2,268.00,2.9e-10,RF04104
+8a22_B4,Structure of the mitochondrial ribosome from Polytomella magna,348,,mtSSU-4,SSU_rRNA_bacteria,1533,77.5,50.00,1e-22,RF00177
+7c7l_C,Cryo-EM structure of the Cas12f1-sgRNA-target DNA complex,180,uncultured archaeon,sgRNA,CRISPR-DR58,37,15.0,38.00,1.0,RF01371
+3am1_B,Crystal structure of O-Phosphoseryl-tRNA kinase complexed with anticodon-stem/loop truncated tRNA(Sec),81,Methanocaldococcus jannaschii,ASL-truncated tRNA,tRNA-Sec,91,46.5,47.00,2.1e-09,RF01852
+1qzc_A,"Coordinates of S12, SH44, LH69 and SRL separately fitted into the cryo-EM map of EF-Tu ternary complex (GDP.Kirromycin) bound 70S ribosome",44,Escherichia coli,16S ribosomal RNA,SSU_rRNA_bacteria,1533,21.1,50.00,1.6e-05,RF00177
+7pwg_4,Cryo-EM structure of large subunit of Giardia lamblia ribosome at 2.7 A resolution,139,,5.8S ribosomal RNA,5_8S_rRNA,154,22.0,42.00,0.00016,RF00002
+6x5m_r,"Crystal structure of a stabilized PAN ENE bimolecular triplex with a GC-clamped polyA tail, in complex with Fab-BL-3,6.",78,,ggPAN RNA (39-MER),CRISPR-DR60,37,19.5,45.00,0.056,RF01373
+5xwy_B,Electron cryo-microscopy structure of LbuCas13a-crRNA binary complex,59,synthetic construct,RNA (59-MER),CRISPR-DR32,37,13.3,48.00,2.0,RF01342
+7szu_R,Crystal structure of Pepper RNA aptamer in complex with HBC ligand and Fab BL3-6,67,,RNA aptamer,mir-2217,62,12.9,60.00,0.91,RF03369
+6vu1_A,Cap3G-TAR-F1 is an RNA hairpin. The 1H-1H NOESY data was collected at 308 K in 10 mM KH2PO4 pH 7.4.,34,Human immunodeficiency virus 1,RNA (34-MER),mir-TAR,61,22.3,40.00,0.0012,RF00250
+7pkt_1,Large subunit of the Chlamydomonas reinhardtii mitoribosome,162,,L1 rRNA,CRISPR-DR39,31,15.8,39.00,3.7,RF01358
+7eu0_O,The cryo-EM structure of A. thaliana Pol IV-RDR2 backtracked complex,39,,RNA (39-MER),mir-7398,60,9.8,44.00,4.4,RF03378
+3j0l_1,Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 9.8A cryo-EM map: classic PRE state 1,50,,60S ribosomal RNA fragment,LSU_rRNA_eukarya,3401,35.5,50.00,3.1e-08,RF02543
+5tzs_2,Architecture of the yeast small subunit processome,126,,U3 snoRNA,Fungi_U3,276,57.3,95.00,4.2e-14,RF01846
+6u8d_A,Crystal structure of hepatitis C virus IRES junction IIIabc in complex with Fab HCV2,68,,JIIIabc RNA (68-MER),IRES_HCV,252,47.8,100.00,7.5e-13,RF00061
+3izz_A,Models for ribosome components that are nearest neighbors to the bovine mitochondrial initiation factor2 bound to the E. Coli ribosome,59,,"Helix 5, 14, 15 (Small Subunit)",SSU_rRNA_bacteria,1533,19.9,50.00,5.1e-05,RF00177
+2l2k_A,Solution NMR structure of the R/G STEM LOOP RNA-ADAR2 DSRBM2 Complex,42,Homo sapiens,RNA (42-MER),mir-2985-2,81,27.8,67.00,6.8e-05,RF02095
+6xmf_C,Cryo-EM structure of Cas12g binary complex,122,Lachnospiraceae bacterium ND2006,RNA (116-MER),mir-5615,61,13.0,82.00,2.1,RF03973
+6aay_B,the Cas13b binary complex,59,Bergeyella zoohelcum,RNA (52-MER),DUF2815,63,11.8,41.20,2.6,RF03084
+6zj3_LL,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,95,,LSU rRNA chain 11,PyrR207,65,13.5,60.00,1.1,RF02805
+1m5l_A,Structure of wild-type and mutant internal loops from the SL-1 domain of the HIV-1 packaging signal,38,,modified HIV-1 packaging signal stem-loop 1 RNA,HIV-1_DIS,40,21.7,35.00,0.0064,RF00175
+7qgh_x,Structure of the E. coli disome - collided 70S ribosome,692,,Messenger RNA,DUF2815,63,20.0,41.20,0.24,RF03084
+5dea_C,"Crystal structure of the complex between human FMRP RGG motif and G-quadruplex RNA, cesium bound form.",35,synthetic construct,sc1,GlsR17_miR2,63,12.3,84.00,0.54,RF02339
+3nvk_K,Structural basis for substrate placement by an archaeal box C/D ribonucleoprotein particle,34,,RNA (5'-R(*GP*CP*CP*GP*UP*UP*GP*AP*AP*GP*CP*UP*CP*UP*GP*AP*CP*CP*GP*AP*AP*AP*GP*GP*CP*GP*UP*GP*AP*UP*GP*AP*GP*C)-3'),sR40,61,7.7,50.00,3.3,RF01297
+3aoi_Q,RNA polymerase-Gfh1 complex (Crystal type 2),32,,RNA (5'-R(*CP*CP*CP*GP*GP*AP*AP*GP*AP*UP*CP*AP*UP*CP*UP*UP*CP*CP*GP*GP*GP*GP*GP*AP*U*GP*CP*GP*GP*CP*GP*G)-3'),His_leader,127,19.2,49.00,0.023,RF00514
+7w0e_C,dmDicer2-LoqsPD-dsRNA Active-dicing status,53,,dsRNA,mir-3165,75,29.7,90.00,0.00013,RF04105
+5c45_Y,Selective Small Molecule Inhibition of the FMN Riboswitch,56,Fusobacterium nucleatum,FMN Riboswitch,FMN,138,46.5,66.20,8.9e-11,RF00050
+4prf_B,A Second Look at the HDV Ribozyme Structure and Dynamics.,76,Homo sapiens,Hepatitis Delta virus ribozyme,HDV_ribozyme,91,36.6,50.00,0.00021,RF00094
+7ptk_B,Young conformer of a 6-helix bundle of RNA with clasp,720,synthetic construct,RNA,asX6,93,21.9,50.00,0.12,RF02239
+7pkt_0,Large subunit of the Chlamydomonas reinhardtii mitoribosome,75,,L3a rRNA (5S),mir-7371,59,12.7,62.60,3.4,RF03731
+2n6s_A,Structure of CssA4 (bottom stem) of CssA thermometer,36,Neisseria meningitidis,RNA (36-MER),mir-361,71,11.2,70.00,1.9,RF00744
+6bu9_C,Drosophila Dicer-2 bound to blunt dsRNA,52,unidentified,RNA (5'-R(*AP*CP*UP*AP*CP*UP*AP*UP*AP*CP*AP*AP*CP*CP*UP*AP*C)-3'),let-7,84,10.0,50.00,4.9,RF00027
+3r9x_C,"Crystal structure of Era in complex with MgGDPNP, nucleotides 1506-1542 of 16S ribosomal RNA, and KsgA",35,,RNA301,SSU_rRNA_archaea,1477,32.5,50.00,1.4e-08,RF01959
+5wlh_B,Crystal structure of LbaCas13a H328A (C2c2) bound to pre-crRNA (24-nt spacer),54,Lachnospiraceae bacterium NK4A179,pre-crRNA,Tombus_3_III,70,6.9,35.00,9.9,RF00215
+3e5c_A,Crystal Structure of the SMK box (SAM-III) Riboswitch with SAM,53,,SMK box (SAM-III) Riboswitch,SMK_box_riboswitch,82,41.5,45.00,5.5e-10,RF01767
+5bjo_E,"Crystal structure of the Corn RNA aptamer in complex with DFHO, site-specific 5-iodo-U",36,synthetic construct,RNA (36-MER),SNORA47,138,6.5,45.00,5.8,RF01234
+6n2v_A,Manganese riboswitch from Xanthmonas oryzae bound to Mn(II),99,Xanthomonas oryzae,X. oryzae Mn riboswitch optimized construct,yybP-ykoY,175,35.7,45.00,7.5e-09,RF00080
+6i7o_l,The structure of a di-ribosome (disome) as a unit for RQC and NGD quality control pathways recognition.,57,,Messenger RNA,rimP,111,9.8,47.00,7.3,RF01770
+7dmq_B,Cryo-EM structure of LshCas13a-crRNA-anti-tag RNA complex,58,Leptotrichia shahii,CRISPR RNA,CRISPR-DR10,37,9.7,39.00,4.3,RF01323
+7mky_A,SARS-CoV-2 frameshifting pseudoknot RNA,66,Severe acute respiratory syndrome coronavirus 2,RNA (66-MER),Corona_FSE,78,44.4,46.00,6.3e-10,RF00507
+8a22_B1,Structure of the mitochondrial ribosome from Polytomella magna,102,,mtSSU-1,CRISPR-DR22,36,11.8,49.00,1.4,RF01335
+6b44_M,Cryo-EM structure of Type I-F CRISPR crRNA-guided Csy surveillance complex with bound target dsDNA,60,,Pseudomonas aeruginosa strain SMC4485 CRISPR repeat sequence,CRISPR-DR4,28,26.9,35.00,5e-05,RF01317
+8e6z_7,"Escherichia coli Rho-dependent transcription pre-termination complex containing 18 nt long RNA spacer, dC75 rut mimic RNA, Mg-ADP-BeF3, and NusG; TEC part",35,,RNA with 18 nt long spacer,ceN106,77,7.9,60.00,9.3,RF01526
+6ne0_M,Structure of double-stranded target DNA engaged Csy complex from Pseudomonas aeruginosa (PA-14),60,,CRISPR RNA (60-MER),CRISPR-DR4,28,26.9,35.00,5e-05,RF01317
+2lhp_A,High resolution NMR solution structure of helix H1 of the chimpanzee HAR1 RNA,37,Pan troglodytes,RNA (37-MER),SNORD123,70,10.8,45.00,3.1,RF01156
+7qdu_Q,Twist-corrected RNA origami 5-helix Tile A,552,synthetic construct,Chains: Q,snoZ168,82,17.7,36.00,0.34,RF00159
+4jf2_A,Structure of a class II preQ1 riboswitch reveals ligand recognition by a new fold,77,Lacticaseibacillus rhamnosus,PreQ1-II Riboswitch,preQ1-II,99,35.7,42.00,1.2e-05,RF01054
+6vqv_L,Type I-F CRISPR-Csy complex with its inhibitor AcrF9,60,,CrRNA (60-MER),CRISPR-DR4,28,30.1,35.00,5.2e-06,RF01317
+6zj3_LK,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,64,,LSU rRNA chain 10,mir-611,67,8.5,40.00,9.5,RF01022
+6wpi_B,Crystal structure of Nop9 in complex with ITS1 RNA,47,,RNA (47-MER),PYLIS_5,100,9.3,60.00,8.0,RF02512
+6tw1_V,Bat Influenza A polymerase termination complex with pyrophosphate using 44-mer vRNA template with mutated oligo(U) sequence,44,,vRNA,mir-1914,80,10.5,86.00,6.1,RF03502
+2n4l_A,Solution Structure of the HIV-1 Intron Splicing Silencer and its Interactions with the UP1 Domain of hnRNP A1,53,,RNA (53-MER),STnc410,158,8.8,50.00,1.6,RF02060
+2ku0_A,Inhibitor Induced Structural Change in the HCV IRES Domain IIa RNA,38,Hepacivirus C,HCV IRES Domain IIa RNA,chrB-b,51,13.2,36.50,0.16,RF03086
+7xt4_r,Structure of Craspase-NTR,56,,RNA (34-MER),mir-7578,82,15.1,60.00,0.17,RF03775
+4v84_AV,Crystal structure of a complex containing domain 3 of CrPV IGR IRES RNA bound to the 70S ribosome.,43,,RNA (34-MER),IRES_Cripavirus,201,18.6,80.00,0.015,RF00458
+3r4f_A,Prohead RNA,66,,pRNA,Phage_pRNA,244,34.1,40.00,1.6e-08,RF00044
+2lwk_A,Solution structure of small molecule-influenza RNA complex,32,,RNA (32-MER),ctRNA_p42d,46,9.6,50.00,3.8,RF00489
+2ihx_B,Solution Structure of the Rous Sarcoma Virus Nucleocapsid Protein:uPsi RNA Packaging Signal Complex,75,Rous sarcoma virus,uPsi RNA,mir-3622,84,11.0,78.00,6.0,RF03703
+4v5z_AE,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,32,,RNA Expansion segment ES6 part II,mir-Ro6-3,72,18.9,79.00,0.075,RF03819
+4kr6_D,Crystal structure of a 4-thiouridine synthetase - RNA complex,39,Thermotoga maritima MSB8,RNA (39-MER),HgcG,276,4.1,77.00,4.3,RF00064
+2jea_C,Structure of a 9-subunit archaeal exosome bound to RNA,35,,RNA,Pab91,57,16.2,71.00,0.1,RF02795
+7qh7_B,Cryo-EM structure of the human mtLSU assembly intermediate upon MRM2 depletion - class 4,61,,mitochondrial tRNAVal,tRNA,71,15.5,29.00,0.14,RF00005
+4v5z_BS,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,38,,RNA Expansion segment ES39 part II,mir-4672,81,21.9,98.00,0.0032,RF03293
+4c7o_E,The structural basis of FtsY recruitment and GTPase activation by SRP RNA,48,,SRP RNA,mir-1003,56,9.0,90.00,8.3,RF03830
+1njp_5,The crystal structure of the 50S Large ribosomal subunit from Deinococcus radiodurans complexed with a tRNA acceptor stem mimic (ASM),35,,tRNA acceptor stem mimic,cyano_tmRNA,288,16.8,70.00,0.00054,RF01851
+2hgh_B,Transcription Factor IIIA zinc fingers 4-6 bound to 5S rRNA 55mer (NMR structure),55,Xenopus laevis,55-MER,5S_rRNA,119,15.5,38.00,0.12,RF00001
+7pmm_D,DEAD-box helicase DbpA in the active conformation bound to a ss/dsRNA junction and ADP/BeF3,44,synthetic construct,RNA (45mer) containing HP92 of the 23S rRNA,SmY,80,9.4,39.00,1.1,RF01844
+7b3d_T,Structure of elongating SARS-CoV-2 RNA-dependent RNA polymerase with AMP at position -4 (structure 3),57,,RNA (5'-R(P*UP*GP*CP*AP*CP*UP*GP*CP*GP*UP*AP*G)-3'),mir-4081,51,14.7,70.00,0.61,RF03867
+3dkn_F,Sec61 in the Canine ribosome-channel complex from the endoplasmic reticulum,32,,RNA (32-MER),LSU_rRNA_archaea,2987,13.7,50.00,0.0022,RF02540
+7tj2_H,SARS-CoV-2 endoribonuclease Nsp15 bound to dsRNA,52,synthetic construct,RNA (31-MER),let-7,84,10.0,50.00,4.9,RF00027
+4wzj_XXX,Spliceosomal U4 snRNP core domain,68,,"U4 small nuclear RNA variant: Native sequence 85-145, of which nucleotides 97-104 are replaced with GAAA tetraloop and nucleotides 134-137 are replaced with GAAA tetraloop receptor.",U4,138,20.5,46.00,0.0011,RF00015
+1t28_A,High resolution structure of a picornaviral internal cis-acting replication element,34,,34-MER,Rhino_CRE,86,33.9,45.00,1.8e-06,RF00220
+6p5i_1,Structure of a mammalian 80S ribosome in complex with the Israeli Acute Paralysis Virus IRES (Class 1),253,,IAPV-IRES,IMES-4,80,15.9,48.00,1.4,RF02037
+1d6k_B,NMR SOLUTION STRUCTURE OF THE 5S RRNA E-LOOP/L25 COMPLEX,37,Escherichia coli,5S RRNA E-LOOP (5SE),HIV-1_SL4,20,8.7,31.00,5.7,RF01382
+2l3c_B,Solution structure of ADAR2 dsRBM1 bound to LSL RNA,34,Rattus norvegicus,RNA (34-MER),mir-2985-2,81,27.4,67.00,7e-05,RF02095
+6az3_3,Cryo-EM structure of of the large subunit of Leishmania ribosome bound to paromomycin,211,,rRNA gamma,mir-128,83,14.8,49.00,0.25,RF00649
+6o1o_M,Cryo-EM structure of the T. thermophilus Csm complex bound to target ssRNA,48,,RNA (36-MER),CRISPR-DR36,36,7.0,38.00,6.9,RF01346
+5xtm_B,Crystal structure of PhoRpp38 bound to a K-turn in P12.2 helix,47,Pyrococcus horikoshii OT3,RNA (47-MER),Ms_IGR-2,82,8.9,45.00,2.0,RF02467
+6w3m_A,Solution NMR Structure of 5'UTR Stem Loop B in DENV4 Flavivirus.,41,Dengue virus 4 Philippines/H241/1956,RNA (41-MER),U6atac,126,5.2,33.00,4.6,RF00619
+6vpc_A,Structure of the SpCas9 DNA adenine base editor - ABE8e,82,,Cas9 (SpCas9) single-guide RNA (sgRNA),tracrRNA,91,45.6,74.00,2.5e-07,RF02348
+7uzx_L,Staphylococcus epidermidis RP62a CRISPR effector subcomplex with non-self target RNA bound,40,,CRISPR non-self RNA target,tmRNA,354,2.2,47.00,8.2,RF00023
+1zc8_H,"Coordinates of tmRNA, SmpB, EF-Tu and h44 fitted into Cryo-EM map of the 70S ribosome and tmRNA complex",59,,protein kinase 2 mRNA,MIR815,81,10.1,63.00,7.6,RF00884
+7uga_A,Solution structure of NPSL2,43,Homo sapiens,NPSL2 RNA (43-MER),MIR5516,69,12.5,93.00,0.89,RF03183
+3ovb_C,How the CCA-adding Enzyme Selects Adenine over Cytosine in Position 76 of tRNA,35,Archaeoglobus fulgidus,RNA (35-MER),tRNA,71,16.3,29.00,0.046,RF00005
+1kaj_A,"CONFORMATION OF AN RNA PSEUDOKNOT FROM MOUSE MAMMARY TUMOR VIRUS, NMR, 1 STRUCTURE",32,,RNA PSEUDOKNOT APK,RF_site9,50,17.6,70.00,0.05,RF01098
+6joo_B,Crystal structure of Corynebacterium diphtheriae Cas9 in complex with sgRNA and target DNA,113,,Guide RNA,ctRNA_pGA1,79,12.6,45.00,1.0,RF00236
+8d28_B,Crystal structure of theophylline aptamer in complex with theophylline,33,synthetic construct,RNA (33-MER),PyrR205,61,8.3,35.60,2.8,RF02803
+5d5l_A,PreQ1-II riboswitch with an engineered G-U wobble pair bound to Cs+,77,Lacticaseibacillus rhamnosus LOCK908,PreQ1-II riboswitch,preQ1-II,99,35.4,42.00,1.4e-05,RF01054
+6ww6_D,Crystal structure of EutV bound to RNA,54,Enterococcus faecalis,eutP P2,SAM-SAH,49,9.4,40.00,1.3,RF01727
+8d9k_C,CryoEM structure of human METTL1-WDR4 in complex with Lys-tRNA,72,,RNA (65-MER),tRNA,71,66.6,29.00,8.1e-16,RF00005
+3k1v_A,Cocrystal structure of a mutant class-I preQ1 riboswitch,34,,PreQ1 riboswitch,PreQ1,45,39.3,45.50,1.8e-08,RF00522
+3id5_D,"Crystal structure of Sulfolobus solfataricus C/D RNP assembled with Nop5, fibrillarin, L7Ae and a split half C/D RNA",35,,half C/D RNA,SNORD61,72,12.8,43.00,2.3,RF00270
+6xn3_T,Structure of the Lactococcus lactis Csm CTR_4:3 CRISPR-Cas Complex,34,,target RNA,CRISPR-DR24,30,7.9,35.00,7.0,RF01337
+2hua_A,Solution Structure of CSFV IRES Domain IIa,40,,CSFV IRES Domain IIa,htlv_FSE,43,11.8,45.00,1.3,RF01790
+8a22_A3,Structure of the mitochondrial ribosome from Polytomella magna,210,,mtLSU-3,LSU_rRNA_bacteria,2925,83.1,50.00,5.1e-26,RF02541
+2jyh_B,Rigid-body refinement of the tetraloop-receptor RNA complex,43,,RNA (43-MER),ncr1015,121,16.3,60.00,0.66,RF02449
+7jrt_A,Crystal structures of artificially designed homomeric RNA nanoarchitectures,134,synthetic construct,RNA nano bracelet,SCARNA17,144,10.0,75.00,8.8,RF00492
+8dvu_B,Cryo-EM structure of RIG-I bound to the internal sites of OHSLR30 (+ATP),64,Homo sapiens,OHSLR30,mir-Ro6-3,72,35.8,79.00,2.1e-05,RF03819
+7d8o_B,Crystal structure of E. coli ToxIN type III toxin-antitoxin complex,37,Escherichia coli,Antitoxin RNA,fiv_FSE,35,8.1,53.00,2.2,RF01834
+3hay_E,Crystal structure of a substrate-bound full H/ACA RNP from Pyrococcus furiosus,71,,H/ACA RNA,HgcE,130,17.5,50.00,0.017,RF00060
+5x2g_B,Crystal structure of Campylobacter jejuni Cas9 in complex with sgRNA and target DNA (AGAAACC PAM),93,,sgRNA,CRISPR-DR46,38,16.3,50.00,1.0,RF01359
+6xyw_3,Structure of the plant mitochondrial ribosome,118,,RNA (118-MER),5S_rRNA,119,28.7,38.00,0.0001,RF00001
+8dc2_B,Cryo-EM structure of CasLambda (Cas12l) bound to crRNA and DNA,52,uncultured virus,RNA (51-MER),STnc410,158,6.4,50.00,6.7,RF02060
+2wwb_E,CRYO-EM STRUCTURE OF THE MAMMALIAN SEC61 COMPLEX BOUND TO THE ACTIVELY TRANSLATING WHEAT GERM 80S RIBOSOME,34,,25S ribosomal RNA,LSU_rRNA_eukarya,3401,21.2,50.00,0.00019,RF02543
+7jrs_B,Crystal structures of artificially designed homomeric RNA nanoarchitectures,129,synthetic construct,RNA 3D nanocage,Actinomyces-1,110,14.2,39.10,1.8,RF02928
+7qgr_x,Structure of the SmrB-bound E. coli disome - collided 70S ribosome,692,,Messenger RNA,DUF2815,63,20.0,41.20,0.24,RF03084
+5vw1_C,Crystal structure of SpyCas9-sgRNA-AcrIIA4 ternary complex,85,,sgRNA,tracrRNA,91,44.4,74.00,4.7e-07,RF02348
+7kha_J,Cryo-EM Structure of the Desulfovibrio vulgaris Type I-C Apo Cascade,45,,RNA (45-MER),CRISPR-DR9,37,11.9,45.00,0.87,RF01322
+8euy_6,Ytm1 associated nascent 60S ribosome (-fkbp39) State 1A,300,,RNA (93-MER),mir-3910,82,20.6,95.00,0.052,RF03578
+7enr_B,Crystal structure of cas and anti-cas protein complex,98,,sgRNA (98-MER),ppoRNA,98,10.9,99.00,9.5,RF02554
+7dd4_A,Solution structure of an RNA derived from the joint region of the TAR and PolyA stems of HIV-1 genomic RNA,36,Human immunodeficiency virus 1,RNA (36-MER),mir-TAR,61,14.6,40.00,0.18,RF00250
+3ski_A,Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'-deoxyguanosine,68,Mesoplasma florum,RNA (68-MER),MFR,63,81.2,82.70,1.4e-18,RF01510
+6lt7_C,Crystal structure of human RPP20-RPP25 proteins in complex with the P3 domain of lncRNA RMRP,50,,50-mer RNA,RNaseP_nuc,303,10.9,28.00,0.018,RF00009
+1mj1_Q,FITTING THE TERNARY COMPLEX OF EF-Tu/tRNA/GTP AND RIBOSOMAL PROTEINS INTO A 13 A CRYO-EM MAP OF THE COLI 70S RIBOSOME,41,,sarcin-ricin loop of 23SrRNA,LSU_rRNA_bacteria,2925,23.2,50.00,1.2e-06,RF02541
+4ifd_R,Crystal structure of an 11-subunit eukaryotic exosome complex bound to RNA,45,,RNA (45-MER),STnc370,71,21.8,54.00,0.093,RF02064
+486d_F,X-RAY CRYSTAL STRUCTURES OF 70S RIBOSOME FUNCTIONAL COMPLEXES,85,Thermus thermophilus,PENULTIMATE STEM OF 16S RRNA IN THE 70S RIBOSOME,SSU_rRNA_bacteria,1533,32.0,50.00,9.9e-09,RF00177
+4kr6_C,Crystal structure of a 4-thiouridine synthetase - RNA complex,39,Thermotoga maritima MSB8,RNA (39-MER),HgcG,276,4.1,77.00,4.3,RF00064
+7s7b_D,Human Nuclear exosome targeting (NEXT) complex homodimer bound to RNA (substrate 1),46,,RNA (46-MER),MS2,36,25.9,40.00,2.1e-05,RF02359
+1kpd_A,"A MUTANT RNA PSEUDOKNOT THAT PROMOTES RIBOSOMAL FRAMESHIFTING IN MOUSE MAMMARY TUMOR VIRUS, NMR, MINIMIZED AVERAGE STRUCTURE",32,,RNA PSEUDOKNOT APKA27G,RF_site9,50,14.2,70.00,0.32,RF01098
+6wlj_A,"ATP-TTR-3 with AMP models, 9.6 Angstrom resolution",130,synthetic construct,RNA (130-MER),mir-708,88,14.9,70.00,1.2,RF00917
+486d_G,X-RAY CRYSTAL STRUCTURES OF 70S RIBOSOME FUNCTIONAL COMPLEXES,33,Thermus thermophilus,900 STEM-LOOP OF 16S RRNA IN THE 70S RIBOSOME,SSU_rRNA_bacteria,1533,24.5,50.00,9.5e-07,RF00177
+2ww9_E,Cryo-EM structure of the active yeast Ssh1 complex bound to the yeast 80S ribosome,34,,25S ribosomal RNA,LSU_rRNA_eukarya,3401,21.2,50.00,0.00019,RF02543
+7pkt_6,Large subunit of the Chlamydomonas reinhardtii mitoribosome,136,,L6 rRNA,LSU_rRNA_bacteria,2925,12.5,50.00,0.015,RF02541
+2zy6_A,"Crystal structure of a truncated tRNA, TPHE39A",39,,phenylalanyl transfer RNA,HgcG,276,3.3,77.00,7.6,RF00064
+3cul_C,Aminoacyl-tRNA synthetase ribozyme,92,Homo sapiens,RNA (92-MER),mascRNA-menRNA,56,16.1,42.00,0.15,RF01684
+1mji_D,DETAILED ANALYSIS OF RNA-PROTEIN INTERACTIONS WITHIN THE BACTERIAL RIBOSOMAL PROTEIN L5/5S RRNA COMPLEX,34,Escherichia coli,5S rRNA fragment,5S_rRNA,119,15.6,38.00,0.071,RF00001
+8esq_6,Ytm1 associated nascent 60S ribosome State 2,300,,RNA (81-MER),mir-567,95,21.8,52.00,0.055,RF01036
+5xtm_D,Crystal structure of PhoRpp38 bound to a K-turn in P12.2 helix,47,Pyrococcus horikoshii OT3,RNA (47-MER),Ms_IGR-2,82,8.9,45.00,2.0,RF02467
+5aox_C,Human Alu RNA retrotransposition complex in the ribosome-stalling conformation,87,,ALU JO CONSENSUS RNA,Metazoa_SRP,301,44.9,70.00,4.8e-11,RF00017
+4p95_A,Speciation of a group I intron into a lariat capping ribozyme (Circularly permutated ribozyme),192,Didymium iridis,RNA (192-MER),GIR1,199,88.3,100.00,1e-19,RF01807
+7kkv_B,"Crystal structure of Bacillus halodurans OapB in complex with its OLE RNA target (native, crystal form I)",60,Alkalihalobacillus halodurans C-125,OLE* RNA,OLE,616,26.9,50.00,8.3e-07,RF01071
+7a01_E1,The Halastavi arva virus intergenic region IRES promotes translation by the simplest possible initiation mechanism,153,,INTERNAL RIBOSOME ENTRY SITE,IRES_Cripavirus,201,19.0,80.00,0.042,RF00458
+7n0b_T,Cryo-EM structure of SARS-CoV-2 nsp10-nsp14 (WT)-RNA complex,38,,RNA (5'-R(*AP*UP*GP*UP*GP*AP*UP*UP*UP*UP*AP*AP*UP*AP*GP*CP*UP*UP*CP*U)-3'),Sarbecovirus-3UTR,335,20.1,179.70,4.8e-05,RF03125
+4kr9_X,Crystal structure of a 4-thiouridine synthetase - RNA complex at 3.5 Angstrom resolution,39,Thermotoga maritima MSB8,RNA (39-MER),HgcG,276,4.1,77.00,4.3,RF00064
+1e8s_C,Alu domain of the mammalian SRP (potential Alu retroposition intermediate),88,,"7SL RNA, 88-MER",Metazoa_SRP,301,44.1,70.00,8.3e-11,RF00017
+6szu_V,Bat Influenza A polymerase pre-termination complex with pyrophosphate using 44-mer vRNA template with mutated oligo(U) sequence,44,,vRNA,mir-1914,80,10.5,86.00,6.1,RF03502
+6lax_A,the mutant SAM-VI riboswitch (U6C) bound to SAM,55,Bifidobacterium angulatum,RNA (55-MER),SAM_VI,62,41.9,57.50,3e-08,RF02885
+3nmu_E,Crystal Structure of substrate-bound halfmer box C/D RNP,34,,RNA (34-MER),sR40,61,7.7,50.00,3.3,RF01297
+1a9l_A,"SOLUTION STRUCTURE OF A SUBSTRATE FOR THE ARCHAEAL PRE-TRNA SPLICING ENDONUCLEASES: THE BULGE-HELIX-BULGE MOTIF, NMR, 12 STRUCTURES",38,Haloferax volcanii,PRE-TRNA BULGE-HELIX-BULGE MOTIF,DUF3800-XI,48,8.3,37.80,1.7,RF02975
+8a22_A6,Structure of the mitochondrial ribosome from Polytomella magna,131,,mtLSU-6,SAM-II_long_loops,60,12.2,44.00,2.9,RF01726
+7d8c_B,Crystal structure of the Cas12i1-crRNA binary complex,44,Lachnospiraceae bacterium ND2006,RNA (38-MER),rspL,88,10.1,37.00,9.7,RF01823
+1hmh_A,THREE-DIMENSIONAL STRUCTURE OF A HAMMERHEAD RIBOZYME,34,,HAMMERHEAD RIBOZYME-RNA STRAND,Hammerhead_3,54,19.2,41.80,0.0069,RF00008
+5wtk_B,Crystal structure of RNP complex,58,Leptotrichia shahii,RNA (58-MER),CRISPR-DR10,37,9.7,39.00,4.3,RF01323
+3aoi_S,RNA polymerase-Gfh1 complex (Crystal type 2),32,,RNA (5'-R(*CP*CP*CP*GP*GP*AP*AP*GP*AP*UP*CP*AP*UP*CP*UP*UP*CP*CP*GP*GP*GP*GP*GP*AP*U*GP*CP*GP*GP*CP*GP*G)-3'),His_leader,127,19.2,49.00,0.023,RF00514
+6ww6_E,Crystal structure of EutV bound to RNA,54,Enterococcus faecalis,eutP P2,SAM-SAH,49,9.4,40.00,1.3,RF01727
+7l49_E,Cryo-EM structure of CRISPR-Cas12f Ternary Complex,225,unidentified,sgRNA,CRISPR-DR58,37,15.0,38.00,1.3,RF01371
+7tr6_R,Cascade complex from type I-A CRISPR-Cas system,45,,crRNA (45-MER),CRISPR-DR6,30,10.2,39.00,3.9,RF01319
+4kr9_M,Crystal structure of a 4-thiouridine synthetase - RNA complex at 3.5 Angstrom resolution,39,Thermotoga maritima MSB8,RNA (39-MER),HgcG,276,4.1,77.00,4.3,RF00064
+4v83_CV,Crystal structure of a complex containing domain 3 from the PSIV IGR IRES RNA bound to the 70S ribosome.,35,,domain 3 of PSIC IGR IRES RNA,IRES_Cripavirus,201,11.0,80.00,0.74,RF00458
+4qyz_L,"Crystal structure of a CRISPR RNA-guided surveillance complex, Cascade, bound to a ssDNA target",61,,RNA (55-MER),GlsR20,107,11.8,100.00,0.77,RF02483
+7mlx_R,SARS-CoV-2 programmed -1 frameshifting element three stem H-type pseudoknot,65,,RNA (65-MER),Corona_FSE,78,40.4,46.00,8.6e-09,RF00507
+7zo1_A,SpCas9 bound to CD34 off-target9 DNA substrate,85,synthetic construct,CD34 sgRNA,tracrRNA,91,45.5,74.00,2.7e-07,RF02348
+7cyq_J,Cryo-EM structure of an extended SARS-CoV-2 replication and transcription complex reveals an intermediate state in cap synthesis,59,,Template,SprX,151,7.8,80.00,3.5,RF02672
+4v5z_BE,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,54,,RNA Expansion segment ES7 part II,mir-610,75,41.3,90.00,3.7e-09,RF03852
+8eg0_C,CryoEM structure of human METTL1-WDR4 in complex with Lys-tRNA and SAH,72,,RNA (65-MER),tRNA,71,66.6,29.00,8.1e-16,RF00005
+2dra_B,Complex structure of CCA-adding enzyme with tRNAminiDCC and ATP,34,Archaeoglobus fulgidus,tRNA (34-MER),mascRNA-menRNA,56,21.1,42.00,0.0027,RF01684
+5dh6_A,Two divalent metal ions and conformational changes play roles in the hammerhead ribozyme cleavage reaction-G12A mutant in Mg2+,48,synthetic construct,hammerhead ribozyme,Hammerhead_3,54,34.8,41.80,3.8e-07,RF00008
+8a22_B3,Structure of the mitochondrial ribosome from Polytomella magna,379,,mtSSU-3,SSU_rRNA_bacteria,1533,126.4,50.00,2.1e-38,RF00177
+3t4b_A,Crystal Structure of the HCV IRES pseudoknot domain,84,synthetic construct,HCV IRES pseudoknot domain plus crystallization module,IRES_HCV,252,42.0,100.00,5.1e-11,RF00061
+8d29_F,Crystal structure of theophylline aptamer - apo form,34,,RNA (34-MER),Hairpin,52,8.4,65.00,4.0,RF00173
+5lzd_x,Structure of SelB-Sec-tRNASec bound to the 70S ribosome in the GTPase activated state (GA),48,,SECIS mRNA,SECIS_2,55,36.0,70.00,5.7e-07,RF01988
+7r6q_6,State E2 nucleolar 60S ribosome biogenesis intermediate - Foot region model,87,,ITS-2,rpsL_pseudo,128,9.6,70.00,2.3,RF01773
+5ddo_A,Structural and Dynamic Basis for Low Affinity-High Selectivity Binding of L-glutamine by the Gln-riboswitch,61,Synechococcus elongatus,L-glutamine riboswitch (58-MER),glnA,53,30.2,41.00,7.6e-06,RF01739
+1mzp_B,Structure of the L1 protuberance in the ribosome,55,Sulfolobus acidocaldarius,fragment of 23S rRNA,LSU_rRNA_eukarya,3401,32.8,50.00,1.9e-07,RF02543
+7nad_2,State E2 nucleolar 60S ribosomal biogenesis intermediate - Spb4 local refinement model,72,,5.8S ribosomal RNA,5_8S_rRNA,154,35.5,42.00,1.1e-08,RF00002
+3j45_1,Structure of a non-translocating SecY protein channel with the 70S ribosome,63,,23S ribosomal RNA,LSU_rRNA_bacteria,2925,28.8,50.00,2.4e-08,RF02541
+6c27_A,SAM-III riboswitch ON-state,47,Enterococcus faecalis,SAM-III riboswitch,SMK_box_riboswitch,82,22.2,45.00,0.00054,RF01767
+3siv_C,"Structure of a hPrp31-15.5K-U4atac 5' stem loop complex, dimeric form",32,,U4atac snRNA,U4atac,133,24.7,53.00,0.0011,RF00618
+5y85_D,Structure-based Insights into Self-Cleavage by a Four-way Junctional Twister-Sister Ribozyme,50,metagenome,DNA/RNA (50-MER),Twister-sister,83,29.3,37.80,2e-05,RF02681
+6zqd_D2,"Cryo-EM structure of the 90S pre-ribosome from Saccharomyces cerevisiae, state Post-A1",81,,5ETS RNA,mir-BHRF1-3,65,10.1,80.00,9.2,RF00367
+7xjg_H,Cryo-EM structure of E.coli retron-Ec86 in complex with its effector at 2.5 angstrom,81,,RNA (81-MER),L19-Flavobacteria,30,19.6,31.50,0.026,RF03130
+7pts_A,RNA origami 5-helix tile,558,synthetic construct,5HT-B,b55,61,14.4,70.00,5.3,RF01783
+7elh_O,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,60,,RNA (60-MER),mir-297,71,11.6,90.00,4.4,RF04217
+7slp_R,Cryo-EM structure of 7SK core RNP with linear RNA,81,,Linear 7SK RNA,7SK,330,34.5,35.00,1.2e-08,RF00100
+6z1p_Ba,Structure of the mitochondrial ribosome from Tetrahymena thermophila,196,,SSU rRNA_1,SSU_rRNA_bacteria,1533,35.7,50.00,1.4e-09,RF00177
+6nu2_B,Structural insights into unique features of the human mitochondrial ribosome recycling,56,,mt-tRNAVal,tRNA,71,13.0,29.00,0.61,RF00005
+8ane_R,Structure of the type I-G CRISPR effector,66,synthetic construct,RNA (66-MER),rli61,106,9.8,50.00,6.0,RF01485
+5oik_P,Structure of an RNA polymerase II-DSIF transcription elongation complex,50,,RNA (5'-R(P*UP*AP*UP*AP*UP*AP*CP*AP*UP*AP*AP*AP*GP*AP*CP*CP*AP*GP*GP*C)-3'),psRNA6,324,8.6,60.00,0.26,RF02350
+6c66_J,"CRISPR RNA-guided surveillance complex, pre-nicking",61,,crRNA,Chlorobi-1,67,11.7,50.00,0.21,RF01696
+6nd4_0,Conformational switches control early maturation of the eukaryotic small ribosomal subunit,700,,5'ETS rRNA,mir-627,87,20.2,86.00,0.062,RF03831
+7zpj_B,"Mammalian Dicer in the ""pre-dicing state"" with pre-miR-15a substrate and TARBP2 subunit",59,,59-nt precursor of miR-15a,mir-15,86,50.7,58.00,9.9e-11,RF00455
+8eug_1,Ytm1 associated nascent 60S ribosome State 3,3498,,RNA (2863-MER),LSU_rRNA_eukarya,3401,3338.0,50.00,0.0,RF02543
+7ohq_6,Nog1-TAP associated immature ribosomal particle population C from S. cerevisiae,232,,ITS2,ceN109,67,19.0,52.00,0.026,RF01613
+7s36_R,"Cas9:sgRNA:DNA (S. pyogenes) with 0 RNA:DNA base pairs, closed-protein/bent-DNA conformation",102,Streptococcus pyogenes,Single-guide RNA,tracrRNA,91,63.0,74.00,6.6e-11,RF02348
+8h2h_A,Cryo-EM structure of a Group II Intron Complexed with its Reverse Transcriptase,902,Lactococcus lactis,LtrB,Intron_gpII,93,51.1,40.00,2.5e-09,RF00029
+7tra_R,Cascade complex from type I-A CRISPR-Cas system,44,,crRNA (44-MER),CRISPR-DR6,30,10.2,39.00,3.8,RF01319
+7xsp_A,Structure of gRAMP-target RNA,38,Candidatus Scalindua brodae,RNA (5'-R(P*GP*GP*GP*GP*CP*AP*GP*AP*AP*AP*AP*UP*UP*GP*G)-3'),ToxI,34,8.1,50.00,7.6,RF02519
+6gzk_A,Solution NMR structure of the tetramethylrhodamine (TMR) aptamer 3 in complex with 5-TAMRA,48,synthetic construct,TMR3 (48-MER),eL15-Euryarchaeota,48,9.0,33.70,7.9,RF03144
+7pmq_F,DEAD-box helicase DbpA in the active conformation bound to a hairpin loop RNA and ADP/BeF3,42,synthetic construct,RNA (42-MER),PhotoRC-I,44,7.7,45.00,2.0,RF01716
+2p89_A,Solution structure of the 3' pseudouridyation pocket of U65 snoRNA with bound substrate,34,Homo sapiens,U65 H/ACA snoRNA,SNORA65,127,16.0,70.00,0.081,RF00302
+7qr0_A,SpCas9 bound to TRAC off-target1 DNA substrate,84,synthetic construct,TRAC sgRNA,tracrRNA,91,45.5,74.00,2.7e-07,RF02348
+7sba_Z,Structure of type I-D Cascade bound to a dsDNA target,43,,crRNA,CRISPR-DR25,25,12.7,36.00,1.1,RF01338
+1u6b_B,CRYSTAL STRUCTURE OF A SELF-SPLICING GROUP I INTRON WITH BOTH EXONS,197,Homo sapiens,197-MER,Intron_gpI,251,31.6,50.00,9.8e-07,RF00028
+7shx_A,"A functional SNP regulates E-cadherin expression by dynamically remodeling the 3D structure of a promoter-associated non-coding RNA transcript, NMR, minimized average structure",94,Homo sapiens,RNA (94-MER),MIR2109,71,10.3,100.00,9.0,RF03572
+6dcc_B,Structure of methylphosphate capping enzyme methyltransferase domain in complex with 5' end of 7SK RNA,36,Homo sapiens,human 7SK RNA stem-loop 1 proximal methylated,7SK,330,15.6,35.00,0.002,RF00100
+7xsp_D,Structure of gRAMP-target RNA,74,Candidatus Scalindua brodae,RNA (35-MER),mir-7578,82,15.6,60.00,0.16,RF03775
+6ufh_A,Co-crystal structure of M. tuberculosis ileS T-box in complex with tRNA-3'-2'3'cyclic phosphate,167,Mycobacterium tuberculosis,RNA (167-MER),T-box,224,20.7,93.00,0.0022,RF00230
+8a22_A7,Structure of the mitochondrial ribosome from Polytomella magna,576,,mtLSU-7,LSU_rRNA_bacteria,2925,226.6,50.00,1.2e-73,RF02541
+4y1m_B,An Escherichia coli yybP-ykoY Mn riboswitch in the Mn2+-free state,107,Escherichia coli,E. coli yybP-ykoY riboswitch,yybP-ykoY,175,40.3,45.00,3.7e-10,RF00080
+6dtd_C,High-resolution crystal structure of Cas13b from Prevotella buccae,37,Prevotella buccae,RNA (37-MER),snoU83,84,9.4,50.00,9.9,RF01179
+5y6z_B,Crystal structure of the coxsackievirus A16 polymerase elongation complex,33,synthetic construct,Template RNA (33-MER),RNase_MRP,266,4.1,50.00,2.6,RF00030
+4x4v_B,Crystal structure of the A.fulgidus CCA-adding enzyme in complex with a human MenBeta minihelix ending in CCACC and AMPcPP,37,Homo sapiens,Human MenBeta minihelix ending in CCACC,mascRNA-menRNA,56,23.6,42.00,0.00063,RF01684
+4c4w_H,"Structure of a rare, non-standard sequence k-turn bound by L7Ae protein",35,,TSKT-23,sR40,61,7.2,50.00,4.6,RF01297
+2n6t_A,NMR Assignment and NMR Structure of CssA3 (top stem) of CssA thermometer,42,Neisseria meningitidis,RNA (42-MER),SBWMV1_UPD-PKe,26,10.1,38.00,4.4,RF01081
+4rmo_B,Crystal Structure of the CptIN Type III Toxin-Antitoxin System from Eubacterium rectale,45,synthetic construct,RNA (45-MER),SBRMV1_UPD-PKf,27,11.1,39.00,2.8,RF01107
+3pla_H,Crystal structure of a catalytically active substrate-bound box C/D RNP from Sulfolobus solfataricus,40,,C/D guide RNA,SNORD90,111,13.7,41.00,1.6,RF00579
+1p5p_A,Solution Structure of HCV IRES Domain II (minimized average structure),77,,77-MER,IRES_HCV,252,32.3,100.00,3.8e-08,RF00061
+6zqc_D2,"Cryo-EM structure of the 90S pre-ribosome from Saccharomyces cerevisiae, state Pre-A1",700,,5ETS RNA,mir-627,87,20.2,86.00,0.062,RF03831
+6xn3_R,Structure of the Lactococcus lactis Csm CTR_4:3 CRISPR-Cas Complex,37,,Crispr RNA,freshwater-1,62,7.2,72.00,10.0,RF02979
+6zvk_E1,The Halastavi arva virus (HalV) intergenic region IRES promotes translation by the simplest possible initiation mechanism,153,,INTERNAL RIBOSOME ENTRY SITE,IRES_Cripavirus,201,19.0,80.00,0.042,RF00458
+5tpy_A,Crystal structure of an exonuclease resistant RNA from Zika virus,71,Zika virus,RNA (71-MER),Flavivirus_SLIV,75,17.7,38.60,0.18,RF01415
+7uin_B,CryoEM Structure of an Group II Intron Retroelement,638,[Eubacterium] rectale,E.r IIC Intron,group-II-D1D4-3,171,129.1,32.00,7.4e-29,RF02001
+3iab_R,"Crystal structure of RNase P /RNase MRP proteins Pop6, Pop7 in a complex with the P3 domain of RNase MRP RNA",46,,P3 domain of the RNA component of RNase MRP,glmS,171,11.2,37.00,0.14,RF00234
+8eug_9,Ytm1 associated nascent 60S ribosome State 3,229,,RNA (118-MER),5S_rRNA,119,109.5,38.00,2.7e-25,RF00001
+4r4v_A,Crystal structure of the VS ribozyme - G638A mutant,186,Neurospora,VS ribozyme RNA,Actino-ugpB,61,11.3,42.50,7.0,RF02927
+7w0c_D,Dicer2-Loqs-PD-dsRNA complex at early-translocation state,52,,RNA (35-MER),mir-3165,75,29.7,90.00,0.00013,RF04105
+4jrc_B,Distal Stem I region from G. kaustophilus glyQS T box RNA,57,,Distal Stem I region of the glyQS T box leader RNA,SpR19_sRNA,123,9.9,79.00,4.3,RF02447
+6bu9_B,Drosophila Dicer-2 bound to blunt dsRNA,52,unidentified,RNA (5'-R(*GP*GP*AP*GP*GP*UP*AP*GP*UP*AP*GP*GP*UP*UP*GP*UP*AP*UP*AP*GP*UP*AP*GP*U)-3'),let-7,84,12.5,50.00,1.0,RF00027
+4zt0_D,Crystal structure of catalytically-active Streptococcus pyogenes Cas9 in complex with single-guide RNA at 2.9 Angstrom resolution,85,Streptococcus pyogenes,single-guide RNA,tracrRNA,91,45.6,74.00,2.7e-07,RF02348
+8a22_A8,Structure of the mitochondrial ribosome from Polytomella magna,350,,mtLSU-8,LSU_rRNA_bacteria,2925,167.5,50.00,4.4e-54,RF02541
+8dfv_E,Structural Basis of MicroRNA Biogenesis by Dicer-1 and Its Partner Protein Loqs-PB - complex IIa,60,,RNA (60-MER),let-7,84,45.3,50.00,1.9e-09,RF00027
+1hmh_E,THREE-DIMENSIONAL STRUCTURE OF A HAMMERHEAD RIBOZYME,34,,HAMMERHEAD RIBOZYME-RNA STRAND,Hammerhead_3,54,19.2,41.80,0.0069,RF00008
+6r47_A,The structure of pistol ribozyme bound to magnesium,50,Alistipes putredinis,RNA (50-MER),Pistol,70,28.7,34.00,4.8e-05,RF02679
+2mtk_A,NMR structure of the III-IV-V three-way junction from the VS ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement,47,Neurospora crassa,RNA (47-MER),TB11Cs4H3,74,9.8,40.00,4.2,RF01541
+2zni_C,Crystal structure of Pyrrolysyl-tRNA synthetase-tRNA(Pyl) complex from Desulfitobacterium hafniense,72,Desulfitobacterium hafniense,bacterial tRNA,tRNA,71,24.0,29.00,0.00066,RF00005
+3egz_B,Crystal structure of an in vitro evolved tetracycline aptamer and artificial riboswitch,65,Homo sapiens,Tetracycline aptamer and artificial riboswitch,Rhino_CRE,86,9.4,45.00,9.7,RF00220
+4v8m_BE,High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome,210,Trypanosoma brucei,SHORT RRNA-I OF THE LARGE RIBOSOMAL SUBUNIT,SNORD42,68,14.8,39.00,4.4,RF00150
+4v8t_1,Cryo-EM Structure of the 60S Ribosomal Subunit in Complex with Arx1 and Rei1,114,,ES27 OF THE 25S RRNA,MIR535,102,15.8,56.00,0.13,RF00714
+8d29_J,Crystal structure of theophylline aptamer - apo form,34,,RNA (34-MER),Hairpin,52,8.4,65.00,4.0,RF00173
+4pkd_V,U1-70k in complex with U1 snRNA stem-loops 1 and U1-A RRM in complex with stem-loop 2,55,,U1 snRNA stem-loops 1 and 2 (55-MER),U1,166,21.7,66.00,0.0001,RF00003
+1rnk_A,THE STRUCTURE OF AN RNA PSEUDOKNOT THAT CAUSES EFFICIENT FRAMESHIFTING IN MOUSE MAMMARY TUMOR VIRUS,34,,RNA PSEUDOKNOT,RF_site9,50,19.8,70.00,0.015,RF01098
+5c45_X,Selective Small Molecule Inhibition of the FMN Riboswitch,54,Fusobacterium nucleatum,FMN Riboswitch,FMN,138,41.3,66.20,2.2e-09,RF00050
+7kjv_D,Structure of HIV-1 reverse transcriptase initiation complex core,39,,tRNA lysine 3 fragment with GNRA tetraloop,mascRNA-menRNA,56,22.2,42.00,0.0015,RF01684
+6rja_D,Cryo-EM structure of St1Cas9-sgRNA-tDNA20-AcrIIA6 dimeric assembly.,117,,RNA (78-MER),PyrG_leader,78,15.6,65.00,2.9,RF02371
+2euy_A,Solution structure of the internal loop of human U65 H/ACA snoRNA 3' hairpin,34,Homo sapiens,U65 box H/ACA snoRNA,SNORA65,127,16.0,70.00,0.081,RF00302
+6wbr_B,Crystal structure of AceCas9 bound with guide RNA and DNA with 5'-NNNCC-3' PAM,94,,RNA (94-MER),DUF3800-V,96,12.7,37.40,3.5,RF02964
+7xue_R,Cryo-EM structure of HK022 putRNA-associated E.coli RNA polymerase elongation complex,95,,RNA (nun gene and immunity region),Ms_AS-1,98,10.1,37.00,2.7,RF02463
+3skl_B,"Crystal structure of the 2'- deoxyguanosine riboswitch bound to 2'-deoxyguanosine, iridium hexammine soak",66,Mesoplasma florum,RNA (66-MER),MFR,63,80.1,82.70,2.6e-18,RF01510
+5t5h_H,Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit,91,,srRNA4,mir-8834,105,11.6,39.00,6.1,RF03874
+4adx_8,The Cryo-EM Structure of the Archaeal 50S Ribosomal Subunit in Complex with Initiation Factor 6,133,,23S Ribosomal RNA EXPANSION SEGMENTS,ryfA,296,13.0,80.00,0.072,RF00126
+6ufm_B,Cocrystal Structure of the Nocardia farcinica ileS T-box riboswitch in complex with its cognate tRNA,98,Nocardia farcinica,RNA (98-MER),Pab160,68,15.0,47.40,1.2,RF02796
+5t5h_G,Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit,123,,srRNA2,LSU_rRNA_eukarya,3401,30.9,50.00,1.4e-06,RF02543
+2mtj_A,NMR structure of the III-IV-V three-way junction from the VS ribozyme,47,Neurospora crassa,RNA (47-MER),TB11Cs4H3,74,9.8,40.00,4.2,RF01541
+6kl9_G,Structure of LbCas12a-crRNA complex bound to AcrVA4 (form A complex),42,,RNA (42-MER),Corona_pk3,61,8.1,35.60,4.9,RF00165
+3npq_A,Structure of the S-adenosylhomocysteine riboswitch at 2.18 A,54,Ralstonia solanacearum,S-ADENOSYLHOMOCYSTEINE RIBOSWITCH,SAH_riboswitch,78,35.5,37.00,4.8e-06,RF01057
+2hw8_B,Structure of ribosomal protein L1-mRNA complex at 2.1 resolution.,36,Thermus thermophilus,36-MER,leuA-Halobacteria,53,5.7,47.90,9.0,RF03001
+5xh7_B,Crystal structure of the Acidaminococcus sp. BV3L6 Cpf1 RR variant in complex with crRNA and target DNA (TCCA PAM),43,Acidaminococcus sp. BV3L6,crRNA,sno_ncR4,82,10.6,103.00,2.5,RF02717
+7w0d_D,Dicer2-LoqsPD-dsRNA complex at mid-translocation state,52,,dsRNA,mir-3165,75,29.7,90.00,0.00013,RF04105
+7k4l_A,DENV1 SLA bottom stem RNA (DenvBS),36,Escherichia phage T7,DenvSLA RNA,DENV_SLA,70,27.3,35.40,0.00022,RF02340
+6cb3_B,Crystal structure of the L.Lactis YkoY riboswitch bound to cadmium,101,Lactococcus lactis,RNA (99-MER),yybP-ykoY,175,39.0,45.00,8.7e-10,RF00080
+6xn4_R,Structure of the Lactococcus lactis Csm CTR_3:2 CRISPR-Cas Complex,35,,Crispr RNA,freshwater-1,62,7.2,72.00,9.4,RF02979
+5xlo_K,Anti-CRISPR proteins AcrF1/2 bound to Csy surveillance complex with a 32nt spacer crRNA backbone region,60,,crRNA with 32nt spacer sequence,CRISPR-DR4,28,26.9,35.00,5e-05,RF01317
+7eu9_B,Crystal structure of the selenomethionine(SeMet)-derived Cas12i1 R-loop complex before target DNA cleavage,43,Lachnospiraceae bacterium ND2006,RNA (43-MER),rspL,88,10.3,37.00,8.6,RF01823
+2hvy_E,Crystal structure of an H/ACA box RNP from Pyrococcus furiosus,65,,H/ACA RNA,HgcE,130,17.6,50.00,0.014,RF00060
+8d29_C,Crystal structure of theophylline aptamer - apo form,34,,RNA (34-MER),Hairpin,52,8.4,65.00,4.0,RF00173
+2quw_B,Hammerhead Ribozyme G12A mutant after cleavage,57,Tobacco ringspot virus satellite RNA,"Hammerhead ribozyme, cleaved fragment",Hammerhead_3,54,20.3,41.80,0.0057,RF00008
+6iv9_B,the Cas13d binary complex,50,uncultured Ruminococcus sp.,crRNA (50-MER),UPD-PK2,21,12.0,32.00,1.9,RF01083
+1nbk_A,The structure of RNA aptamer for HIV Tat complexed with two argininamide molecules,34,,RNA aptamer,Tombus_3_IV,92,8.4,33.00,1.9,RF00176
+6m0x_B,Crystal structure of Streptococcus thermophilus Cas9 in complex with AGGA PAM,71,Streptococcus thermophilus,RNA (71-MER),MIR828,121,10.2,69.00,8.7,RF01026
+2xdb_G,A processed non-coding RNA regulates a bacterial antiviral system,40,Pectobacterium atrosepticum,TOXI,snopsi28S-3327,143,8.5,70.00,5.0,RF00544
+7elh_U,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,60,,RNA (60-MER),mir-297,71,11.6,90.00,4.4,RF04217
+1un6_F,THE CRYSTAL STRUCTURE OF A ZINC FINGER - RNA COMPLEX REVEALS TWO MODES OF MOLECULAR RECOGNITION,61,Xenopus laevis,5S ribosomal RNA,5S_rRNA,119,22.9,38.00,0.0017,RF00001
+6noa_A,Solution Structure of the RNA element that recruits eIF3 to the 5'-UTR of c-Jun and regulates specialized translation initiation (apical loop),56,Homo sapiens,C-JUN SL1,snoZ30,97,11.5,50.00,2.1,RF00288
+5ns3_C,Crystal structures of Cy5 cyanine fluorophores stacked onto the end of double-stranded RNA,34,Thermus thermophilus,double-stranded RNA,5S_rRNA,119,15.6,38.00,0.071,RF00001
+1e95_A,"Solution structure of the pseudoknot of SRV-1 RNA, involved in ribosomal frameshifting",36,Simian retrovirus 1,RNA (5'-(*GP*CP*GP*GP*CP*CP*AP*GP*CP*UP*CP* CP*AP*GP*GP*CP*CP*GP*CP*CP*AP*AP*AP*CP* AP*AP*UP*AP*UP*GP*GP*AP*GP*CP*AP*C)-3'),RF_site8,52,29.2,43.00,0.00012,RF01097
+1p5m_A,Solution Structure of HCV IRES Domain IIa,55,,55-MER,mir-879,74,10.4,90.00,4.8,RF00931
+8eug_2,Ytm1 associated nascent 60S ribosome State 3,165,,RNA (152-MER),5_8S_rRNA,154,174.3,42.00,3.3e-48,RF00002
+5mga_B,Structure of the Cpf1 endonuclease R-loop complex after DNA cleavage,40,Francisella tularensis subsp. novicida U112,RNA (40-MER),malK-II,50,10.6,52.90,3.3,RF03008
+6gov_R,Structure of THE RNA POLYMERASE LAMBDA-BASED ANTITERMINATION COMPLEX,66,,RNA (TRANSCRIPTION BUBBLE),algC,52,16.0,33.80,0.12,RF02929
+2li4_A,Solution structure of a shortened antiterminator hairpin from a Mg2+ riboswitch,32,Yersinia enterocolitica,RNA (32-MER),folP,102,10.5,99.00,1.2,RF02978
+3izz_B,Models for ribosome components that are nearest neighbors to the bovine mitochondrial initiation factor2 bound to the E. Coli ribosome,118,,"Helix 69, 71, 89, 92, 95 (Large Subunit)",LSU_rRNA_bacteria,2925,29.5,50.00,2.5e-08,RF02541
+5ddo_B,Structural and Dynamic Basis for Low Affinity-High Selectivity Binding of L-glutamine by the Gln-riboswitch,61,Synechococcus elongatus,L-glutamine riboswitch (58-MER),glnA,53,30.2,41.00,7.6e-06,RF01739
+6uvn_M,CryoEM structure of VcCascasde-TniQ complex,61,,crRNA,CRISPR-DR4,28,28.7,35.00,1.5e-05,RF01317
+5jup_EC,"Saccharomyces cerevisiae 80S ribosome bound with elongation factor eEF2-GDP-sordarin and Taura Syndrome Virus IRES, Structure II (mid-rotated 40S subunit)",201,,IRES,Cyano-1,69,17.4,41.00,0.36,RF01701
+1s03_A,The Structure of a Ribosomal Protein S8/spc Operon mRNA Complex,47,Escherichia coli,47-MER,queA,59,8.8,52.60,3.3,RF03093
+6xn5_R,Structure of the Lactococcus lactis Csm Apo- CRISPR-Cas Complex,32,,Crispr RNA,freshwater-1,62,7.2,72.00,8.6,RF02979
+1cql_A,NMR STRUCTURE OF SRP RNA DOMAIN IV,43,Escherichia coli,SRP DOMAIN IV RNA,Bacteria_small_SRP,97,34.2,40.00,3.9e-07,RF00169
+2om7_G,Structural Basis for Interaction of the Ribosome with the Switch Regions of GTP-bound Elongation Factors,54,,Fragment of23S rRNA (H68),LSU_rRNA_bacteria,2925,36.2,50.00,6.6e-11,RF02541
+5eeu_W,RADIATION DAMAGE TO THE TRAP-RNA COMPLEX: DOSE (DWD) 1.31 MGy,55,synthetic construct,(GAGUU)10GAG 53-NUCLEOTIDE RNA,mir-1017,71,9.2,50.00,7.2,RF02517
+2om7_H,Structural Basis for Interaction of the Ribosome with the Switch Regions of GTP-bound Elongation Factors,42,,Fragment of23S rRNA (H89),LSU_rRNA_bacteria,2925,27.7,50.00,3.7e-08,RF02541
+7n0c_T,Cryo-EM structure of the monomeric form of SARS-CoV-2 nsp10-nsp14 (E191A)-RNA complex,37,,RNA (25-MER),Sarbecovirus-3UTR,335,21.1,179.70,2.3e-05,RF03125
+6bhj_E,Structure of HIV-1 Reverse Transcriptase Bound to a 38-mer Hairpin Template-Primer RNA-DNA Aptamer,38,,38-MER RNA-DNA Aptamer,mir-3130,75,19.4,95.00,0.016,RF03736
+2n3q_A,NMR structure of the II-III-VI three-way junction from the VS ribozyme,62,synthetic construct,RNA (62-MER),HDV-F-prausnitzii,74,9.3,44.00,4.0,RF02682
+6pij_1,"Target DNA-bound V. cholerae TniQ-Cascade complex, closed conformation",60,,guide RNA,CRISPR-DR4,28,10.3,35.00,6.5,RF01317
+8a22_A9,Structure of the mitochondrial ribosome from Polytomella magna,69,,mt-5S,MIR9666,98,9.6,88.00,9.7,RF03465
+4v5z_AH,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,41,,RNA helix,RsmY,121,8.7,57.00,0.53,RF00195
+1r7z_A,"NMR STRUCTURE OF THE R(GGAGGACAUUCCUCACGGGUGACCGUGGUCCUCC), DOMAIN IV STEM-LOOP B OF ENTEROVIRAL IRES WITH AUUCCU BULGE",34,,34-MER,RAGATH-31,54,11.5,71.80,1.9,RF03101
+3vjr_B,Crystal structure of Peptidyl-tRNA hydrolase from Escherichia coli in complex with the CCA-acceptor-T[PSI]C domain of tRNA,36,Escherichia coli K-12,tRNA CCA-acceptor,cyano_tmRNA,288,16.8,70.00,0.00055,RF01851
+1mnx_A,The Solution Structure of the Loop E Region of the 5S rRNA from Spinach Chloroplasts.,42,Spinacia oleracea,Loop E from 5S rRNA,SBWMV2_UPD-PKb,29,8.9,39.00,6.2,RF01104
+8a22_A1,Structure of the mitochondrial ribosome from Polytomella magna,109,,mtLSU-1,RAGATH-17,96,13.6,102.30,8.9,RF03095
+7k16_P,Tamana Bat Virus xrRNA1,51,Tamana bat virus,RNA (51-MER),Flavi_ISFV_repeat_Ra_Rb,100,18.7,50.00,0.054,RF03542
+6zj3_LN,Cryo-EM structure of the highly atypical cytoplasmic ribosome of Euglena gracilis,86,,LSU rRNA chain 13,mir-939,82,12.6,84.00,3.6,RF00981
+7ljy_B,Cryo-EM structure of the B dENE construct complexed with a 28-mer poly(A),76,Oryza sativa,B dENE construct,mir-3130,75,13.4,95.00,1.2,RF03736
+2mxl_A,Structural features of a 3' splice site in influenza A: 39-nt hairpin,39,synthetic construct,RNA (39-MER),skipping-rope,85,8.3,36.70,6.4,RF02924
+8gs2_R,Structure of the Cas7-11-Csx29-guide RNA-target RNA (non-matching PFS) complex,95,,crRNA,bantam,82,14.3,55.00,1.1,RF00727
+7q4k_D2,Erythromycin-stalled Escherichia coli 70S ribosome with streptococcal MsrDL nascent chain,77,,Met-tRNA (P site),tRNA,71,69.6,29.00,1.3e-16,RF00005
+3j45_4,Structure of a non-translocating SecY protein channel with the 70S ribosome,61,,23S ribosomal RNA,LSU_rRNA_bacteria,2925,35.5,50.00,1.3e-10,RF02541
+2i7z_B,GAAA tetraloop receptor complex with associated manganese ions.,43,,43-MER,ncr1015,121,16.3,60.00,0.66,RF02449
+1u3k_A,The solution structure of a substrate of archaeal pre-tRNA splicing endonucleases,38,,ABISS7,DUF3800-XI,48,8.3,37.80,1.7,RF02975
+3jcs_3,2.8 Angstrom cryo-EM structure of the large ribosomal subunit from the eukaryotic parasite Leishmania,213,,26S gamma ribosomal RNA,SNORD42,68,14.8,39.00,4.5,RF00150
+7cyq_I,Cryo-EM structure of an extended SARS-CoV-2 replication and transcription complex reveals an intermediate state in cap synthesis,33,,Primer,MIR528,89,11.5,62.00,0.85,RF04083
+3lqx_B,SRP ribonucleoprotein core complexed with cobalt hexammine,49,Escherichia coli,SRP RNA,Bacteria_small_SRP,97,33.7,40.00,6.1e-07,RF00169
+6pmo_A,Co-crystal structure of the Geobacillus kaustophilus glyQ T-box riboswitch discriminator domain in complex with tRNA-Gly,66,Geobacillus kaustophilus,T-box riboswitch discriminator,T-box,224,34.8,93.00,2e-07,RF00230
+6ltu_B,Crystal structure of Cas12i2 ternary complex with double Mg2+ bound in catalytic pocket,58,synthetic construct,RNA (56-mer),mir-1912,77,11.6,72.00,1.8,RF02017
+8ea4_7,"V-K CAST Transpososome from Scytonema hofmanni, minor configuration",265,,sg_RNA,sroH,161,8.5,80.00,3.6,RF00372
+7krp_T,Structure of SARS-CoV-2 backtracked complex complex bound to nsp13 helicase - BTC (local refinement),55,,RNA (36-MER),Sarbecovirus-3UTR,335,32.9,179.70,7.5e-09,RF03125
+1duh_A,CRYSTAL STRUCTURE OF THE CONSERVED DOMAIN IV OF E. COLI 4.5S RNA,45,,4.5S RNA DOMAIN IV,Bacteria_small_SRP,97,36.4,40.00,9.6e-08,RF00169
+7elh_T,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,60,,RNA (60-MER),mir-297,71,11.6,90.00,4.4,RF04217
+1pn7_C,"Coordinates of S12, L11 proteins and P-tRNA, from the 70S X-ray structure aligned to the 70S Cryo-EM map of E.coli ribosome",62,,P-tRNA,TB6Cs1H3,64,13.1,40.00,0.74,RF01547
+2n6x_A,NMR Assignment and structure of CssA5 (middle region) of CssA thermometer from Neisseria meningitidis,43,Neisseria meningitidis,RNA (43-MER),HIV-1_SD,19,10.2,30.00,5.1,RF01380
+1g1x_E,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",44,,16S ribosomal RNA,weev_FSE,27,12.4,40.00,3.6,RF01836
+4pr6_B,A Second Look at the HDV Ribozyme Structure and Dynamics.,144,Homo sapiens,HDV RIBOZYME SELF-CLEAVED,HDV_ribozyme,91,38.9,50.00,0.00015,RF00094
+6e9e_B,EsCas13d-crRNA binary complex,51,bacterium,crRNA (52-MER),SNORD56,71,12.9,36.00,0.81,RF00275
+6sdy_B,Solution structure of Staufen1 dsRBD4 - hARF1 SBS dsRNA complex.,34,Homo sapiens,hARF1 SBS dsRNA,PhotoRC-I,44,16.1,45.00,0.0062,RF01716
+7pkt_4,Large subunit of the Chlamydomonas reinhardtii mitoribosome,118,,L4 rRNA,LSU_rRNA_bacteria,2925,30.9,50.00,8.7e-09,RF02541
+6e9f_B,EsCas13d-crRNA-target RNA ternary complex,52,bacterium,crRNA (52-MER),SNORD56,71,10.9,36.00,2.9,RF00275
+4oog_D,Crystal structure of yeast RNase III (Rnt1p) complexed with the product of dsRNA processing,34,,34-mer RNA,MIR4387,109,11.2,84.00,1.5,RF04151
+2pcw_A,Solution Structure of an rRNA Substrate Bound to the Pseudouridylation Pocket of a Box H/ACA snoRNA,35,Homo sapiens,U65 box H/ACA snoRNA,SNORA65,127,7.1,70.00,9.0,RF00302
+6yl5_I,Crystal structure of the SAM-SAH riboswitch with SAH,35,Roseobacter sp.,"Chains: A,B,C,D,E,F,G,H,I,J,K,L",SAM-SAH,49,37.9,40.00,2.7e-08,RF01727
+4qjd_D,Crystal Structure of Twister with the Nucleotide 5'- to the Cleavage Site Disordered at 3.1 A Resolution,47,,Twister RNA sequence,twister-P1,67,37.2,67.20,4.3e-08,RF03160
+5nfv_B,Crystal structure of catalytically inactive FnCas12 mutant bound to an R-loop structure containing a pre-crRNA mimic and full-length DNA target,46,synthetic construct,pre-crRNA,malK-II,50,10.2,52.90,4.6,RF03008
+7ptl_B,Mature conformer of a 6-helix bundle of RNA with clasp,720,synthetic construct,Chains: B,asX6,93,21.9,50.00,0.12,RF02239
+7qqp_A,SpCas9 bound to AAVS1 off-target3 DNA substrate,84,synthetic construct,AAVS1 sgRNA,tracrRNA,91,45.5,74.00,2.7e-07,RF02348
+4v8m_BH,High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome,135,Trypanosoma brucei,SHORT RRNA-IV OF THE LARGE RIBOSOMAL SUBUNIT,astro_FSE,55,7.9,70.00,5.2,RF01833
+1g1x_J,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",44,,16S ribosomal RNA,weev_FSE,27,12.4,40.00,3.6,RF01836
+7dmq_C,Cryo-EM structure of LshCas13a-crRNA-anti-tag RNA complex,37,Escherichia coli,Anti-tag target RNA,5_8S_rRNA,154,3.4,42.00,9.4,RF00002
+2ktz_A,Inhibitor Induced Structural Change in the HCV IRES Domain IIa RNA,38,Hepacivirus C,HCV IRES Domain IIa RNA,chrB-b,51,13.2,36.50,0.16,RF03086
+6w5c_B,Cryo-EM structure of Cas12i(E894A)-crRNA-dsDNA complex,59,Escherichia coli,crRNA,Ysr201,70,10.6,62.00,4.6,RF02853
+5h9f_L,Crystal structure of E. coli Cascade bound to a PAM-containing dsDNA target at 2.45 angstrom resolution.,61,,crRNA (61-MER),Chlorobi-1,67,15.7,50.00,0.01,RF01696
+7elh_N,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,60,,RNA (60-MER),mir-297,71,11.6,90.00,4.4,RF04217
+3siv_F,"Structure of a hPrp31-15.5K-U4atac 5' stem loop complex, dimeric form",32,,U4atac snRNA,U4atac,133,24.7,53.00,0.0011,RF00618
+2fey_A,The structure of stem loop IV of Tetrahymena telomerase RNA,43,,stem-loop IV of Tetrahymena telomerase RNA,5_8S_rRNA,154,9.6,42.00,0.19,RF00002
+4v5z_BI,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,72,,RNA Expansion segment ES15 part I,mir-Ro6-3,72,38.4,79.00,5.7e-06,RF03819
+8dk7_C,Crystal structure of theophylline aptamer soaked with TAL2,34,,RNA (34-MER),Hairpin,52,8.4,65.00,4.0,RF00173
+8e6w_8,"Escherichia coli Rho-dependent transcription pre-termination complex containing 18 nt long RNA spacer, lambda-tR1 rut RNA, Mg-ADP-BeF3, and NusG; Rho part",60,synthetic construct,lambda-tR1 rut RNA,algC,52,10.4,33.80,4.5,RF02929
+6az4_A,RNA hairpin complex with guanosine dinucleotide ligand G(5')ppp(5')G,32,synthetic construct,RNA (32-MER),SNORD105,87,8.5,45.00,7.7,RF00584
+6lqs_5A,Cryo-EM structure of 90S small subunit preribosomes in transition states (State D),700,,5' ETS,mir-627,87,20.2,86.00,0.062,RF03831
+4v5z_AD,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,42,,RNA Expansion segment ES6 part I,astro_FSE,55,8.3,70.00,1.2,RF01833
+6s8b_U,"Cryo-EM structure of the Type III-B Cmr-beta bound to cognate target RNA and AMPPnP, state 1",46,,Cognate target RNA (46-mer),CRISPR-DR12,30,9.3,37.00,7.4,RF01325
+2l2j_A,Solution NMR structure of the lower part of the R/G stem loop RNA,42,Homo sapiens,RNA (42-MER),mir-2985-2,81,27.8,67.00,6.8e-05,RF02095
+2fdt_A,Solution structure of a conserved RNA hairpin of eel LINE UnaL2,36,,36-mer,UnaL2,54,40.2,55.00,8.1e-08,RF00436
+8cti_C,Cryo-EM structure of human METTL1-WDR4-tRNA(Val) complex,73,,tRNA-Val-TAC-2-1,tRNA,71,65.5,29.00,1.7e-15,RF00005
+4uyk_R,Crystal structure of a Signal Recognition Particle Alu domain in the elongation arrest conformation,134,,SRP RNA,Archaea_SRP,318,77.3,89.00,1.8e-18,RF01857
+6pom_A,Cryo-EM structure of the full-length Bacillus subtilis glyQS T-box riboswitch in complex with tRNA-Gly,169,Bacillus subtilis,T-box GlyQS leader (155-MER),T-box,224,76.5,93.00,8.8e-18,RF00230
+7elh_R,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,60,,RNA (60-MER),mir-297,71,11.6,90.00,4.4,RF04217
+4u7u_L,Crystal structure of RNA-guided immune Cascade complex from E.coli,61,,crRNA,Chlorobi-1,67,15.4,50.00,0.013,RF01696
+2lu0_A,NMR solution structure of the kappa-zeta region of S.cerevisiae group II intron ai5(gamma),49,Saccharomyces cerevisiae,RNA (49-MER),ceN108,70,12.8,50.00,0.63,RF01611
+5fq5_A,Crystal structure of Cas9-sgRNA-DNA complex solved by native SAD phasing,84,synthetic construct,SGRNA,tracrRNA,91,45.5,74.00,2.7e-07,RF02348
+4x4u_G,Crystal structure of the A.fulgidus CCA-adding enzyme in complex with a human MenBeta minihelix ending in CCACC,37,Homo sapiens,human MenBeta minihelix,mascRNA-menRNA,56,23.6,42.00,0.00063,RF01684
+7v9e_A,Crystal structure of a methyl transferase ribozyme,68,Homo sapiens,RNA (68-MER),mir-584,97,9.8,62.00,7.9,RF01016
+5t5h_E,Structure and assembly model for the Trypanosoma cruzi 60S ribosomal subunit,146,,srRNA1,SNORD42,68,13.3,39.00,6.9,RF00150
+1yls_B,Crystal structure of selenium-modified Diels-Alder ribozyme complexed with the product of the reaction between N-pentylmaleimide and covalently attached 9-hydroxymethylanthracene,38,,RNA Diels-Alder ribozyme,ASdes,68,11.6,40.00,0.6,RF01781
+7qi4_B,Human mitochondrial ribosome at 2.2 A resolution,73,,mitochondrial tRNAVal,tRNA,71,28.1,29.00,4.9e-05,RF00005
+2n3r_A,NMR structure of the II-III-VI three-way junction from the VS ribozyme and identification of magnesium-binding sites using paramagnetic relaxation enhancement,62,Neurospora crassa,RNA (62-MER),HDV-F-prausnitzii,74,9.3,44.00,4.0,RF02682
+4v5z_BN,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,78,,RNA Expansion segment ES27,Yfr1,59,8.4,38.00,7.3,RF01116
+3pla_G,Crystal structure of a catalytically active substrate-bound box C/D RNP from Sulfolobus solfataricus,40,,C/D guide RNA,SNORD90,111,13.7,41.00,1.6,RF00579
+6d3p_A,Crystal structure of an exoribonuclease-resistant RNA from Sweet clover necrotic mosaic virus (SCNMV),45,Sweet clover necrotic mosaic virus,RNA (45-MER),PLRV_xrRNA,57,10.3,32.40,2.9,RF04222
+5ml7_B,CRYSTAL STRUCTURE OF L1-STALK FRAGMENT OF 23S rRNA FROM HALOARCULA MARISMORTUI,96,Haloarcula marismortui,23S ribosomal RNA,LSU_rRNA_archaea,2987,44.4,50.00,1.1e-12,RF02540
+7re1_T,SARS-CoV-2 replication-transcription complex bound to nsp13 helicase - nsp13(2)-RTC (composite),55,,Template RNA,Sarbecovirus-3UTR,335,32.9,179.70,7.5e-09,RF03125
+8a22_A5,Structure of the mitochondrial ribosome from Polytomella magna,142,,mtLSU-5,LSU_rRNA_bacteria,2925,41.3,50.00,3.5e-12,RF02541
+7d3j_B,Crystal structure of the Cas12i1 R-loop complex after target DNA cleavage,43,Lachnospiraceae bacterium ND2006,RNA (43-MER),rspL,88,10.3,37.00,8.6,RF01823
+4pcj_A,Modifications to toxic CUG RNAs induce structural stability and rescue mis-splicing in Myotonic Dystrophy,35,synthetic construct,trCUG-3('5),c-di-GMP-I,87,10.6,35.00,1.0,RF01051
+3r9w_B,Crystal structure of Era in complex with MgGDPNP and nucleotides 1506-1542 of 16S ribosomal RNA,34,Aquifex aeolicus,RNA301,SSU_rRNA_eukarya,1831,25.2,50.00,1.8e-06,RF01960
+3j45_2,Structure of a non-translocating SecY protein channel with the 70S ribosome,36,,23S ribosomal RNA,LSU_rRNA_bacteria,2925,14.5,50.00,0.00083,RF02541
+1kh6_A,Crystal Structure of an RNA Tertiary Domain Essential to HCV IRES-mediated Translation Initiation.,53,,JIIIabc,IRES_HCV,252,39.4,100.00,1.9e-10,RF00061
+5ydt_SA,"Remodeled Utp30 in 90S pre-ribosome (Mtr4-depleted, Enp1-TAP)",64,,"Saccharomyces cerevisiae strain ALI 308 18S ribosomal RNA gene, partial sequence",SSU_rRNA_eukarya,1831,27.5,50.00,6.6e-07,RF01960
+8dg7_F,Structural Basis of MicroRNA Biogenesis by Dicer-1 and Its Partner Protein Loqs-PB - complex III,38,,RNA (38-MER),let-7,84,10.1,50.00,3.3,RF00027
+5une_A,Dimerized Structure Gives Further Insight Into the Function of the Novel RNA Gene: HAR1,47,Homo sapiens,RNA (47-MER),HAR1A,118,26.1,40.00,8.7e-07,RF00635
+1r7w_A,"NMR STRUCTURE OF THE R(GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC), DOMAIN IV STEM-LOOP B OF ENTEROVIRAL IRES WITH AUCCCU BULGE",34,,34-MER,SBWMV2_UPD-PKk,21,9.3,35.00,3.7,RF01111
+7lys_B,Cryo-EM structure of CasPhi-2 (Cas12j) bound to crRNA and DNA,45,Phage #D,crRNA,Antizyme_FSE,59,11.6,40.00,1.2,RF00381
+6svs_A,Crystal Structure of U:A-U-rich RNA triple helix with 11 consecutive base triples,77,Homo sapiens,RNA (79-mer),Ref84,87,18.6,52.00,0.66,RF02846
+6u79_A,Solution NMR structure of 5' UTR stem loop B from West Nile Virus,37,West Nile virus,5' UTR region stem loop,Flavivirus-5UTR,156,15.2,80.00,0.054,RF03546
+5y36_B,Cryo-EM structure of SpCas9-sgRNA-DNA ternary complex,99,Mus musculus,single-guide RNA,tracrRNA,91,62.6,74.00,8.1e-11,RF02348
+2n8v_X,"An NMR/SAXS structure of the PKI domain of the honeybee dicistrovirus, Israeli acute paralysis virus (IAPV) IRES",70,Apis mellifera,RNA (70-MER),mir-1537,61,11.8,63.00,2.9,RF03638
+7jl3_X,Cryo-EM structure of RIG-I:dsRNA filament in complex with RIPLET PrySpry domain (trimer),42,,dsRNA strand1,snoZ17,71,9.4,44.00,7.1,RF00266
+6sdw_B,Solution structure of Staufen1 dsRBD3+4 - hARF1 SBS dsRNA complex.,34,Homo sapiens,hARF1 SBS dsRNA,PhotoRC-I,44,16.1,45.00,0.0062,RF01716
+7w0e_D,dmDicer2-LoqsPD-dsRNA Active-dicing status,53,,dsRNA,mir-3165,75,29.7,90.00,0.00013,RF04105
+1xhp_A,Solution Structure of the Extended U6 ISL as Observed in the U2/U6 complex from Saccharomyces cerevisiae,32,,U6 snRNA,U6,104,18.1,44.00,0.0029,RF00026
+1raw_A,"ATP BINDING RNA APTAMER IN COMPLEX WITH AMP, NMR, 10 STRUCTURES",36,,RNA APTAMER,serC,52,6.0,35.00,7.7,RF00517
+2kx8_A,NMR structure of stem-loop 4 from the human 7SK snRNA in complex with arginine,42,Homo sapiens,7SK,7SK,330,34.5,35.00,6.5e-09,RF00100
+7ele_G,Cryo-EM structure of Arabidopsis DCL1 in complex with pre-miRNA 166f,89,Arabidopsis thaliana,pre-miRNA 166f,mir-166,126,56.7,60.00,3.1e-14,RF00075
+7pkt_2,Large subunit of the Chlamydomonas reinhardtii mitoribosome,86,,L2a rRNA,6A,52,15.4,41.20,0.43,RF02925
+7pd3_B,Structure of the human mitoribosomal large subunit in complex with NSUN4.MTERF4.GTPBP7 and MALSU1.L0R8F8.mt-ACP,69,,mt-tRNAVal,tRNA,71,28.1,29.00,4.7e-05,RF00005
+4m4o_B,Crystal structure of the aptamer minE-lysozyme complex,59,Gallus gallus,RNA (59-MER),L31-Firmicutes,30,7.9,33.30,7.4,RF03156
+7w0c_C,Dicer2-Loqs-PD-dsRNA complex at early-translocation state,52,,RNA (35-MER),mir-3165,75,29.7,90.00,0.00013,RF04105
+4kzd_R,Crystal structure of an RNA aptamer in complex with fluorophore and Fab,84,,RNA (84-MER),mir-3145,84,15.0,98.00,0.56,RF03498
+2oeu_A,Full-length hammerhead ribozyme with Mn(II) bound,43,,Hammerhead Ribozyme,Hammerhead_1,46,27.6,34.00,1e-05,RF00163
+3rw6_H,Structure of nuclear RNA export factor TAP bound to CTE RNA,62,Homo sapiens,constitutive transport element(CTE)of Mason-Pfizer monkey virus RNA,Cobalamin,189,9.5,31.50,0.36,RF00174
+6ufg_A,Co-crystal structure of M. tuberculosis ileS T-box in complex with tRNA-3'-OH,166,Mycobacterium tuberculosis,RNA (166-MER),T-box,224,23.2,93.00,0.00049,RF00230
+7w0d_C,Dicer2-LoqsPD-dsRNA complex at mid-translocation state,52,,dsRNA,mir-3165,75,29.7,90.00,0.00013,RF04105
+8aw3_1,Cryo-EM structure of the TbADAT2/3 deaminase in complex with tRNA,75,,RNA (75-MER),tRNA,71,64.2,29.00,4e-15,RF00005
+2nue_C,Crystal structure of RNase III from Aquifex aeolicus complexed with ds-RNA at 2.9-Angstrom Resolution,46,Aquifex aeolicus,46-MER,mir-3122,73,22.3,92.00,0.006,RF03366
+2lpt_A,Molecular dynamics re-refinement of domain 5 of the Pylaiella littoralis group II intron,34,,RNA_(34-MER),Intron_gpII,93,39.9,40.00,5.5e-08,RF00029
+7dlz_X,Crystal Structure of Methyltransferase Ribozyme,45,synthetic construct,RNA (45-MER),mir-B8,67,10.5,90.00,9.2,RF03890
+7oax_A,Crystal structure of the Chili RNA aptamer in complex with DMHBO+,52,synthetic construct,Chili RNA Aptamer,KDPG-aldolase,88,8.8,54.60,5.6,RF03115
+5xlp_K,Anti-CRISPR proteins AcrF1/2 bound to Csy surveillance complex with a 20nt spacer crRNA backbone region,48,,crRNA with 20nt spacer sequence,CRISPR-DR4,28,26.9,35.00,4e-05,RF01317
+4rbq_A,32 base pair oligo(U) RNA,32,synthetic construct,U-Helix RNA from Trypanosome editing,mir-1252,65,11.8,70.00,2.7,RF03623
+5de8_A,"Crystal structure of the complex between human FMRP RGG motif and G-quadruplex RNA, iridium hexammine bound form.",35,synthetic construct,sc1,GlsR17_miR2,63,12.3,84.00,0.54,RF02339
+2pcv_A,Solution Structure of an rRNA Substrate Bound to the Pseudouridylation Pocket of a Box H/ACA snoRNA,35,Homo sapiens,U65 Box H/ACA snoRNA,SNORA65,127,7.1,70.00,9.0,RF00302
+5xwp_C,Crystal structure of LbuCas13a-crRNA-target RNA ternary complex,59,synthetic construct,RNA (59-MER),CRISPR-DR32,37,13.3,48.00,2.0,RF01342
+2oiu_P,L1 Ribozyme Ligase circular adduct,71,,L1 Ribozyme RNA Ligase,Transposase-2,69,8.4,42.70,5.4,RF03015
+4v5z_BG,Structure of a mammalian 80S ribosome obtained by docking homology models of the RNA and proteins into an 8.7 A cryo-EM map,48,,RNA Expansion segment ES9,mir-574,77,28.5,80.00,0.0009,RF00929
+1i9f_A,STRUCTURAL CHARACTERIZATION OF THE COMPLEX OF THE REV RESPONSE ELEMENT RNA WITH A SELECTED PEPTIDE,34,,REV RESPONSE ELEMENT RNA,RRE,337,8.1,104.00,0.16,RF00036
+5f9r_A,Crystal structure of catalytically-active Streptococcus pyogenes CRISPR-Cas9 in complex with single-guided RNA and double-stranded DNA primed for target DNA cleavage,118,Streptococcus pyogenes MGAS8232,RNA (116-MER),tracrRNA,91,73.4,74.00,4.9e-13,RF02348
+1p5n_A,Solution Structure of HCV IRES Domain IIb,34,,34-MER,IRES_HCV,252,15.2,100.00,0.0024,RF00061
+7qca_S60,Spraguea lophii ribosome,1368,,RNA SSU,SSU_rRNA_microsporidia,1311,1179.1,50.00,0.0,RF02542
+8ac0_R,"RNA polymerase at U-rich pause bound to regulatory RNA putL - active, closed clamp state",93,,putL RNA,Ms_AS-1,98,9.4,37.00,3.9,RF02463
+7qca_L70,Spraguea lophii ribosome,119,,RNA 5S,5S_rRNA,119,93.6,38.00,1.8e-21,RF00001
+7xui_R,Cryo-EM structure of sigma70 bound HK022 putRNA-associated E.coli RNA polymerase elongation complex,122,,RNA (122-mer),rsmX,114,24.8,56.00,0.0016,RF02144
+6eri_AB,Structure of the chloroplast ribosome with chl-RRF and hibernation-promoting factor,106,,4.5S ribosomal RNA,LSU_rRNA_bacteria,2925,33.8,50.00,8.2e-10,RF02541
+7qca_L50,Spraguea lophii ribosome,2618,,RNA 23S,LSU_rRNA_eukarya,3401,1664.0,50.00,0.0,RF02543
+6ydw_AY,55S mammalian mitochondrial ribosome with mtEFG1 and two tRNAMet (TI-POST),71,,tRNAMet,tRNA,71,25.9,29.00,0.0002,RF00005
+7qr8_A,SpCas9 bound to PTPRC off-target1 DNA substrate,85,synthetic construct,PTPRC sgRNA,tracrRNA,91,45.5,74.00,2.7e-07,RF02348
+2nc1_A,Solution structure of the delta-J-delta-K domain of EMCV IRES,67,synthetic construct,IRES RNA (67-MER),IRES_Picorna_2,462,23.7,50.00,2.3e-06,RF00210
+5t16_H,Crystal structure of yeast RNase III (Rnt1p) complexed with a non-hydrolyzable RNA substrate analog,34,,RNA substrate analog,mir-3130,75,13.3,95.00,0.57,RF03736
+6p5n_1,Structure of a mammalian 80S ribosome in complex with a single translocated Israeli Acute Paralysis Virus IRES and eRF1,251,,IAPV-IRES,IMES-4,80,15.9,48.00,1.4,RF02037
+4plx_A,Crystal structure of the triple-helical stability element at the 3' end of MALAT1,76,Homo sapiens,Core ENE hairpin and A-rich tract from MALAT1,mir-737,63,17.3,60.00,0.48,RF03956
+5y7m_D,Crystal structure of PhoRpp38 bound to a K-turn in P12.1 helix,51,Pyrococcus horikoshii OT3,RNA (52-MER),sR60,55,10.9,50.00,0.78,RF01309
+7eqg_M,Structure of Csy-AcrIF5,60,,RNA (60-MER),CRISPR-DR4,28,26.9,35.00,5e-05,RF01317
+8a22_A4,Structure of the mitochondrial ribosome from Polytomella magna,73,,mtLSU-4,LSU_rRNA_bacteria,2925,20.4,50.00,1.8e-05,RF02541
+6w2t_A,Structure of the Cricket Paralysis Virus 5-UTR IRES (CrPV 5-UTR-IRES) bound to the small ribosomal subunit in the closed state (Class 2),377,,CrPV 5'-UTR IRES,KRAS_3UTR,49,21.8,49.00,1.7,RF02584
+2jtp_A,Solution Structure of the Frameshift-Inducing RNA Stem-Loop in SIV,34,,SIV17-50 RNA (34-MER),HIV_FS2,45,40.1,44.00,7.4e-09,RF01835
+2r8s_R,High resolution structure of a specific synthetic FAB bound to P4-P6 RNA ribozyme domain,159,,P4-P6 RNA RIBOZYME DOMAIN,Intron_gpI,251,39.2,50.00,5.1e-09,RF00028
+6dme_A,"ppGpp Riboswitch bound to ppGpp, thallium acetate structure",102,Sulfobacillus acidophilus DSM 10332,ppGpp Riboswitch,ykkC-yxkD,107,32.0,63.00,5.1e-05,RF00442
+7eni_B,Crystal structure of cas and anti-cas protein complex,74,,sgRNA (74-MER),IRES_Kv1_4,260,6.0,100.00,6.3,RF00447
+4oji_A,Crystal Structure of Twister Ribozyme,54,,RNA (52-MER),twister-P1,67,58.3,67.20,3.1e-14,RF03160
+6dn2_Y,CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1354 SPLIT RNA,56,Fusobacterium nucleatum,RNA (56-MER),FMN,138,46.5,66.20,8.9e-11,RF00050
+7b3c_T,Structure of elongating SARS-CoV-2 RNA-dependent RNA polymerase with Remdesivir at position -4 (structure 2),57,,RNA (5'-R(P*UP*CP*AP*CP*UP*UP*GP*CP*GP*UP*AP*G)-3'),mir-4081,51,14.7,70.00,0.61,RF03867
+3aoi_U,RNA polymerase-Gfh1 complex (Crystal type 2),32,,RNA (5'-R(*CP*CP*CP*GP*GP*AP*AP*GP*AP*UP*CP*AP*UP*CP*UP*UP*CP*CP*GP*GP*GP*GP*GP*AP*U*GP*CP*GP*GP*CP*GP*G)-3'),His_leader,127,19.2,49.00,0.023,RF00514
+5btm_A,Crystal structure of AUUCU repeating RNA that causes spinocerebellar ataxia type 10 (SCA10),55,Homo sapiens,RNA (55-mer),SNORD93,74,11.2,60.00,3.9,RF00606
+8d8l_a,Yeast mitochondrial small subunit assembly intermediate (State 3),1713,,15S ribosomal RNA,SSU_rRNA_bacteria,1533,260.2,50.00,1.1e-80,RF00177
+1txs_A,STEM-LOOP D OF THE CLOVERLEAF DOMAIN OF ENTEROVIRAL 5'UTR RNA,38,,Enteroviral 5'-UTR,Entero_5_CRE,90,34.3,46.00,1.4e-07,RF00386
+7m5o_B,Cryo-EM structure of CasPhi-2 (Cas12j) bound to crRNA,45,Phage #D,crRNA,Antizyme_FSE,59,11.6,40.00,1.2,RF00381
+5lzc_x,Structure of SelB-Sec-tRNASec bound to the 70S ribosome in the codon reading state (CR),48,,SECIS mRNA,SECIS_2,55,36.0,70.00,5.7e-07,RF01988
+6gaz_AV,Unique features of mammalian mitochondrial translation initiation revealed by cryo-EM. This file contains the 28S ribosomal subunit.,71,,"P-site fMet-tRNAMet, mitochondrial",tRNA,71,25.9,29.00,0.0002,RF00005
+2qwy_C,SAM-II riboswitch bound to S-adenosylmethionine,52,,SAM-II riboswitch,SAM_alpha,79,27.7,36.00,1.5e-05,RF00521
+4rge_C,Crystal structure of the in-line aligned env22 twister ribozyme,56,synthetic construct,env22 twister ribozyme,twister-P1,67,45.7,67.20,1.5e-10,RF03160
+3gs5_C,An all-RNA hairpin ribozyme A38N1dA variant with a product mimic substrate strand,36,,RNA (36-MER),Hairpin,52,33.2,65.00,4.8e-06,RF00173
+6dn2_X,CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1354 SPLIT RNA,54,Fusobacterium nucleatum,RNA RIBOSWITCH,FMN,138,41.3,66.20,2.2e-09,RF00050
+3j0o_a,Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 9A cryo-EM map: classic PRE state 2,48,,40S ribosomal RNA fragment,SSU_rRNA_eukarya,1831,47.6,50.00,3.7e-13,RF01960
+5une_B,Dimerized Structure Gives Further Insight Into the Function of the Novel RNA Gene: HAR1,47,Homo sapiens,RNA (47-MER),HAR1A,118,26.1,40.00,8.7e-07,RF00635
+8asw_X,Cryo-EM structure of yeast Elp123 in complex with alanine tRNA,73,,Alanine tRNA,tRNA,71,62.9,29.00,9.4e-15,RF00005
+1t1m_B,Binding position of ribosome recycling factor (RRF) on the E. coli 70S ribosome,42,Escherichia coli,42-mer fragment of double helix from 16S rRNA,SSU_rRNA_bacteria,1533,17.8,50.00,0.00018,RF00177
+5w1h_B,Crystal structure of LbaCas13a (C2c2) bound to mature crRNA (24-nt spacer),52,Lachnospiraceae bacterium,mature crRNA,CRISPR-DR32,37,10.3,48.00,10.0,RF01342
+5fj4_H,Structure of the standard kink turn HmKt-7 as stem loop bound with U1A and L7Ae proteins,35,,HMKT-7,U1,166,5.8,66.00,2.4,RF00003
+5o7h_A,Structure of the Cascade-I-Fv complex from Shewanella putrefaciens,43,,crRNA,CRISPR-DR4,28,30.2,35.00,3.5e-06,RF01317
+1c9s_W,CRYSTAL STRUCTURE OF A COMPLEX OF TRP RNA-BINDING ATTENUATION PROTEIN WITH A 53-BASE SINGLE STRANDED RNA CONTAINING ELEVEN GAG TRIPLETS SEPARATED BY AU DINUCLEOTIDES,55,Geobacillus stearothermophilus,SINGLE STRANDED RNA (55-MER),MIR1886,54,10.9,62.00,3.1,RF03803
+8gs2_D,Structure of the Cas7-11-Csx29-guide RNA-target RNA (non-matching PFS) complex,33,,target RNA with non-matching PFS,MS2,36,18.8,40.00,0.0015,RF02359
+7jnh_B,Crystal structure of a double-ENE RNA stability element in complex with a 28-mer poly(A) RNA,86,Oryza sativa,"Core double ENE RNA (Xtal construct) from Oryza sativa transposon,Core double ENE RNA (Xtal construct) from Oryza sativa transposon",MIR821,275,8.0,166.00,4.0,RF00885
+3bo0_G,Ribosome-SecY complex,32,,23S ribosomal RNA,sR5,53,8.1,40.00,1.2,RF01304
+4by9_A,The structure of the Box CD enzyme reveals regulation of rRNA methylation,72,,SSR26,snoPyro_CD,58,23.3,45.00,0.00092,RF00095
+1g1x_D,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",41,,16S ribosomal RNA,Sarbecovirus-5UTR,298,3.4,150.00,8.3,RF03120
+3ep2_B,Model of Phe-tRNA(Phe) in the ribosomal pre-accommodated state revealed by cryo-EM,48,,Fragment H43-44 of the 23S rRNA,LSU_rRNA_bacteria,2925,46.0,50.00,3.2e-14,RF02541
+7y81_B,CryoEM structure of type III-E CRISPR Craspase gRAMP-crRNA complex bound to non-self RNA target,110,Candidatus Scalindua brodae,crRNA,mir-7578,82,15.6,60.00,0.24,RF03775
+2mhi_A,Solution structure of the CR4/5 domain of medaka telomerase RNA,53,,Medaka telomerase RNA,Telomerase-vert,436,25.0,70.00,1.5e-05,RF00024
+5k7d_A,"The structure of native pistol ribozyme, bound to Iridium",47,synthetic construct,RNA 47-MER,Pistol,70,33.8,34.00,2.6e-06,RF02679
+4cxg_a,Regulation of the mammalian elongation cycle by 40S subunit rolling: a eukaryotic-specific ribosome rearrangement,48,,18S RRNA - H5-H14,SSU_rRNA_eukarya,1831,41.2,50.00,3.3e-11,RF01960
+7lhd_A,The complete model of phage Qbeta virion,4217,,Genomic RNA,mir-2076,68,21.7,90.00,0.28,RF04036
+2oiu_Q,L1 Ribozyme Ligase circular adduct,71,,L1 Ribozyme RNA Ligase,Transposase-2,69,8.4,42.70,5.4,RF03015
+3x1l_I,Crystal Structure of the CRISPR-Cas RNA Silencing Cmr Complex Bound to a Target Analog,39,,RNA (32-MER),CRISPR-DR6,30,10.2,39.00,3.4,RF01319
+5u30_B,Crystal structure of AacC2c1-sgRNA-extended target DNA ternary complex,112,Alicyclobacillus acidoterrestris,sgRNA,mir-4880,75,14.7,100.00,0.61,RF04008
+7jrr_A,Crystal structures of artificially designed homomeric RNA nanoarchitectures,51,synthetic construct,RNA (50-MER),psaA,195,5.9,50.00,5.3,RF01752
+6vrb_B,Cryo-EM structure of AcrVIA1-Cas13(crRNA) complex,52,,RNA (52-MER),CRISPR-DR10,37,8.5,39.00,8.9,RF01323
+4mgn_A,Co-crystal structure of the G. kaustophilus glyQS T box riboswitch Stem I in complex with tRNA,86,Geobacillus kaustophilus,glyQS T box riboswitch,SpR19_sRNA,123,11.2,79.00,3.3,RF02447
+8a22_B2,Structure of the mitochondrial ribosome from Polytomella magna,214,,mtSSU-2,SSU_rRNA_bacteria,1533,28.3,50.00,3.8e-07,RF00177
+3j46_3,Structure of the SecY protein translocation channel in action,44,,23S ribosomal RNA,CRISPR-DR10,37,10.6,39.00,1.8,RF01323
+6iv6_G,Cryo-EM structure of AcrVA5-acetylated MbCas12a in complex with crRNA,59,synthetic construct,RNA (59-MER),mir-223,106,9.8,57.00,1.5,RF00664
+6vyt_7,"Escherichia coli transcription-translation complex A2 (TTC-A2) containing a 15 nt long mRNA spacer, NusG, and fMet-tRNAs at P-site and E-site",32,,mRNA with a 15 nt long spacer,ceN106,77,7.9,60.00,8.5,RF01526
+1qzw_F,Crystal structure of the complete core of archaeal SRP and implications for inter-domain communication,47,Saccharolobus solfataricus,7S RNA,Archaea_SRP,318,33.8,89.00,1.5e-07,RF01857
+8btz_A,Single-stranded Paranemic Crossover RNA Triangle (PXT),238,synthetic construct,RNA Paranemic croosover triangle (PXT),mtPerm-5S,106,31.4,39.00,0.00033,RF02547
+7elh_S,In situ structure of transcriptional enzyme complex and capsid shell protein of mammalian reovirus at initiation state,60,,RNA (60-MER),mir-297,71,11.6,90.00,4.4,RF04217
+6z1p_Aa,Structure of the mitochondrial ribosome from Tetrahymena thermophila,278,,LSU rRNA_1,LSU_rRNA_bacteria,2925,33.7,50.00,2.4e-09,RF02541
+7jrs_A,Crystal structures of artificially designed homomeric RNA nanoarchitectures,129,synthetic construct,RNA 3D nanocage,Actinomyces-1,110,14.2,39.10,1.8,RF02928
+4x4n_D,Crystal structure of the A.fulgidus CCA-adding enzyme in complex with a G70A arginyl-tRNA minihelix,32,Homo sapiens,G70A tRNA minihelix,tRNA,71,14.1,29.00,0.17,RF00005
+8apn_C1,Structure of the mitochondrial ribosome from Polytomella magna with tRNA bound to the P site,73,,P-site tRNA,tRNA,71,64.6,29.00,3e-15,RF00005
+1g1x_I,"STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA",41,,16S ribosomal RNA,Sarbecovirus-5UTR,298,3.4,150.00,8.3,RF03120
+4ts2_Y,"Crystal structure of the Spinach RNA aptamer in complex with DFHBI, magnesium ions",47,synthetic construct,"Spinach aptamer RNA, bimolecular construct",mir-2766,68,14.0,60.00,0.25,RF03970
+7s7b_H,Human Nuclear exosome targeting (NEXT) complex homodimer bound to RNA (substrate 1),46,,RNA (46-MER),MS2,36,25.9,40.00,2.1e-05,RF02359
+4zc7_B,Paromomycin bound to a leishmanial ribosomal A-site,92,synthetic construct,RNA duplex,naRNA4,77,25.1,59.50,0.0019,RF02564
+6ydp_AV,55S mammalian mitochondrial ribosome with mtEFG1 and P site fMet-tRNAMet (POST),71,,fMet-tRNAMet (P site),tRNA,71,25.9,29.00,0.0002,RF00005
+6tqn_R,rrn anti-termination complex without S4,85,,rrnGnut,Ysr197,254,25.7,167.00,1.9e-05,RF02849
